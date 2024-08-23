@@ -1,0 +1,71 @@
+03-05-2024 06:30:13.272Z;functions.bot_text_art;      ____     
+03-05-2024 06:30:13.272Z;functions.bot_text_art;     [____]    
+03-05-2024 06:30:13.272Z;functions.bot_text_art;   |=]()()[=|  
+03-05-2024 06:30:13.272Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+03-05-2024 06:30:13.272Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+03-05-2024 06:30:13.272Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+03-05-2024 06:30:13.272Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+03-05-2024 06:30:13.272Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+03-05-2024 06:30:13.272Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+03-05-2024 06:30:13.272Z;functions.bot_text_art;     |_||_|    
+03-05-2024 06:30:13.272Z;functions.bot_text_art;     | ||_|_   
+03-05-2024 06:30:13.272Z;functions.bot_text_art;   |___||___|  
+03-05-2024 06:30:13.272Z;functions.bot_text_art;               
+03-05-2024 06:30:13.288Z;functions.open_RM;  OPEN PROGRAM RM
+03-05-2024 06:30:18.521Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+03-05-2024 06:30:19.147Z;functions.loggin_RM;  ENCONTRA USE FIELD
+03-05-2024 06:30:19.241Z;functions.loggin_RM;  DUPLO CLICK
+03-05-2024 06:30:22.209Z;functions.loggin_RM;  ENTRAR USER_NAME
+03-05-2024 06:30:22.850Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+03-05-2024 06:30:22.928Z;functions.loggin_RM;  CLICK
+03-05-2024 06:30:25.038Z;functions.loggin_RM;  ENTRAR PASSWORD
+03-05-2024 06:30:25.710Z;functions.loggin_RM;  ENTRAR RM
+03-05-2024 06:30:43.788Z;functions.enter_coligada;  CLICK CONTEXTO
+03-05-2024 06:30:47.696Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+03-05-2024 06:30:49.945Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+03-05-2024 06:30:50.046Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+03-05-2024 06:30:50.881Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+03-05-2024 06:30:51.676Z;functions.enter_coligada;  CLICK CONCLUIR
+03-05-2024 06:31:01.429Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+03-05-2024 06:31:02.037Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+03-05-2024 06:31:03.100Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+03-05-2024 06:31:05.413Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+03-05-2024 06:31:07.758Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+03-05-2024 06:31:09.866Z;functions.waitForImage;  IMAGEM BORDERO image found.
+03-05-2024 06:31:11.997Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+03-05-2024 06:31:22.347Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+03-05-2024 06:31:24.804Z;functions.waitForImage;  LICENCE SERVER image not found.
+03-05-2024 06:31:25.352Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+03-05-2024 06:31:25.367Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+03-05-2024 06:31:29.572Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+03-05-2024 06:31:29.572Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+03-05-2024 06:31:31.489Z;functions.waitForImage;  FILTER CLEAN image found.
+03-05-2024 06:31:33.608Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+03-05-2024 06:31:48.631Z;functions.waitForImage;  FILTER CLEAN image not found.
+03-05-2024 06:32:04.187Z;functions.waitForImage;  FILTER CLEAN image not found.
+03-05-2024 06:32:22.194Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+03-05-2024 06:32:22.194Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+03-05-2024 06:32:37.731Z;functions.waitForImage;  FILTER CLEAN image not found.
+03-05-2024 06:32:53.280Z;functions.waitForImage;  FILTER CLEAN image not found.
+03-05-2024 06:33:08.810Z;functions.waitForImage;  FILTER CLEAN image not found.
+03-05-2024 06:33:40.696Z;functions.remessa_pagamento;  SEM PROCESSO DE BORDERO AUTORIZADO
+03-05-2024 06:33:42.241Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+03-05-2024 06:33:42.241Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+03-05-2024 06:33:42.241Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+03-05-2024 06:33:42.257Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+03-05-2024 06:33:42.257Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+03-05-2024 06:33:42.257Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+03-05-2024 06:33:42.304Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+03-05-2024 06:33:42.319Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+03-05-2024 06:33:42.319Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+03-05-2024 06:33:42.319Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+03-05-2024 06:33:42.335Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+03-05-2024 06:33:44.618Z;functions.emailFinalizado;  Warning e-mail sent.
+03-05-2024 06:33:44.704Z;functions.encerra_prog;  RM ENCERRADO

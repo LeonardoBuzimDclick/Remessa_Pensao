@@ -1,0 +1,11 @@
+31-10-2023 18:02:53.186Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+31-10-2023 18:02:53.911Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+31-10-2023 18:03:06.118Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+31-10-2023 18:03:13.947Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+31-10-2023 18:03:15.163Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+31-10-2023 18:03:16.396Z;functions.movimentacao_bancaria;  HOVER FILTER
+31-10-2023 18:03:16.530Z;functions.movimentacao_bancaria;  CLICK FILTER
+31-10-2023 18:03:20.840Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+31-10-2023 18:03:22.944Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+31-10-2023 18:03:25.053Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+31-10-2023 18:03:27.154Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES

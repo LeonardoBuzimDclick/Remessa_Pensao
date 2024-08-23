@@ -1,0 +1,24 @@
+01-03-2024 21:57:42.596Z;functions.bot_text_art;      ____     
+01-03-2024 21:57:42.596Z;functions.bot_text_art;     [____]    
+01-03-2024 21:57:42.596Z;functions.bot_text_art;   |=]()()[=|  
+01-03-2024 21:57:42.596Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+01-03-2024 21:57:42.596Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+01-03-2024 21:57:42.596Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+01-03-2024 21:57:42.596Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+01-03-2024 21:57:42.596Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+01-03-2024 21:57:42.596Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+01-03-2024 21:57:42.596Z;functions.bot_text_art;     |_||_|    
+01-03-2024 21:57:42.596Z;functions.bot_text_art;     | ||_|_   
+01-03-2024 21:57:42.596Z;functions.bot_text_art;   |___||___|  
+01-03-2024 21:57:42.596Z;functions.bot_text_art;               
+01-03-2024 21:57:42.612Z;functions.open_RM;  OPEN PROGRAM RM
+01-03-2024 22:47:45.085Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+01-03-2024 22:48:01.068Z;functions.loggin_RM;  ENCONTRA USE FIELD
+01-03-2024 22:48:01.068Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 12, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 80, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'

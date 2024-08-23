@@ -1,0 +1,24 @@
+25-10-2023 16:42:54.597Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+25-10-2023 16:42:55.818Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+25-10-2023 16:42:57.079Z;functions.processo_pagamento;  HOVER FILTER
+25-10-2023 16:42:59.202Z;functions.processo_pagamento;  CLICK FILTER
+25-10-2023 16:43:03.516Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+25-10-2023 16:43:05.618Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+25-10-2023 16:43:07.725Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+25-10-2023 16:43:09.827Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+25-10-2023 16:43:12.517Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+25-10-2023 16:43:14.621Z;functions.processo_pagamento;  CLICA EM PROCESSOS
+25-10-2023 16:43:16.723Z;functions.processo_pagamento;  APERTA PARA BAIXO 1
+25-10-2023 16:43:18.824Z;functions.processo_pagamento;  APERTA PARA BAIXO 2
+25-10-2023 16:43:20.926Z;functions.processo_pagamento;  APERTA PARA BAIXO 3
+25-10-2023 16:43:23.028Z;functions.processo_pagamento;  APERTA ENTER
+25-10-2023 16:43:25.681Z;functions.processo_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+25-10-2023 16:43:40.035Z;functions.processo_pagamento;  CLICA EM AVANÇAR
+25-10-2023 16:43:44.864Z;functions.processo_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+25-10-2023 16:43:45.514Z;functions.processo_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+25-10-2023 16:43:46.396Z;functions.processo_pagamento;  CLICA EM EXECUTAR
+25-10-2023 16:43:56.637Z;functions.waitForImage;  PRESS BUTTON OK image found.
+25-10-2023 16:43:58.639Z;functions.processo_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+25-10-2023 16:44:01.346Z;functions.processo_pagamento;  7 TABs ATE SELECIONAR FECHAR
+25-10-2023 16:44:03.447Z;functions.processo_pagamento;  ENTER EM FECHAR.
+25-10-2023 16:44:07.550Z;functions.processo_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA

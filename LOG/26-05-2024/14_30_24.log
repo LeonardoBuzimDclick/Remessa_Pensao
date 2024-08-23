@@ -1,0 +1,27 @@
+26-05-2024 14:30:24.754Z;functions.bot_text_art;      ____     
+26-05-2024 14:30:24.754Z;functions.bot_text_art;     [____]    
+26-05-2024 14:30:24.754Z;functions.bot_text_art;   |=]()()[=|  
+26-05-2024 14:30:24.754Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+26-05-2024 14:30:24.754Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+26-05-2024 14:30:24.754Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+26-05-2024 14:30:24.754Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+26-05-2024 14:30:24.754Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+26-05-2024 14:30:24.769Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+26-05-2024 14:30:24.769Z;functions.bot_text_art;     |_||_|    
+26-05-2024 14:30:24.769Z;functions.bot_text_art;     | ||_|_   
+26-05-2024 14:30:24.769Z;functions.bot_text_art;   |___||___|  
+26-05-2024 14:30:24.769Z;functions.bot_text_art;               
+26-05-2024 14:30:24.785Z;functions.open_RM;  OPEN PROGRAM RM
+26-05-2024 14:30:34.239Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+26-05-2024 14:30:35.442Z;functions.loggin_RM;  ENCONTRA USE FIELD
+26-05-2024 14:30:36.256Z;functions.loggin_RM;  DUPLO CLICK
+26-05-2024 14:30:43.261Z;functions.show_exception_and_exit;  Failed to set focus.
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 13, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 90, in loggin_RM
+    user_rm.send_hotkey(f'{user}')
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 157, in wrapper
+    raise exception;
+    ^^^^^^^^^^^^^^^
+clicknium.common.models.exceptions.WindowError: Failed to set focus.

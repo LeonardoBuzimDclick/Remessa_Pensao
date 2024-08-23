@@ -1,0 +1,4 @@
+04-02-2024 23:36:42.304Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+04-02-2024 23:36:43.049Z;functions.movimentacao_bancaria;  CLICK NO ICONE BORDERO DE PAGAMENTO
+04-02-2024 23:36:55.252Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+04-02-2024 23:36:55.252Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos

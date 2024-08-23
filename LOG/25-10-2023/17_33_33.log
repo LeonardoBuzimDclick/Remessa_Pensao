@@ -1,0 +1,60 @@
+25-10-2023 17:33:33.725Z;functions.bot_text_art;      ____   
+25-10-2023 17:33:33.725Z;functions.bot_text_art;     [____]    
+25-10-2023 17:33:33.725Z;functions.bot_text_art;   |=]()()[=|  
+25-10-2023 17:33:33.725Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-10-2023 17:33:33.725Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-10-2023 17:33:33.725Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-10-2023 17:33:33.726Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-10-2023 17:33:33.726Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-10-2023 17:33:33.728Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-10-2023 17:33:33.728Z;functions.bot_text_art;     |_||_|                                                     
+25-10-2023 17:33:33.729Z;functions.bot_text_art;     | ||_|_   
+25-10-2023 17:33:33.729Z;functions.bot_text_art;   |___||___|  
+25-10-2023 17:33:33.729Z;functions.bot_text_art;               
+25-10-2023 17:33:33.733Z;functions.open_RM;  OPEN PROGRAM RM
+25-10-2023 17:33:41.017Z;functions.loggin_RM;  ENTER USER_NAME
+25-10-2023 17:33:41.823Z;functions.loggin_RM;  ENTER PASSWORD
+25-10-2023 17:33:42.503Z;functions.loggin_RM;  ENTER RM
+25-10-2023 17:34:02.852Z;functions.enter_coligada;  CLICK CONTEXTO
+25-10-2023 17:34:06.757Z;functions.enter_coligada;  CLICK COLIGADA 1
+25-10-2023 17:34:07.921Z;functions.enter_coligada;  CLICK AVANÇAR
+25-10-2023 17:34:09.515Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-10-2023 17:34:09.617Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-10-2023 17:34:10.609Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-10-2023 17:34:11.522Z;functions.enter_coligada;  CLICK CONCLUIR
+25-10-2023 17:34:22.637Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-10-2023 17:34:23.257Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-10-2023 17:34:24.343Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-10-2023 17:34:26.670Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-10-2023 17:34:31.973Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-10-2023 17:34:32.062Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-10-2023 17:34:34.166Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-10-2023 17:34:36.168Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-10-2023 17:34:36.168Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+25-10-2023 17:34:36.168Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+25-10-2023 17:34:42.496Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+25-10-2023 17:34:43.146Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-10-2023 17:34:44.942Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+25-10-2023 17:34:46.439Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+25-10-2023 17:34:47.094Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-10-2023 17:34:52.907Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-10-2023 17:34:53.730Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-10-2023 17:34:54.597Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-10-2023 17:34:55.499Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-10-2023 17:34:56.407Z;functions.desmark_filter;  ATUALIZA O FILTRO
+25-10-2023 17:34:56.408Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+25-10-2023 17:35:01.110Z;functions.tabela_vazia;  Para este processo é necessário que existam registros na visão.
+25-10-2023 17:35:05.212Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+25-10-2023 17:35:07.315Z;functions.tabela_vazia;  FECHA A TABELA
+25-10-2023 17:35:09.419Z;functions.tabela_vazia;  FECHA O PROGRAMA
+25-10-2023 17:35:11.522Z;functions.tabela_vazia;  RM ENCERRADO
+25-10-2023 17:35:11.523Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+25-10-2023 17:35:31.359Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "c:\projetos\Remessa Ferias Rescisao\main.py", line 18, in <module>
+    if tabela_vazia() == True:
+       ^^^^^^^^^^^^^^
+  File "c:\projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 243, in tabela_vazia
+    number_rows = numero_registros.get_text()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'

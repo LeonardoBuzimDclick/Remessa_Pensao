@@ -1,0 +1,15 @@
+14-11-2023 18:42:00.582Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-11-2023 18:42:03.447Z;functions.remessa_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+14-11-2023 18:42:04.468Z;functions.remessa_pagamento;  10 PASSOS PARA DIREITA NA TABELA >>
+14-11-2023 18:42:06.389Z;functions.remessa_pagamento;  HOVER FILTER
+14-11-2023 18:42:06.494Z;functions.remessa_pagamento;  CLICK FILTER
+14-11-2023 18:42:10.819Z;functions.remessa_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+14-11-2023 18:42:12.923Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+14-11-2023 18:42:15.038Z;functions.remessa_pagamento;  ESCREVE PENDENTE NO FILTRO
+14-11-2023 18:42:17.141Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+14-11-2023 18:42:20.277Z;functions.remessa_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+14-11-2023 18:42:22.384Z;functions.remessa_pagamento;  CLICA EM PROCESSOS
+14-11-2023 18:42:24.487Z;functions.remessa_pagamento;  APERTA PARA BAIXO 0
+14-11-2023 18:42:26.590Z;functions.remessa_pagamento;  APERTA PARA BAIXO 1
+14-11-2023 18:42:28.695Z;functions.remessa_pagamento;  APERTA PARA BAIXO 2
+14-11-2023 18:42:30.798Z;functions.remessa_pagamento;  APERTA ENTER

@@ -1,0 +1,57 @@
+14-11-2023 18:47:23.565Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-11-2023 18:47:26.245Z;functions.remessa_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+14-11-2023 18:47:27.265Z;functions.remessa_pagamento;  10 PASSOS PARA DIREITA NA TABELA >>
+14-11-2023 18:47:29.175Z;functions.remessa_pagamento;  HOVER FILTER
+14-11-2023 18:47:29.279Z;functions.remessa_pagamento;  CLICK FILTER
+14-11-2023 18:47:33.609Z;functions.remessa_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+14-11-2023 18:47:35.712Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+14-11-2023 18:47:37.829Z;functions.remessa_pagamento;  ESCREVE PENDENTE NO FILTRO
+14-11-2023 18:47:39.931Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+14-11-2023 18:47:43.082Z;functions.remessa_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+14-11-2023 18:47:45.188Z;functions.remessa_pagamento;  CLICA EM PROCESSOS
+14-11-2023 18:47:47.290Z;functions.remessa_pagamento;  APERTA PARA BAIXO 0
+14-11-2023 18:47:49.394Z;functions.remessa_pagamento;  APERTA PARA BAIXO 1
+14-11-2023 18:47:51.498Z;functions.remessa_pagamento;  APERTA PARA BAIXO 2
+14-11-2023 18:47:53.601Z;functions.remessa_pagamento;  APERTA ENTER
+14-11-2023 18:47:56.496Z;functions.remessa_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+14-11-2023 18:47:57.601Z;functions.remessa_pagamento;  APERTA TAB 0
+14-11-2023 18:47:58.704Z;functions.remessa_pagamento;  APERTA TAB 1
+14-11-2023 18:47:59.808Z;functions.remessa_pagamento;  APERTA TAB 2
+14-11-2023 18:48:10.249Z;functions.remessa_pagamento;  CLICA EM AVANÇAR
+14-11-2023 18:48:10.250Z;functions.remessa_pagamento;  Quarta-feira desejada: 15-11-2023
+14-11-2023 18:48:10.252Z;functions.remessa_pagamento;  Data após somar 6 dias: 21-11-2023
+14-11-2023 18:48:15.160Z;functions.remessa_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+14-11-2023 18:48:16.085Z;functions.remessa_pagamento;  CLICA NOS ... PARA SELECIONAR O DIRETÓRIO E NOME DO ARQUIVO.
+14-11-2023 18:48:19.391Z;functions.remessa_pagamento;  DUPLO CLICK NO DIRETORIO
+14-11-2023 18:48:20.638Z;functions.remessa_pagamento;  APERTA TAB 0
+14-11-2023 18:48:21.752Z;functions.remessa_pagamento;  APERTA TAB 1
+14-11-2023 18:48:22.870Z;functions.remessa_pagamento;  APERTA TAB 2
+14-11-2023 18:48:23.984Z;functions.remessa_pagamento;  APERTA TAB 3
+14-11-2023 18:48:25.087Z;functions.remessa_pagamento;  APERTA TAB 4
+14-11-2023 18:48:26.192Z;functions.remessa_pagamento;  APERTA TAB 5
+14-11-2023 18:48:26.335Z;functions.remessa_pagamento;  F15212023A.txt
+14-11-2023 18:48:27.222Z;functions.remessa_pagamento;  CLICAR NO BUTÃO SALVAR
+14-11-2023 18:48:29.025Z;functions.remessa_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+14-11-2023 18:48:30.252Z;functions.remessa_pagamento;  CLICA EM EXECUTAR
+14-11-2023 18:48:41.329Z;functions.waitForImage;  PRESS BUTTON OK image found.
+14-11-2023 18:48:43.332Z;functions.remessa_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+14-11-2023 18:48:52.790Z;functions.remessa_pagamento;  ===========================================================================================================
+LANÇAMENTOS ENVIADOS PARA REMESSA PAGAMENTO
+Coligada: 1
+ID Remessa: 10
+Convênio: 9
+Data: 14/11/2023 18:48:38
+Borderô remetidos: 1
+===========================================================================================================
+Borderô: 1-7174
+
+Lançamentos remetidos no Borderô:
+Lancamento 1-865007
+Lancamento 1-865008
+----------------------------------------------------------------------------------------------------------
+
+
+14-11-2023 18:48:55.764Z;functions.remessa_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA
+14-11-2023 18:48:57.868Z;functions.encerra_prog;  FECHA A TABELA
+14-11-2023 18:48:59.973Z;functions.encerra_prog;  FECHA O PROGRAMA
+14-11-2023 18:49:02.098Z;functions.encerra_prog;  RM ENCERRADO

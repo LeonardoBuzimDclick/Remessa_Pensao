@@ -1,0 +1,95 @@
+31-07-2024 15:31:20.009Z;functions.bot_text_art;      ____     
+31-07-2024 15:31:20.009Z;functions.bot_text_art;     [____]    
+31-07-2024 15:31:20.009Z;functions.bot_text_art;   |=]()()[=|  
+31-07-2024 15:31:20.009Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+31-07-2024 15:31:20.025Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+31-07-2024 15:31:20.025Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+31-07-2024 15:31:20.025Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+31-07-2024 15:31:20.025Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+31-07-2024 15:31:20.025Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+31-07-2024 15:31:20.025Z;functions.bot_text_art;     |_||_|    
+31-07-2024 15:31:20.025Z;functions.bot_text_art;     | ||_|_   
+31-07-2024 15:31:20.025Z;functions.bot_text_art;   |___||___|  
+31-07-2024 15:31:20.025Z;functions.bot_text_art;               
+31-07-2024 15:31:20.040Z;functions.open_RM;  OPEN PROGRAM RM
+31-07-2024 15:31:37.087Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+31-07-2024 15:31:38.368Z;functions.loggin_RM;  ENCONTRA USE FIELD
+31-07-2024 15:31:39.197Z;functions.loggin_RM;  DUPLO CLICK
+31-07-2024 15:31:45.931Z;functions.show_exception_and_exit;  The security token included in the request is invalid. ---> Amazon.Runtime.Internal.HttpErrorResponseException: O servidor remoto retornou um erro: (400) Solicitação Incorreta. ---> System.Net.WebException: O servidor remoto retornou um erro: (400) Solicitação Incorreta.
+   em System.Net.HttpWebRequest.GetResponse()
+   em Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   em Amazon.Runtime.Internal.HttpHandler`1.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.Unmarshaller.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.ErrorHandler.InvokeSync(IExecutionContext executionContext)
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Amazon.Runtime.Internal.HttpErrorResponseExceptionHandler.HandleExceptionStream(IRequestContext requestContext, IWebResponseData httpErrorResponse, HttpErrorResponseException exception, Stream responseStream)
+   em Amazon.Runtime.Internal.HttpErrorResponseExceptionHandler.HandleException(IExecutionContext executionContext, HttpErrorResponseException exception)
+   em Amazon.Runtime.Internal.ErrorHandler.ProcessException(IExecutionContext executionContext, Exception exception)
+   em Amazon.Runtime.Internal.ErrorHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.EndpointDiscoveryHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.RetryHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.ErrorCallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.MetricsHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.RuntimePipeline.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.AmazonServiceClient.Invoke[TResponse](AmazonWebServiceRequest request, InvokeOptionsBase options)
+   em Clicknium.Telemetry.TelemetryWrapper.SendLogEvent(String logGroupName, String logStreamName, List`1 inputLogEvents)
+   em Clicknium.Telemetry.TelemetryWrapper.SendLogEvent(String logGroupName, String logStreamName, List`1 logMessages)
+   em Clicknium.Telemetry.TelemetryWrapper.HandleEvent(EventData eventData)
+   em Clicknium.Telemetry.TelemetryWrapper.ReportEvent(EventData eventData)
+System.Net.WebException: O servidor remoto retornou um erro: (400) Solicitação Incorreta.
+   em System.Net.HttpWebRequest.GetResponse()
+   em Amazon.Runtime.Internal.HttpRequest.GetResponse()
+
+The above exception was the direct cause of the following exception:
+
+Amazon.Runtime.Internal.HttpErrorResponseException: O servidor remoto retornou um erro: (400) Solicitação Incorreta. ---> System.Net.WebException: O servidor remoto retornou um erro: (400) Solicitação Incorreta.
+   em System.Net.HttpWebRequest.GetResponse()
+   em Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   em Amazon.Runtime.Internal.HttpHandler`1.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.Unmarshaller.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.ErrorHandler.InvokeSync(IExecutionContext executionContext)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 13, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 90, in loggin_RM
+    user_rm.send_hotkey(f'{user}')
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 156, in wrapper
+    TelemetryService.report_event(EventTypes.ExceptionReport, properties)
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 396, in report_event
+    TelemetryInstance.ReportEvent(data)
+Amazon.CloudWatchLogs.AmazonCloudWatchLogsException: The security token included in the request is invalid. ---> Amazon.Runtime.Internal.HttpErrorResponseException: O servidor remoto retornou um erro: (400) Solicitação Incorreta. ---> System.Net.WebException: O servidor remoto retornou um erro: (400) Solicitação Incorreta.
+   em System.Net.HttpWebRequest.GetResponse()
+   em Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   em Amazon.Runtime.Internal.HttpHandler`1.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.Unmarshaller.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.ErrorHandler.InvokeSync(IExecutionContext executionContext)
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Amazon.Runtime.Internal.HttpErrorResponseExceptionHandler.HandleExceptionStream(IRequestContext requestContext, IWebResponseData httpErrorResponse, HttpErrorResponseException exception, Stream responseStream)
+   em Amazon.Runtime.Internal.HttpErrorResponseExceptionHandler.HandleException(IExecutionContext executionContext, HttpErrorResponseException exception)
+   em Amazon.Runtime.Internal.ErrorHandler.ProcessException(IExecutionContext executionContext, Exception exception)
+   em Amazon.Runtime.Internal.ErrorHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.EndpointDiscoveryHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.RetryHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.ErrorCallbackHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.MetricsHandler.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.Internal.RuntimePipeline.InvokeSync(IExecutionContext executionContext)
+   em Amazon.Runtime.AmazonServiceClient.Invoke[TResponse](AmazonWebServiceRequest request, InvokeOptionsBase options)
+   em Clicknium.Telemetry.TelemetryWrapper.SendLogEvent(String logGroupName, String logStreamName, List`1 inputLogEvents)
+   em Clicknium.Telemetry.TelemetryWrapper.SendLogEvent(String logGroupName, String logStreamName, List`1 logMessages)
+   em Clicknium.Telemetry.TelemetryWrapper.HandleEvent(EventData eventData)
+   em Clicknium.Telemetry.TelemetryWrapper.ReportEvent(EventData eventData)

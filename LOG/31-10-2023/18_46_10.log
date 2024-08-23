@@ -1,0 +1,10 @@
+31-10-2023 18:46:10.722Z;functions.waitForImage;  FILTER CLEAN image found.
+31-10-2023 18:46:12.848Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+31-10-2023 18:46:15.994Z;functions.remessa_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+31-10-2023 18:46:18.097Z;functions.remessa_pagamento;  CLICA EM PROCESSOS
+31-10-2023 18:46:20.199Z;functions.remessa_pagamento;  APERTA PARA BAIXO 1
+31-10-2023 18:46:22.301Z;functions.remessa_pagamento;  APERTA PARA BAIXO 2
+31-10-2023 18:46:24.403Z;functions.remessa_pagamento;  APERTA PARA BAIXO 3
+31-10-2023 18:46:26.505Z;functions.remessa_pagamento;  APERTA ENTER
+31-10-2023 18:46:29.121Z;functions.remessa_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+31-10-2023 18:46:43.457Z;functions.remessa_pagamento;  CLICA EM AVANÇAR

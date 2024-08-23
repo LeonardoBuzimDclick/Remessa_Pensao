@@ -1,0 +1,63 @@
+13-11-2023 17:23:25.077Z;functions.bot_text_art;      ____   
+13-11-2023 17:23:25.078Z;functions.bot_text_art;     [____]    
+13-11-2023 17:23:25.079Z;functions.bot_text_art;   |=]()()[=|  
+13-11-2023 17:23:25.079Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+13-11-2023 17:23:25.080Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+13-11-2023 17:23:25.081Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+13-11-2023 17:23:25.082Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+13-11-2023 17:23:25.083Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+13-11-2023 17:23:25.085Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+13-11-2023 17:23:25.086Z;functions.bot_text_art;     |_||_|                                                     
+13-11-2023 17:23:25.087Z;functions.bot_text_art;     | ||_|_   
+13-11-2023 17:23:25.087Z;functions.bot_text_art;   |___||___|  
+13-11-2023 17:23:25.088Z;functions.bot_text_art;               
+13-11-2023 17:23:25.095Z;functions.open_RM;  OPEN PROGRAM RM
+13-11-2023 17:23:38.173Z;functions.loggin_RM;  ENTER USER_NAME
+13-11-2023 17:23:39.576Z;functions.loggin_RM;  ENTER PASSWORD
+13-11-2023 17:23:40.770Z;functions.loggin_RM;  ENTER RM
+13-11-2023 17:24:14.546Z;functions.enter_coligada;  CLICK CONTEXTO
+13-11-2023 17:24:19.612Z;functions.enter_coligada;  CLICK COLIGADA 1
+13-11-2023 17:24:21.925Z;functions.enter_coligada;  CLICK AVANÇAR
+13-11-2023 17:24:24.455Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+13-11-2023 17:24:24.567Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+13-11-2023 17:24:26.007Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+13-11-2023 17:24:27.289Z;functions.enter_coligada;  CLICK CONCLUIR
+13-11-2023 17:24:51.506Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+13-11-2023 17:24:52.369Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+13-11-2023 17:24:54.220Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+13-11-2023 17:24:57.031Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+13-11-2023 17:25:04.127Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+13-11-2023 17:25:05.011Z;functions.waitForImage;  LANÇAMENTOS image found.
+13-11-2023 17:25:07.144Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+13-11-2023 17:25:09.228Z;functions.show_exception_and_exit;  [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Ferias_Rescisao\main.py", line 15, in <module>
+    emailSuccess()
+  File "c:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 277, in emailSuccess
+    yag.send(to=str(email_receivers).split(','), subject=f"SUCESSO - BOT REMESSAS FÉRIAS/RESCISÃO",
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 156, in send
+    self.login()
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 210, in login
+    self._login(self.credentials)
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 217, in _login
+    self.smtp = self.connection(self.host, self.port, **self.kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1057, in _get_socket
+    new_socket = self.context.wrap_socket(new_socket,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1108, in _create
+    self.do_handshake()
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1379, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto

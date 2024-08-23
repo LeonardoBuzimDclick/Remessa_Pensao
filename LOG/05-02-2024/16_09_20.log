@@ -1,0 +1,286 @@
+05-02-2024 16:09:21.064Z;functions.bot_text_art;      ____     
+05-02-2024 16:09:21.064Z;functions.bot_text_art;     [____]    
+05-02-2024 16:09:21.064Z;functions.bot_text_art;   |=]()()[=|  
+05-02-2024 16:09:21.064Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+05-02-2024 16:09:21.064Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+05-02-2024 16:09:21.064Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+05-02-2024 16:09:21.064Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+05-02-2024 16:09:21.064Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+05-02-2024 16:09:21.064Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+05-02-2024 16:09:21.064Z;functions.bot_text_art;     |_||_|    
+05-02-2024 16:09:21.064Z;functions.bot_text_art;     | ||_|_   
+05-02-2024 16:09:21.064Z;functions.bot_text_art;   |___||___|  
+05-02-2024 16:09:21.064Z;functions.bot_text_art;               
+05-02-2024 16:09:21.064Z;functions.open_RM;  OPEN PROGRAM RM
+05-02-2024 16:09:27.783Z;functions.loggin_RM;  ENTRAR USER_NAME
+05-02-2024 16:09:28.627Z;functions.loggin_RM;  ENTRAR PASSWORD
+05-02-2024 16:09:29.317Z;functions.loggin_RM;  ENTRAR RM
+05-02-2024 16:09:54.611Z;functions.enter_coligada;  CLICK CONTEXTO
+05-02-2024 16:09:58.580Z;functions.enter_coligada;  CLICK COLIGADA 1
+05-02-2024 16:09:59.924Z;functions.enter_coligada;  CLICK AVANÇAR
+05-02-2024 16:10:01.487Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+05-02-2024 16:10:01.589Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-02-2024 16:10:02.457Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-02-2024 16:10:03.268Z;functions.enter_coligada;  CLICK CONCLUIR
+05-02-2024 16:10:13.205Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+05-02-2024 16:10:13.830Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+05-02-2024 16:10:14.924Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+05-02-2024 16:10:15.642Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+05-02-2024 16:10:18.142Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+05-02-2024 16:10:18.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:10:20.396Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:10:25.554Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:10:25.554Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:10:25.554Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 1
+05-02-2024 16:10:45.783Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:10:47.900Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:10:53.033Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:10:53.033Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:10:53.033Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 2
+05-02-2024 16:11:13.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:11:15.401Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:11:20.549Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:11:20.549Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:11:20.549Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 3
+05-02-2024 16:11:40.783Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:11:42.900Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:11:48.049Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:11:48.049Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:11:48.049Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 4
+05-02-2024 16:12:08.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:12:10.401Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:12:15.549Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:12:15.565Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:12:15.565Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 5
+05-02-2024 16:12:35.783Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:12:37.900Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:12:43.033Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:12:43.033Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:12:43.033Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 6
+05-02-2024 16:13:03.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:13:05.401Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:13:10.550Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:13:10.550Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:13:10.550Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 7
+05-02-2024 16:13:30.783Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:13:32.900Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:13:38.048Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:13:38.048Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:13:38.048Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 8
+05-02-2024 16:13:58.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:14:00.400Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:14:05.549Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:14:05.549Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:14:05.549Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 9
+05-02-2024 16:14:25.767Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:14:27.899Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:14:33.033Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:14:33.033Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:14:33.033Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 10
+05-02-2024 16:14:53.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:14:55.400Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:15:00.554Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:15:00.554Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:15:00.554Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 11
+05-02-2024 16:15:20.783Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:15:22.899Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:15:28.048Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:15:28.048Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:15:28.048Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 12
+05-02-2024 16:15:48.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:15:50.407Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:15:55.549Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:15:55.549Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:15:55.549Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 13
+05-02-2024 16:16:15.783Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:16:17.900Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:16:23.033Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:16:23.033Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:16:23.033Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 14
+05-02-2024 16:16:43.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:16:45.409Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:16:50.549Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:16:50.549Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:16:50.549Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 15
+05-02-2024 16:17:10.767Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:17:12.900Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:17:18.033Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:17:18.033Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:17:18.033Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 16
+05-02-2024 16:17:38.283Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:17:40.400Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:17:45.549Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-02-2024 16:17:45.549Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+05-02-2024 16:17:45.549Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 17
+05-02-2024 16:18:05.783Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-02-2024 16:18:07.900Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-02-2024 16:18:23.314Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+05-02-2024 16:18:23.314Z;functions.data_filter;  DATA INICIO 07-02-2024
+05-02-2024 16:18:23.314Z;functions.data_filter;  DATA FIM 13-02-2024
+05-02-2024 16:18:23.314Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+05-02-2024 16:18:23.314Z;functions.data_filter;  QUARTA-FEIRA: 07-02-2024
+05-02-2024 16:18:23.314Z;functions.data_filter;  TERCA-FEIRA: 13-02-2024
+05-02-2024 16:18:26.283Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+05-02-2024 16:18:26.892Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+05-02-2024 16:18:28.970Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 07-02-2024
+05-02-2024 16:18:30.720Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 13-02-2024
+05-02-2024 16:18:31.361Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+05-02-2024 16:19:18.642Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+05-02-2024 16:19:19.449Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+05-02-2024 16:19:20.264Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+05-02-2024 16:19:21.140Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+05-02-2024 16:19:22.017Z;functions.desmark_filter;  ATUALIZA O FILTRO
+05-02-2024 16:19:22.017Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+05-02-2024 16:20:22.142Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-02-2024 16:20:22.142Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+05-02-2024 16:21:22.154Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA - 2
+05-02-2024 16:21:22.257Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA - 3
+05-02-2024 16:21:24.257Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA - 4
+05-02-2024 16:21:24.861Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 88 registros?
+05-02-2024 16:21:26.969Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+05-02-2024 16:21:27.704Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+05-02-2024 16:21:27.808Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+05-02-2024 16:21:30.515Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+05-02-2024 16:21:32.616Z;functions.desbloqueio;  SETA PARA DIREITA
+05-02-2024 16:21:35.529Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+05-02-2024 16:21:37.631Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+05-02-2024 16:22:21.298Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+05-02-2024 16:22:22.314Z;functions.desbloqueio;  MSG AQUI: 
+05-02-2024 16:22:24.317Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+05-02-2024 16:22:26.923Z;functions.desbloqueio;  SELECIONAR EVIDENCIAR ABA INFERIOR
+05-02-2024 16:22:29.026Z;functions.desbloqueio;  FECHANDO ABA INFERIOR
+05-02-2024 16:22:31.128Z;functions.exec_lancamentos;  CONTROL G
+05-02-2024 16:22:33.204Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+05-02-2024 16:22:33.892Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+05-02-2024 16:22:34.611Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+05-02-2024 16:22:36.405Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+05-02-2024 16:22:37.048Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+05-02-2024 16:22:37.799Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+05-02-2024 16:22:38.548Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+05-02-2024 16:23:21.908Z;functions.waitForImage;  PRESS BUTTON OK image found.
+05-02-2024 16:23:23.918Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO FOI EXECUTADO COM SUCESSO.
+05-02-2024 16:23:32.847Z;functions.process_lancamentos;  Lançamento Ref. 914047: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914048: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914049: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914050: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914051: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914052: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914053: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914054: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914055: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914056: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914057: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914058: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914059: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914060: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914061: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914062: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914063: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914064: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914065: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914066: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914067: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914068: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914069: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914070: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914071: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914072: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914073: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914074: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914075: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914076: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914077: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914078: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914079: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914080: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914081: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914082: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914083: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914084: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914085: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914086: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914087: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914088: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914089: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914090: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914091: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914092: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914093: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914094: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914095: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914096: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914097: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914098: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914099: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914100: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914101: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914102: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914103: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914104: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914105: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914106: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914107: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914108: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914109: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914110: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914111: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914112: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914113: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914114: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914115: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914116: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914117: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914118: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914119: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914120: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914121: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914122: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914123: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914124: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914125: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914126: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914127: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914128: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914129: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914130: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914131: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914132: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914133: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914134: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+05-02-2024 16:23:33.453Z;functions.process_lancamentos;  CLICA EM FECHAR.
+05-02-2024 16:23:48.959Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+05-02-2024 16:24:06.142Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 28, in <module>
+    process_lancamentos()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 441, in process_lancamentos
+    proccess_bordero()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 480, in proccess_bordero
+    menuitem_inclusao_bordero.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+05-02-2024 16:24:07.658Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+05-02-2024 16:24:07.673Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+05-02-2024 16:24:07.673Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+05-02-2024 16:24:07.673Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+05-02-2024 16:24:07.673Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+05-02-2024 16:24:07.673Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+05-02-2024 16:24:07.720Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+05-02-2024 16:24:07.736Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+05-02-2024 16:24:07.751Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+05-02-2024 16:24:07.751Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+05-02-2024 16:24:07.751Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+05-02-2024 16:24:07.751Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+05-02-2024 16:24:07.751Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+05-02-2024 16:24:07.751Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+05-02-2024 16:24:07.767Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+05-02-2024 16:24:07.767Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+05-02-2024 16:24:07.767Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+05-02-2024 16:24:07.767Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+05-02-2024 16:24:10.954Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'
+05-02-2024 16:24:10.954Z;functions.show_exception_and_exit;  RM FECHADO

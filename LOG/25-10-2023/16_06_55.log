@@ -1,0 +1,54 @@
+25-10-2023 16:06:55.678Z;functions.bot_text_art;      ____   
+25-10-2023 16:06:55.678Z;functions.bot_text_art;     [____]    
+25-10-2023 16:06:55.678Z;functions.bot_text_art;   |=]()()[=|  
+25-10-2023 16:06:55.678Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-10-2023 16:06:55.679Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-10-2023 16:06:55.679Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-10-2023 16:06:55.679Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-10-2023 16:06:55.680Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-10-2023 16:06:55.681Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-10-2023 16:06:55.682Z;functions.bot_text_art;     |_||_|                                                     
+25-10-2023 16:06:55.682Z;functions.bot_text_art;     | ||_|_   
+25-10-2023 16:06:55.682Z;functions.bot_text_art;   |___||___|  
+25-10-2023 16:06:55.683Z;functions.bot_text_art;               
+25-10-2023 16:06:55.686Z;functions.open_RM;  OPEN PROGRAM RM
+25-10-2023 16:07:03.102Z;functions.loggin_RM;  ENTER USER_NAME
+25-10-2023 16:07:03.937Z;functions.loggin_RM;  ENTER PASSWORD
+25-10-2023 16:07:04.610Z;functions.loggin_RM;  ENTER RM
+25-10-2023 16:07:24.855Z;functions.enter_coligada;  CLICK CONTEXTO
+25-10-2023 16:07:28.769Z;functions.enter_coligada;  CLICK COLIGADA 1
+25-10-2023 16:07:30.180Z;functions.enter_coligada;  CLICK AVANÇAR
+25-10-2023 16:07:31.762Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-10-2023 16:07:31.864Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-10-2023 16:07:32.977Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-10-2023 16:07:33.854Z;functions.enter_coligada;  CLICK CONCLUIR
+25-10-2023 16:07:44.657Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-10-2023 16:07:45.288Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-10-2023 16:07:46.367Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-10-2023 16:07:47.084Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-10-2023 16:07:50.019Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-10-2023 16:07:50.586Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-10-2023 16:07:52.689Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-10-2023 16:07:54.690Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-10-2023 16:07:54.691Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+25-10-2023 16:07:54.691Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+25-10-2023 16:08:01.020Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+25-10-2023 16:08:01.637Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-10-2023 16:08:03.468Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+25-10-2023 16:08:04.951Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+25-10-2023 16:08:05.598Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-10-2023 16:08:11.405Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-10-2023 16:08:12.231Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-10-2023 16:08:13.105Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-10-2023 16:08:14.012Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-10-2023 16:08:14.938Z;functions.desmark_filter;  ATUALIZA O FILTRO
+25-10-2023 16:09:03.949Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\projetos\Remessa Ferias Rescisao\main.py", line 17, in <module>
+    tabela_vazia()
+  File "c:\projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 236, in tabela_vazia
+    tabela_vazia = waitForImage(image = tabela_vazia_ferias, timeout=60, name = 'FILTER CLEAN')
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 851, in waitForImage
+    time.sleep(0.5)
+KeyboardInterrupt

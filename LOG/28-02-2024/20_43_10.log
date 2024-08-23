@@ -1,0 +1,9 @@
+28-02-2024 20:43:16.324Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+28-02-2024 20:44:16.583Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:44:16.585Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-02-2024 20:44:26.697Z;functions.tabela_vazia;  CTRL G
+28-02-2024 20:44:31.038Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 16 registros?
+28-02-2024 20:44:33.156Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS

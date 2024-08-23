@@ -1,0 +1,8 @@
+31-10-2023 18:44:28.119Z;functions.waitForImage;  FILTER CLEAN image not found.
+31-10-2023 18:44:29.232Z;functions.remessa_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+31-10-2023 18:44:31.335Z;functions.remessa_pagamento;  CLICA EM PROCESSOS
+31-10-2023 18:44:33.437Z;functions.remessa_pagamento;  APERTA PARA BAIXO 1
+31-10-2023 18:44:35.539Z;functions.remessa_pagamento;  APERTA PARA BAIXO 2
+31-10-2023 18:44:37.641Z;functions.remessa_pagamento;  APERTA PARA BAIXO 3
+31-10-2023 18:44:39.743Z;functions.remessa_pagamento;  APERTA ENTER
+31-10-2023 18:44:42.352Z;functions.remessa_pagamento;  CLICA EM REMESSAS DE PAGAMENTO

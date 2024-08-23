@@ -1,0 +1,39 @@
+04-02-2024 23:04:17.366Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+04-02-2024 23:04:18.115Z;functions.movimentacao_bancaria;  CLICK NO ICONE BORDERO DE PAGAMENTO
+04-02-2024 23:04:30.619Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+04-02-2024 23:04:30.620Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+04-02-2024 23:04:31.404Z;functions.waitForImage;  FILTER CLEAN image found.
+04-02-2024 23:04:33.526Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+04-02-2024 23:04:36.238Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-02-2024 23:04:37.548Z;functions.movimentacao_bancaria;  13 PASSOS PARA DIREITA NA TABELA >>
+04-02-2024 23:04:38.810Z;functions.movimentacao_bancaria;  HOVER FILTER
+04-02-2024 23:04:39.120Z;functions.movimentacao_bancaria;  CLICK FILTER
+04-02-2024 23:04:43.426Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+04-02-2024 23:04:45.528Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+04-02-2024 23:04:47.631Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+04-02-2024 23:04:49.732Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+04-02-2024 23:05:09.671Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+04-02-2024 23:05:09.671Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+04-02-2024 23:05:09.900Z;functions.waitForImage;  FILTER CLEAN image found.
+04-02-2024 23:05:12.027Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+04-02-2024 23:05:14.769Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-02-2024 23:05:16.090Z;functions.remessa_pagamento;  13 PASSOS PARA DIREITA NA TABELA >>
+04-02-2024 23:05:17.404Z;functions.remessa_pagamento;  HOVER FILTER
+04-02-2024 23:05:17.776Z;functions.remessa_pagamento;  CLICK FILTER
+04-02-2024 23:05:22.081Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+04-02-2024 23:05:24.182Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+04-02-2024 23:05:26.286Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+04-02-2024 23:05:28.387Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+04-02-2024 23:05:33.993Z;functions.remessa_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+04-02-2024 23:05:36.094Z;functions.check_user_bot;  CHECK USER BOT 1
+04-02-2024 23:05:38.095Z;functions.check_user_bot;  01/02/2024
+04-02-2024 23:05:38.096Z;functions.check_user_bot;  O USUÁRIO NÃO É INTEGRAÇÃO PARA ESSA REMESSA PARA PARA DE BAIXO
+04-02-2024 23:05:38.197Z;functions.check_user_bot;  COUNT1: 1
+04-02-2024 23:05:40.301Z;functions.check_user_bot;  CHECK USER BOT 1
+04-02-2024 23:05:42.302Z;functions.check_user_bot;  01/02/2024
+04-02-2024 23:05:42.303Z;functions.check_user_bot;  O USUÁRIO NÃO É INTEGRAÇÃO PARA ESSA REMESSA PARA PARA DE BAIXO
+04-02-2024 23:05:42.410Z;functions.check_user_bot;  COUNT1: 2
+04-02-2024 23:05:44.523Z;functions.check_user_bot;  CHECK USER BOT 1
+04-02-2024 23:05:46.524Z;functions.check_user_bot;  02/02/2024
+04-02-2024 23:05:46.524Z;functions.check_user_bot;  O USUÁRIO NÃO É INTEGRAÇÃO PARA ESSA REMESSA PARA PARA DE BAIXO
+04-02-2024 23:05:46.625Z;functions.check_user_bot;  COUNT1: 3

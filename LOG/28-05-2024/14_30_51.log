@@ -1,0 +1,48 @@
+28-05-2024 14:30:51.564Z;functions.bot_text_art;      ____     
+28-05-2024 14:30:51.565Z;functions.bot_text_art;     [____]    
+28-05-2024 14:30:51.566Z;functions.bot_text_art;   |=]()()[=|  
+28-05-2024 14:30:51.567Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+28-05-2024 14:30:51.568Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+28-05-2024 14:30:51.568Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+28-05-2024 14:30:51.569Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+28-05-2024 14:30:51.569Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+28-05-2024 14:30:51.573Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+28-05-2024 14:30:51.573Z;functions.bot_text_art;     |_||_|    
+28-05-2024 14:30:51.573Z;functions.bot_text_art;     | ||_|_   
+28-05-2024 14:30:51.573Z;functions.bot_text_art;   |___||___|  
+28-05-2024 14:30:51.573Z;functions.bot_text_art;               
+28-05-2024 14:30:52.467Z;functions.open_RM;  OPEN PROGRAM RM
+28-05-2024 14:31:12.043Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+28-05-2024 14:31:13.368Z;functions.loggin_RM;  ENCONTRA USE FIELD
+28-05-2024 14:31:13.777Z;functions.loggin_RM;  DUPLO CLICK
+28-05-2024 14:31:18.998Z;functions.show_exception_and_exit;  Failed to set focus.
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 13, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 90, in loggin_RM
+    user_rm.send_hotkey(f'{user}')
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 157, in wrapper
+    raise exception;
+    ^^^^^^^^^^^^^^^
+clicknium.common.models.exceptions.WindowError: Failed to set focus.
+28-05-2024 14:31:23.551Z;functions.show_exception_and_exit;  RM FECHADO
+28-05-2024 14:31:28.949Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+28-05-2024 14:31:28.980Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+28-05-2024 14:31:29.011Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+28-05-2024 14:31:29.011Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+28-05-2024 14:31:29.011Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+28-05-2024 14:31:29.027Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+28-05-2024 14:31:29.359Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+28-05-2024 14:31:29.512Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+28-05-2024 14:31:29.512Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+28-05-2024 14:31:29.512Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+28-05-2024 14:31:29.512Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+28-05-2024 14:31:29.512Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+28-05-2024 14:31:29.512Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+28-05-2024 14:31:29.558Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+28-05-2024 14:31:29.558Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+28-05-2024 14:31:29.558Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+28-05-2024 14:31:29.574Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+28-05-2024 14:31:29.574Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+28-05-2024 14:31:33.625Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+28-05-2024 14:31:33.625Z;functions.show_exception_and_exit;  ERRO - <class 'clicknium.common.models.exceptions.WindowError'> / Failed to set focus.

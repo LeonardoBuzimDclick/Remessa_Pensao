@@ -1,0 +1,24 @@
+13-12-2023 15:02:45.119Z;functions.bot_text_art;      ____     
+13-12-2023 15:02:45.119Z;functions.bot_text_art;     [____]    
+13-12-2023 15:02:45.120Z;functions.bot_text_art;   |=]()()[=|  
+13-12-2023 15:02:45.120Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+13-12-2023 15:02:45.121Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+13-12-2023 15:02:45.121Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+13-12-2023 15:02:45.121Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+13-12-2023 15:02:45.122Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+13-12-2023 15:02:45.123Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+13-12-2023 15:02:45.123Z;functions.bot_text_art;     |_||_|    
+13-12-2023 15:02:45.123Z;functions.bot_text_art;     | ||_|_   
+13-12-2023 15:02:45.124Z;functions.bot_text_art;   |___||___|  
+13-12-2023 15:02:45.124Z;functions.bot_text_art;               
+13-12-2023 15:02:45.132Z;functions.open_RM;  OPEN PROGRAM RM
+13-12-2023 15:02:53.972Z;functions.show_exception_and_exit;  Failed to set focus.
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 12, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 63, in loggin_RM
+    user_rm.send_hotkey(f'{user}')
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 157, in wrapper
+    raise exception;
+    ^^^^^^^^^^^^^^^
+clicknium.common.models.exceptions.WindowError: Failed to set focus.

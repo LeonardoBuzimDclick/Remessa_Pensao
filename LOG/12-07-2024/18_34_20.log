@@ -1,0 +1,124 @@
+12-07-2024 18:34:20.640Z;functions.bot_text_art;      ____     
+12-07-2024 18:34:20.640Z;functions.bot_text_art;     [____]    
+12-07-2024 18:34:20.640Z;functions.bot_text_art;   |=]()()[=|  
+12-07-2024 18:34:20.640Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+12-07-2024 18:34:20.640Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+12-07-2024 18:34:20.640Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+12-07-2024 18:34:20.640Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+12-07-2024 18:34:20.640Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+12-07-2024 18:34:20.640Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+12-07-2024 18:34:20.640Z;functions.bot_text_art;     |_||_|    
+12-07-2024 18:34:20.640Z;functions.bot_text_art;     | ||_|_   
+12-07-2024 18:34:20.640Z;functions.bot_text_art;   |___||___|  
+12-07-2024 18:34:20.640Z;functions.bot_text_art;               
+12-07-2024 18:34:20.655Z;functions.open_RM;  OPEN PROGRAM RM
+12-07-2024 18:34:35.390Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+12-07-2024 18:34:36.499Z;functions.loggin_RM;  ENCONTRA USE FIELD
+12-07-2024 18:34:36.733Z;functions.loggin_RM;  DUPLO CLICK
+12-07-2024 18:34:40.155Z;functions.loggin_RM;  ENTRAR USER_NAME
+12-07-2024 18:34:41.358Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+12-07-2024 18:34:41.671Z;functions.loggin_RM;  CLICK
+12-07-2024 18:34:43.798Z;functions.loggin_RM;  ENTRAR PASSWORD
+12-07-2024 18:34:45.255Z;functions.loggin_RM;  ENTRAR RM
+12-07-2024 18:35:20.311Z;functions.loggin_RM;  FILTRO 1 NÃO ENCONTRADO DE INICIO
+12-07-2024 18:35:51.749Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+12-07-2024 18:36:26.046Z;functions.loggin_RM;  FILTRO 1 NÃO ENCONTRADO DE INICIO
+12-07-2024 18:36:56.968Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+12-07-2024 18:37:28.561Z;functions.loggin_RM;  FILTRO 1 NÃO ENCONTRADO DE INICIO
+12-07-2024 18:38:06.076Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+12-07-2024 18:38:06.076Z;functions.enter_coligada;  AGUARDANDO 1
+12-07-2024 18:38:07.264Z;functions.enter_coligada;  CLICK CONTEXTO
+12-07-2024 18:38:10.108Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+12-07-2024 18:38:14.606Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+12-07-2024 18:38:14.709Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+12-07-2024 18:38:16.107Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+12-07-2024 18:38:17.420Z;functions.enter_coligada;  CLICK CONCLUIR
+12-07-2024 18:38:37.748Z;functions.waitForImage;  TROCA COLIGADA image not found.
+12-07-2024 18:38:55.217Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+12-07-2024 18:38:56.170Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+12-07-2024 18:38:58.139Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+12-07-2024 18:39:00.889Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+12-07-2024 18:39:00.889Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 18
+12-07-2024 18:39:00.912Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+12-07-2024 18:39:00.912Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+12-07-2024 18:39:00.920Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+12-07-2024 18:39:00.920Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+12-07-2024 18:39:00.920Z;functions.obter_intervalo_data;  hoje -  2024-07-12 18:39:00.920492
+12-07-2024 18:39:00.920Z;functions.check_movimentacao_bancaria;  DATA INICIO 17-07-2024
+12-07-2024 18:39:00.920Z;functions.check_movimentacao_bancaria;  DATA FIM 23-07-2024
+12-07-2024 18:39:00.920Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+12-07-2024 18:39:06.576Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+12-07-2024 18:39:08.779Z;functions.waitForImage;  IMAGEM BORDERO image found.
+12-07-2024 18:39:10.897Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+12-07-2024 18:39:21.445Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+12-07-2024 18:39:23.686Z;functions.waitForImage;  LICENCE SERVER image not found.
+12-07-2024 18:39:24.389Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+12-07-2024 18:39:24.451Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+12-07-2024 18:39:28.666Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+12-07-2024 18:39:28.666Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+12-07-2024 18:39:32.951Z;functions.waitForImage;  FILTER CLEAN image found.
+12-07-2024 18:39:35.085Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-07-2024 18:39:35.279Z;functions.waitForImage;  FILTER CLEAN image found.
+12-07-2024 18:39:37.397Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-07-2024 18:39:52.732Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-07-2024 18:39:54.451Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+12-07-2024 18:39:55.675Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+12-07-2024 18:39:57.920Z;functions.movimentacao_bancaria;  HOVER FILTER
+12-07-2024 18:39:58.490Z;functions.movimentacao_bancaria;  CLICK FILTER
+12-07-2024 18:40:02.815Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+12-07-2024 18:40:04.920Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+12-07-2024 18:40:07.033Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+12-07-2024 18:40:09.136Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+12-07-2024 18:40:31.654Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+12-07-2024 18:40:31.654Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+12-07-2024 18:40:31.826Z;functions.waitForImage;  FILTER CLEAN image found.
+12-07-2024 18:40:33.959Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-07-2024 18:40:49.264Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-07-2024 18:41:04.576Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-07-2024 18:41:06.391Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+12-07-2024 18:41:08.529Z;functions.remessa_pagamento;  HOVER FILTER
+12-07-2024 18:41:09.116Z;functions.remessa_pagamento;  CLICK FILTER
+12-07-2024 18:41:13.462Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+12-07-2024 18:41:15.565Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+12-07-2024 18:41:17.684Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+12-07-2024 18:41:19.786Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+12-07-2024 18:41:26.852Z;functions.remessa_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+12-07-2024 18:41:29.576Z;functions.check_user_bot;  Texto extraido 1/1
+12-07-2024 18:41:29.576Z;functions.check_user_bot;  Count 1
+12-07-2024 18:41:29.576Z;functions.check_user_bot;  Type <class 'int'>
+12-07-2024 18:41:31.688Z;functions.check_user_bot;  CHECK USER BOT 1
+12-07-2024 18:41:33.689Z;functions.check_user_bot;  croliveira3
+12-07-2024 18:41:33.689Z;functions.check_user_bot;  O USUÁRIO NÃO É INTEGRAÇÃO PARA ESSA REMESSA PARA PARA DE BAIXO
+12-07-2024 18:41:33.794Z;functions.show_exception_and_exit;  cannot access local variable 'i' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 15, in <module>
+    check_movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 1436, in check_movimentacao_bancaria
+    remessa_pagamento()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 1062, in remessa_pagamento
+    check_user_bot()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 1352, in check_user_bot
+    logging.debug(f'COUNT1: {i}')
+                             ^
+UnboundLocalError: cannot access local variable 'i' where it is not associated with a value
+12-07-2024 18:41:34.529Z;functions.show_exception_and_exit;  RM FECHADO
+12-07-2024 18:41:37.169Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+12-07-2024 18:41:37.216Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+12-07-2024 18:41:37.232Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+12-07-2024 18:41:37.232Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+12-07-2024 18:41:37.232Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+12-07-2024 18:41:37.232Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+12-07-2024 18:41:37.466Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+12-07-2024 18:41:37.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+12-07-2024 18:41:37.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+12-07-2024 18:41:37.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+12-07-2024 18:41:37.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+12-07-2024 18:41:37.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+12-07-2024 18:41:37.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+12-07-2024 18:41:37.623Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+12-07-2024 18:41:37.638Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+12-07-2024 18:41:37.638Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+12-07-2024 18:41:37.638Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+12-07-2024 18:41:37.638Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+12-07-2024 18:41:40.498Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+12-07-2024 18:41:40.498Z;functions.show_exception_and_exit;  ERRO - <class 'UnboundLocalError'> / cannot access local variable 'i' where it is not associated with a value

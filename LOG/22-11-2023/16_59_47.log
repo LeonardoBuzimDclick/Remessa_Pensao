@@ -1,0 +1,115 @@
+22-11-2023 16:59:47.700Z;functions.bot_text_art;      ____     
+22-11-2023 16:59:47.701Z;functions.bot_text_art;     [____]    
+22-11-2023 16:59:47.701Z;functions.bot_text_art;   |=]()()[=|  
+22-11-2023 16:59:47.702Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+22-11-2023 16:59:47.703Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+22-11-2023 16:59:47.703Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+22-11-2023 16:59:47.704Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+22-11-2023 16:59:47.706Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+22-11-2023 16:59:47.709Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+22-11-2023 16:59:47.710Z;functions.bot_text_art;     |_||_|    
+22-11-2023 16:59:47.711Z;functions.bot_text_art;     | ||_|_   
+22-11-2023 16:59:47.712Z;functions.bot_text_art;   |___||___|  
+22-11-2023 16:59:47.712Z;functions.bot_text_art;               
+22-11-2023 16:59:47.745Z;functions.open_RM;  OPEN PROGRAM RM
+22-11-2023 17:00:00.008Z;functions.loggin_RM;  ENTRAR USER_NAME
+22-11-2023 17:00:01.435Z;functions.loggin_RM;  ENTRAR PASSWORD
+22-11-2023 17:00:02.747Z;functions.loggin_RM;  ENTRAR RM
+22-11-2023 17:00:37.363Z;functions.enter_coligada;  CLICK CONTEXTO
+22-11-2023 17:00:42.692Z;functions.enter_coligada;  CLICK COLIGADA 1
+22-11-2023 17:00:44.973Z;functions.enter_coligada;  CLICK AVANÇAR
+22-11-2023 17:00:47.742Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+22-11-2023 17:00:47.908Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+22-11-2023 17:00:49.274Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+22-11-2023 17:00:50.548Z;functions.enter_coligada;  CLICK CONCLUIR
+22-11-2023 17:01:14.829Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+22-11-2023 17:01:15.679Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+22-11-2023 17:01:17.554Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+22-11-2023 17:01:20.388Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+22-11-2023 17:01:27.841Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+22-11-2023 17:01:28.751Z;functions.waitForImage;  LANÇAMENTOS image found.
+22-11-2023 17:01:30.882Z;functions.enter_contas_a_pagar;  CLICK EM LANÇAMENTOS
+22-11-2023 17:01:32.889Z;functions.data_filter;  DATA INICIO 22-11-2023
+22-11-2023 17:01:32.890Z;functions.data_filter;  DATA FIM 28-11-2023
+22-11-2023 17:01:32.892Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+22-11-2023 17:01:32.894Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+22-11-2023 17:01:32.895Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+22-11-2023 17:01:42.551Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+22-11-2023 17:01:43.567Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+22-11-2023 17:01:46.645Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+22-11-2023 17:01:49.046Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+22-11-2023 17:01:50.021Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+22-11-2023 17:01:59.132Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+22-11-2023 17:02:01.076Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+22-11-2023 17:02:03.174Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+22-11-2023 17:02:05.495Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+22-11-2023 17:02:07.897Z;functions.desmark_filter;  ATUALIZA O FILTRO
+22-11-2023 17:02:38.527Z;functions.waitForImage;  FILTER CLEAN image not found.
+22-11-2023 17:02:38.528Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+22-11-2023 17:02:51.484Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 6 registros?
+22-11-2023 17:02:53.590Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+22-11-2023 17:03:03.695Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+22-11-2023 17:03:06.407Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+22-11-2023 17:03:08.510Z;functions.desbloqueio;  SETA PARA DIREITA
+22-11-2023 17:03:11.426Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+22-11-2023 17:03:13.530Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+22-11-2023 17:03:21.416Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+22-11-2023 17:03:23.588Z;functions.desbloqueio;  MSG AQUI: 
+22-11-2023 17:03:25.590Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+22-11-2023 17:03:28.541Z;functions.desbloqueio;  SELECIONAR EVIDENCIAR ABA INFERIOR
+22-11-2023 17:03:30.648Z;functions.desbloqueio;  FECHANDO ABA INFERIOR
+22-11-2023 17:03:32.756Z;functions.exec_lancamentos;  CONTROL G
+22-11-2023 17:03:36.349Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+22-11-2023 17:03:37.701Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+22-11-2023 17:03:39.016Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+22-11-2023 17:03:41.826Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+22-11-2023 17:03:42.994Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+22-11-2023 17:04:16.764Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\models\uielement.py", line 128, in click
+    self._element.Click(click_option, timeout * 1000)
+Clicknium.Common.Exception.ElementNotFoundException: Element can not be found.
+   em Clicknium.Desktop.Uia.UiaElement.get_BoundingRectangle()
+   em Clicknium.Wrapper.DesktopUiElement.GetClickPoint(ClickOption option)
+   em Clicknium.Wrapper.DesktopUiElement.Click(ClickOption option, Int32 timeout)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Pensao\main.py", line 25, in <module>
+    process_lancamentos()
+  File "c:\Projetos\Remessa_Pensao\SUBPROGRAMS\functions.py", line 384, in process_lancamentos
+    exec_lancamentos()
+  File "c:\Projetos\Remessa_Pensao\SUBPROGRAMS\functions.py", line 375, in exec_lancamentos
+    btn_ok_contacaixa.click()
+  File "C:\Projetos\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 98, in wrapper
+    exception = ElementNotFoundError(exception_message, exception_stacktrace)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Pensao\venv\Lib\site-packages\clicknium\common\models\exceptions.py", line 6, in __init__
+    def __init__(self, message, stacktrace = None):
+    
+KeyboardInterrupt
+22-11-2023 17:04:19.166Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+22-11-2023 17:04:19.230Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+22-11-2023 17:04:19.266Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+22-11-2023 17:04:19.292Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+22-11-2023 17:04:19.318Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+22-11-2023 17:04:19.329Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+22-11-2023 17:04:19.619Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+22-11-2023 17:04:19.768Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+22-11-2023 17:04:19.775Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+22-11-2023 17:04:19.781Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+22-11-2023 17:04:19.783Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+22-11-2023 17:04:19.787Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+22-11-2023 17:04:19.791Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+22-11-2023 17:04:19.842Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+22-11-2023 17:04:19.860Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+22-11-2023 17:04:19.863Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+22-11-2023 17:04:19.869Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+22-11-2023 17:04:19.873Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

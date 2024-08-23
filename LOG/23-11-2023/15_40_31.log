@@ -1,0 +1,60 @@
+23-11-2023 15:40:33.407Z;functions.bot_text_art;      ____     
+23-11-2023 15:40:33.407Z;functions.bot_text_art;     [____]    
+23-11-2023 15:40:33.408Z;functions.bot_text_art;   |=]()()[=|  
+23-11-2023 15:40:33.409Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+23-11-2023 15:40:33.409Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+23-11-2023 15:40:33.410Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+23-11-2023 15:40:33.410Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+23-11-2023 15:40:33.411Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+23-11-2023 15:40:33.413Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+23-11-2023 15:40:33.413Z;functions.bot_text_art;     |_||_|    
+23-11-2023 15:40:33.414Z;functions.bot_text_art;     | ||_|_   
+23-11-2023 15:40:33.414Z;functions.bot_text_art;   |___||___|  
+23-11-2023 15:40:33.415Z;functions.bot_text_art;               
+23-11-2023 15:40:33.428Z;functions.open_RM;  OPEN PROGRAM RM
+23-11-2023 15:40:48.948Z;functions.loggin_RM;  ENTRAR USER_NAME
+23-11-2023 15:40:50.317Z;functions.loggin_RM;  ENTRAR PASSWORD
+23-11-2023 15:40:51.466Z;functions.loggin_RM;  ENTRAR RM
+23-11-2023 15:41:26.662Z;functions.enter_coligada;  CLICK CONTEXTO
+23-11-2023 15:41:31.609Z;functions.enter_coligada;  CLICK COLIGADA 1
+23-11-2023 15:41:33.844Z;functions.enter_coligada;  CLICK AVANÇAR
+23-11-2023 15:41:36.661Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+23-11-2023 15:41:36.777Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+23-11-2023 15:41:38.157Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+23-11-2023 15:41:39.423Z;functions.enter_coligada;  CLICK CONCLUIR
+23-11-2023 15:42:03.005Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+23-11-2023 15:42:03.835Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+23-11-2023 15:42:05.640Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+23-11-2023 15:42:08.412Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+23-11-2023 15:42:15.515Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+23-11-2023 15:42:16.411Z;functions.waitForImage;  LANÇAMENTOS image found.
+23-11-2023 15:42:18.529Z;functions.enter_contas_a_pagar;  CLICK EM LANÇAMENTOS
+23-11-2023 15:42:20.530Z;functions.data_filter;  DATA INICIO 22-11-2023
+23-11-2023 15:42:20.531Z;functions.data_filter;  DATA FIM 28-11-2023
+23-11-2023 15:42:20.531Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+23-11-2023 15:42:20.533Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+23-11-2023 15:42:20.535Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+23-11-2023 15:42:30.654Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+23-11-2023 15:42:31.582Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+23-11-2023 15:42:34.450Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+23-11-2023 15:42:36.862Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+23-11-2023 15:42:37.768Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+23-11-2023 15:42:46.972Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+23-11-2023 15:42:49.047Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+23-11-2023 15:42:51.381Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos\Remessa_Pensao\main.py", line 16, in <module>
+    desmark_filter()
+  File "C:\Projetos\Remessa_Pensao\SUBPROGRAMS\functions.py", line 232, in desmark_filter
+    check_lancamentos_cancelados = cc.wait_appear(locator.rm.checkbox_lançamentos_cancelados, wait_timeout=15)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Pensao\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

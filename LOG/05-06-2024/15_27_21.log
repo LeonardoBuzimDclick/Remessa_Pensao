@@ -1,0 +1,32 @@
+05-06-2024 15:27:21.418Z;functions.bot_text_art;      ____     
+05-06-2024 15:27:21.418Z;functions.bot_text_art;     [____]    
+05-06-2024 15:27:21.418Z;functions.bot_text_art;   |=]()()[=|  
+05-06-2024 15:27:21.418Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+05-06-2024 15:27:21.418Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+05-06-2024 15:27:21.418Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+05-06-2024 15:27:21.418Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+05-06-2024 15:27:21.418Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+05-06-2024 15:27:21.511Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+05-06-2024 15:27:21.511Z;functions.bot_text_art;     |_||_|    
+05-06-2024 15:27:21.511Z;functions.bot_text_art;     | ||_|_   
+05-06-2024 15:27:21.511Z;functions.bot_text_art;   |___||___|  
+05-06-2024 15:27:21.511Z;functions.bot_text_art;               
+05-06-2024 15:27:21.511Z;functions.open_RM;  OPEN PROGRAM RM
+05-06-2024 15:27:35.136Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+05-06-2024 15:27:36.668Z;functions.loggin_RM;  ENCONTRA USE FIELD
+05-06-2024 15:27:37.152Z;functions.loggin_RM;  DUPLO CLICK
+05-06-2024 15:27:40.793Z;functions.loggin_RM;  ENTRAR USER_NAME
+05-06-2024 15:27:42.105Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+05-06-2024 15:27:42.371Z;functions.loggin_RM;  CLICK
+05-06-2024 15:27:44.496Z;functions.loggin_RM;  ENTRAR PASSWORD
+05-06-2024 15:27:46.482Z;functions.loggin_RM;  ENTRAR RM
+05-06-2024 15:28:21.433Z;functions.enter_coligada;  CLICK CONTEXTO
+05-06-2024 15:28:26.214Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+05-06-2024 15:28:30.574Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+05-06-2024 15:28:30.704Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-06-2024 15:28:32.996Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-06-2024 15:28:34.808Z;functions.enter_coligada;  CLICK CONCLUIR
+05-06-2024 15:30:54.761Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+05-06-2024 15:30:55.808Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+05-06-2024 15:30:57.654Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+05-06-2024 15:30:58.714Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA

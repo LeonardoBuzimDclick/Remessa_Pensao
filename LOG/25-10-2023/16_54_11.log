@@ -1,0 +1,45 @@
+25-10-2023 16:54:11.895Z;functions.bot_text_art;      ____   
+25-10-2023 16:54:11.895Z;functions.bot_text_art;     [____]    
+25-10-2023 16:54:11.895Z;functions.bot_text_art;   |=]()()[=|  
+25-10-2023 16:54:11.896Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-10-2023 16:54:11.896Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-10-2023 16:54:11.896Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-10-2023 16:54:11.897Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-10-2023 16:54:11.897Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-10-2023 16:54:11.899Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-10-2023 16:54:11.899Z;functions.bot_text_art;     |_||_|                                                     
+25-10-2023 16:54:11.899Z;functions.bot_text_art;     | ||_|_   
+25-10-2023 16:54:11.899Z;functions.bot_text_art;   |___||___|  
+25-10-2023 16:54:11.900Z;functions.bot_text_art;               
+25-10-2023 16:54:11.903Z;functions.open_RM;  OPEN PROGRAM RM
+25-10-2023 16:54:19.085Z;functions.loggin_RM;  ENTER USER_NAME
+25-10-2023 16:54:19.908Z;functions.loggin_RM;  ENTER PASSWORD
+25-10-2023 16:54:20.600Z;functions.loggin_RM;  ENTER RM
+25-10-2023 16:54:40.819Z;functions.enter_coligada;  CLICK CONTEXTO
+25-10-2023 16:54:44.713Z;functions.enter_coligada;  CLICK COLIGADA 1
+25-10-2023 16:54:46.118Z;functions.enter_coligada;  CLICK AVANÇAR
+25-10-2023 16:54:47.669Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-10-2023 16:54:47.771Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-10-2023 16:54:48.768Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-10-2023 16:54:49.651Z;functions.enter_coligada;  CLICK CONCLUIR
+25-10-2023 16:55:00.179Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-10-2023 16:55:00.813Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-10-2023 16:55:01.942Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-10-2023 16:55:02.672Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-10-2023 16:55:05.645Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-10-2023 16:55:05.710Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-10-2023 16:55:07.813Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-10-2023 16:55:09.814Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-10-2023 16:55:09.814Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+25-10-2023 16:55:09.815Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+25-10-2023 16:55:16.056Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+25-10-2023 16:55:16.680Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-10-2023 16:55:18.505Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+25-10-2023 16:55:20.028Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+25-10-2023 16:55:20.675Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-10-2023 16:55:26.475Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-10-2023 16:55:27.326Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-10-2023 16:55:28.220Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-10-2023 16:55:29.134Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-10-2023 16:55:30.054Z;functions.desmark_filter;  ATUALIZA O FILTRO
+25-10-2023 16:56:30.295Z;functions.waitForImage;  FILTER CLEAN image not found.

@@ -1,0 +1,82 @@
+26-10-2023 17:10:48.385Z;functions.bot_text_art;      ____   
+26-10-2023 17:10:48.385Z;functions.bot_text_art;     [____]    
+26-10-2023 17:10:48.385Z;functions.bot_text_art;   |=]()()[=|  
+26-10-2023 17:10:48.386Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+26-10-2023 17:10:48.386Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+26-10-2023 17:10:48.387Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+26-10-2023 17:10:48.387Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+26-10-2023 17:10:48.387Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+26-10-2023 17:10:48.389Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+26-10-2023 17:10:48.389Z;functions.bot_text_art;     |_||_|                                                     
+26-10-2023 17:10:48.390Z;functions.bot_text_art;     | ||_|_   
+26-10-2023 17:10:48.390Z;functions.bot_text_art;   |___||___|  
+26-10-2023 17:10:48.390Z;functions.bot_text_art;               
+26-10-2023 17:10:48.394Z;functions.open_RM;  OPEN PROGRAM RM
+26-10-2023 17:10:55.835Z;functions.loggin_RM;  ENTER USER_NAME
+26-10-2023 17:10:56.654Z;functions.loggin_RM;  ENTER PASSWORD
+26-10-2023 17:10:57.326Z;functions.loggin_RM;  ENTER RM
+26-10-2023 17:11:17.521Z;functions.enter_coligada;  CLICK CONTEXTO
+26-10-2023 17:11:21.551Z;functions.enter_coligada;  CLICK COLIGADA 1
+26-10-2023 17:11:22.700Z;functions.enter_coligada;  CLICK AVANÇAR
+26-10-2023 17:11:24.499Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+26-10-2023 17:11:24.601Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+26-10-2023 17:11:25.588Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+26-10-2023 17:11:26.480Z;functions.enter_coligada;  CLICK CONCLUIR
+26-10-2023 17:11:36.982Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+26-10-2023 17:11:37.614Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+26-10-2023 17:11:38.675Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+26-10-2023 17:11:39.387Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+26-10-2023 17:11:42.327Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+26-10-2023 17:11:42.436Z;functions.waitForImage;  LANÇAMENTOS image found.
+26-10-2023 17:11:44.538Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+26-10-2023 17:11:46.539Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+26-10-2023 17:11:46.540Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+26-10-2023 17:11:46.540Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+26-10-2023 17:11:53.156Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+26-10-2023 17:11:53.771Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+26-10-2023 17:11:56.111Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+26-10-2023 17:11:57.992Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+26-10-2023 17:11:58.641Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+26-10-2023 17:12:30.491Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+26-10-2023 17:12:31.331Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+26-10-2023 17:12:32.188Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+26-10-2023 17:12:33.088Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+26-10-2023 17:12:34.001Z;functions.desmark_filter;  ATUALIZA O FILTRO
+26-10-2023 17:12:34.001Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+26-10-2023 17:12:46.701Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 115 registros?
+26-10-2023 17:12:48.804Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+26-10-2023 17:12:49.602Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+26-10-2023 17:12:49.705Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+26-10-2023 17:12:52.414Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+26-10-2023 17:12:54.516Z;functions.desbloqueio;  SETA PARA DIREITA
+26-10-2023 17:12:57.427Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+26-10-2023 17:12:59.529Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+26-10-2023 17:14:24.354Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa Ferias Rescisao\main.py", line 21, in <module>
+    desbloqueio()
+  File "c:\Projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 308, in desbloqueio
+    desbloqueio_sucesso = waitForImage(image = exe_desbloqueio_sucesso, timeout=360, name = 'FILTER CLEAN')
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 669, in waitForImage
+    location = pyautogui.locateOnScreen(image=image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\pyscreeze\__init__.py", line 375, in locateOnScreen
+    screenshotIm = screenshot(
+                   ^^^^^^^^^^^
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\pyscreeze\__init__.py", line 512, in _screenshot_win32
+    im = ImageGrab.grab()
+         ^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\PIL\ImageGrab.py", line 47, in grab
+    offset, size, data = Image.core.grabscreen_win32(
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

@@ -1,0 +1,6 @@
+15-01-2024 11:36:16.185Z;functions.show_exception_and_exit;  division by zero
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Pensao\main.py", line 10, in <module>
+    a = 0/0
+        ~^~
+ZeroDivisionError: division by zero

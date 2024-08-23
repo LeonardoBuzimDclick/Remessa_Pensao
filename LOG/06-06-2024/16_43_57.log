@@ -1,0 +1,77 @@
+06-06-2024 16:43:58.042Z;functions.bot_text_art;      ____     
+06-06-2024 16:43:58.042Z;functions.bot_text_art;     [____]    
+06-06-2024 16:43:58.042Z;functions.bot_text_art;   |=]()()[=|  
+06-06-2024 16:43:58.042Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+06-06-2024 16:43:58.042Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+06-06-2024 16:43:58.042Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+06-06-2024 16:43:58.042Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+06-06-2024 16:43:58.042Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+06-06-2024 16:43:58.052Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+06-06-2024 16:43:58.052Z;functions.bot_text_art;     |_||_|    
+06-06-2024 16:43:58.053Z;functions.bot_text_art;     | ||_|_   
+06-06-2024 16:43:58.053Z;functions.bot_text_art;   |___||___|  
+06-06-2024 16:43:58.054Z;functions.bot_text_art;               
+06-06-2024 16:43:58.076Z;functions.open_RM;  OPEN PROGRAM RM
+06-06-2024 16:44:09.791Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+06-06-2024 16:44:10.651Z;functions.loggin_RM;  ENCONTRA USE FIELD
+06-06-2024 16:44:10.796Z;functions.loggin_RM;  DUPLO CLICK
+06-06-2024 16:44:14.104Z;functions.loggin_RM;  ENTRAR USER_NAME
+06-06-2024 16:44:15.323Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+06-06-2024 16:44:15.542Z;functions.loggin_RM;  CLICK
+06-06-2024 16:44:17.652Z;functions.loggin_RM;  ENTRAR PASSWORD
+06-06-2024 16:44:18.974Z;functions.loggin_RM;  ENTRAR RM
+06-06-2024 16:44:58.231Z;functions.enter_coligada;  CLICK CONTEXTO
+06-06-2024 16:45:03.292Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+06-06-2024 16:45:07.401Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+06-06-2024 16:45:07.605Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+06-06-2024 16:45:09.573Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+06-06-2024 16:45:10.916Z;functions.enter_coligada;  CLICK CONCLUIR
+06-06-2024 16:46:30.573Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+06-06-2024 16:46:31.542Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+06-06-2024 16:46:33.323Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+06-06-2024 16:46:36.042Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+06-06-2024 16:46:36.042Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 16
+06-06-2024 16:46:36.081Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+06-06-2024 16:46:36.083Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+06-06-2024 16:46:36.093Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+06-06-2024 16:46:36.096Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+06-06-2024 16:46:36.104Z;functions.obter_intervalo_data;  hoje -  2024-06-06 16:46:36.104115
+06-06-2024 16:46:36.106Z;functions.check_movimentacao_bancaria;  DATA INICIO 12-06-2024
+06-06-2024 16:46:36.111Z;functions.check_movimentacao_bancaria;  DATA FIM 18-06-2024
+06-06-2024 16:46:42.604Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+06-06-2024 16:46:45.010Z;functions.waitForImage;  IMAGEM BORDERO image found.
+06-06-2024 16:46:47.143Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+06-06-2024 16:46:57.589Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+06-06-2024 16:47:00.026Z;functions.waitForImage;  LICENCE SERVER image not found.
+06-06-2024 16:47:00.729Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+06-06-2024 16:47:00.796Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+06-06-2024 16:47:05.010Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+06-06-2024 16:47:05.026Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+06-06-2024 16:47:08.713Z;functions.waitForImage;  FILTER CLEAN image found.
+06-06-2024 16:47:10.861Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+06-06-2024 16:47:11.089Z;functions.waitForImage;  FILTER CLEAN image found.
+06-06-2024 16:47:13.206Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+06-06-2024 16:47:28.338Z;functions.waitForImage;  FILTER CLEAN image not found.
+06-06-2024 16:47:29.885Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+06-06-2024 16:47:31.132Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+06-06-2024 16:47:33.417Z;functions.movimentacao_bancaria;  HOVER FILTER
+06-06-2024 16:47:34.020Z;functions.movimentacao_bancaria;  CLICK FILTER
+06-06-2024 16:47:38.344Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+06-06-2024 16:47:40.448Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+06-06-2024 16:47:42.555Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+06-06-2024 16:47:44.659Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+06-06-2024 16:48:04.183Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+06-06-2024 16:48:04.183Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+06-06-2024 16:48:04.441Z;functions.waitForImage;  FILTER CLEAN image found.
+06-06-2024 16:48:06.550Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+06-06-2024 16:48:21.852Z;functions.waitForImage;  FILTER CLEAN image not found.
+06-06-2024 16:48:36.917Z;functions.waitForImage;  FILTER CLEAN image not found.
+06-06-2024 16:48:38.698Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+06-06-2024 16:48:40.448Z;functions.remessa_pagamento;  HOVER FILTER
+06-06-2024 16:48:41.064Z;functions.remessa_pagamento;  CLICK FILTER
+06-06-2024 16:48:45.385Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+06-06-2024 16:48:47.488Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+06-06-2024 16:48:49.595Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+06-06-2024 16:48:51.700Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+06-06-2024 16:49:12.322Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+06-06-2024 16:49:13.325Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM

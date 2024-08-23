@@ -1,0 +1,25 @@
+08-11-2023 16:32:53.810Z;functions.bot_text_art;      ____   
+08-11-2023 16:32:53.810Z;functions.bot_text_art;     [____]    
+08-11-2023 16:32:53.811Z;functions.bot_text_art;   |=]()()[=|  
+08-11-2023 16:32:53.811Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-11-2023 16:32:53.811Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-11-2023 16:32:53.812Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-11-2023 16:32:53.812Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-11-2023 16:32:53.813Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-11-2023 16:32:53.814Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-11-2023 16:32:53.815Z;functions.bot_text_art;     |_||_|                                                     
+08-11-2023 16:32:53.815Z;functions.bot_text_art;     | ||_|_   
+08-11-2023 16:32:53.815Z;functions.bot_text_art;   |___||___|  
+08-11-2023 16:32:53.815Z;functions.bot_text_art;               
+08-11-2023 16:32:53.819Z;functions.open_RM;  OPEN PROGRAM RM
+08-11-2023 16:35:15.487Z;functions.loggin_RM;  ENTER USER_NAME
+08-11-2023 16:35:16.293Z;functions.loggin_RM;  ENTER PASSWORD
+08-11-2023 16:35:16.956Z;functions.loggin_RM;  ENTER RM
+08-11-2023 16:40:21.043Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Ferias_Rescisao\main.py", line 13, in <module>
+    enter_coligada()
+  File "c:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 76, in enter_coligada
+    click_context.click()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

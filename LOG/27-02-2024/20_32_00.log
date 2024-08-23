@@ -1,0 +1,95 @@
+27-02-2024 20:32:00.813Z;functions.bot_text_art;      ____     
+27-02-2024 20:32:00.828Z;functions.bot_text_art;     [____]    
+27-02-2024 20:32:00.828Z;functions.bot_text_art;   |=]()()[=|  
+27-02-2024 20:32:00.828Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+27-02-2024 20:32:00.828Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+27-02-2024 20:32:00.828Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+27-02-2024 20:32:00.828Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+27-02-2024 20:32:00.828Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+27-02-2024 20:32:00.828Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+27-02-2024 20:32:00.828Z;functions.bot_text_art;     |_||_|    
+27-02-2024 20:32:00.828Z;functions.bot_text_art;     | ||_|_   
+27-02-2024 20:32:00.828Z;functions.bot_text_art;   |___||___|  
+27-02-2024 20:32:00.828Z;functions.bot_text_art;               
+27-02-2024 20:32:00.828Z;functions.open_RM;  OPEN PROGRAM RM
+27-02-2024 20:32:20.293Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+27-02-2024 20:32:21.246Z;functions.loggin_RM;  ENCONTRA USE FIELD
+27-02-2024 20:32:21.574Z;functions.loggin_RM;  DUPLO CLICK
+27-02-2024 20:32:23.076Z;functions.loggin_RM;  ENTRAR USER_NAME
+27-02-2024 20:32:24.077Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+27-02-2024 20:32:24.295Z;functions.loggin_RM;  CLICK
+27-02-2024 20:32:24.421Z;functions.loggin_RM;  ENTRAR PASSWORD
+27-02-2024 20:32:25.532Z;functions.loggin_RM;  ENTRAR RM
+27-02-2024 20:33:24.904Z;functions.enter_coligada;  CLICK CONTEXTO
+27-02-2024 20:33:30.476Z;functions.enter_coligada;  CLICK COLIGADA 1
+27-02-2024 20:33:33.102Z;functions.enter_coligada;  CLICK AVANÇAR
+27-02-2024 20:33:35.844Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+27-02-2024 20:33:35.949Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+27-02-2024 20:33:38.219Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+27-02-2024 20:33:39.950Z;functions.enter_coligada;  CLICK CONCLUIR
+27-02-2024 20:34:14.050Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+27-02-2024 20:34:14.863Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+27-02-2024 20:34:16.504Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+27-02-2024 20:34:19.210Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+27-02-2024 20:34:33.217Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+27-02-2024 20:34:34.515Z;functions.movimentacao_bancaria;  CLICK NO ICONE BORDERO DE PAGAMENTO
+27-02-2024 20:34:46.742Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+27-02-2024 20:34:46.742Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+27-02-2024 20:35:46.862Z;functions.waitForImage;  FILTER CLEAN image not found.
+27-02-2024 20:35:48.216Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+27-02-2024 20:35:49.444Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+27-02-2024 20:35:51.312Z;functions.movimentacao_bancaria;  HOVER FILTER
+27-02-2024 20:35:51.766Z;functions.movimentacao_bancaria;  CLICK FILTER
+27-02-2024 20:35:56.094Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+27-02-2024 20:35:58.199Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+27-02-2024 20:36:00.315Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+27-02-2024 20:36:02.419Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+27-02-2024 20:36:23.847Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+27-02-2024 20:36:23.847Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+27-02-2024 20:36:24.159Z;functions.waitForImage;  FILTER CLEAN image found.
+27-02-2024 20:36:26.282Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+27-02-2024 20:36:29.816Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+27-02-2024 20:36:31.708Z;functions.remessa_pagamento;  HOVER FILTER
+27-02-2024 20:36:32.148Z;functions.remessa_pagamento;  CLICK FILTER
+27-02-2024 20:36:36.484Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+27-02-2024 20:36:38.589Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+27-02-2024 20:36:40.706Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+27-02-2024 20:36:42.810Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+27-02-2024 20:36:48.425Z;functions.remessa_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+27-02-2024 20:36:50.466Z;functions.check_user_bot;  Texto extraido 0/0
+27-02-2024 20:36:50.466Z;functions.check_user_bot;  Count 0
+27-02-2024 20:36:50.466Z;functions.check_user_bot;  Type <class 'int'>
+27-02-2024 20:36:50.466Z;functions.show_exception_and_exit;  cannot access local variable 'i' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 14, in <module>
+    check_movimentacao_bancaria() ###
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 1112, in check_movimentacao_bancaria
+    remessa_pagamento()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 760, in remessa_pagamento
+    check_user_bot()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 1051, in check_user_bot
+    if i == count:
+       ^
+UnboundLocalError: cannot access local variable 'i' where it is not associated with a value
+27-02-2024 20:36:50.888Z;functions.show_exception_and_exit;  RM FECHADO
+27-02-2024 20:36:56.438Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+27-02-2024 20:36:56.485Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+27-02-2024 20:36:56.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+27-02-2024 20:36:56.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+27-02-2024 20:36:56.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+27-02-2024 20:36:56.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+27-02-2024 20:36:56.751Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+27-02-2024 20:36:56.860Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+27-02-2024 20:36:56.876Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+27-02-2024 20:36:56.876Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+27-02-2024 20:36:56.876Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+27-02-2024 20:36:56.876Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+27-02-2024 20:36:56.876Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+27-02-2024 20:36:56.923Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+27-02-2024 20:36:56.923Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+27-02-2024 20:36:56.938Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+27-02-2024 20:36:56.938Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+27-02-2024 20:36:56.938Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+27-02-2024 20:37:00.300Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+27-02-2024 20:37:00.300Z;functions.show_exception_and_exit;  ERRO - <class 'UnboundLocalError'> / cannot access local variable 'i' where it is not associated with a value

@@ -1,0 +1,364 @@
+19-03-2024 08:59:12.590Z;functions.bot_text_art;      ____     
+19-03-2024 08:59:12.590Z;functions.bot_text_art;     [____]    
+19-03-2024 08:59:12.590Z;functions.bot_text_art;   |=]()()[=|  
+19-03-2024 08:59:12.590Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+19-03-2024 08:59:12.590Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+19-03-2024 08:59:12.590Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+19-03-2024 08:59:12.590Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+19-03-2024 08:59:12.590Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+19-03-2024 08:59:12.590Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+19-03-2024 08:59:12.590Z;functions.bot_text_art;     |_||_|    
+19-03-2024 08:59:12.590Z;functions.bot_text_art;     | ||_|_   
+19-03-2024 08:59:12.590Z;functions.bot_text_art;   |___||___|  
+19-03-2024 08:59:12.590Z;functions.bot_text_art;               
+19-03-2024 08:59:12.606Z;functions.open_RM;  OPEN PROGRAM RM
+19-03-2024 08:59:27.146Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+19-03-2024 08:59:28.199Z;functions.loggin_RM;  ENCONTRA USE FIELD
+19-03-2024 08:59:28.465Z;functions.loggin_RM;  DUPLO CLICK
+19-03-2024 08:59:32.136Z;functions.loggin_RM;  ENTRAR USER_NAME
+19-03-2024 08:59:33.246Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+19-03-2024 08:59:33.558Z;functions.loggin_RM;  CLICK
+19-03-2024 08:59:35.685Z;functions.loggin_RM;  ENTRAR PASSWORD
+19-03-2024 08:59:36.918Z;functions.loggin_RM;  ENTRAR RM
+19-03-2024 09:00:22.058Z;functions.enter_coligada;  CLICK CONTEXTO
+19-03-2024 09:00:27.590Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+19-03-2024 09:00:32.535Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+19-03-2024 09:00:32.641Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+19-03-2024 09:00:34.432Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+19-03-2024 09:00:35.996Z;functions.enter_coligada;  CLICK CONCLUIR
+19-03-2024 09:01:07.511Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+19-03-2024 09:01:08.355Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+19-03-2024 09:01:10.183Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+19-03-2024 09:01:12.948Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+19-03-2024 09:01:22.418Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+19-03-2024 09:01:24.844Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:01:26.970Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:01:29.924Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:01:29.924Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:01:29.924Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+19-03-2024 09:01:51.416Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:01:53.556Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:01:55.715Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:01:55.715Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:01:55.715Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+19-03-2024 09:02:17.182Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:02:19.314Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:02:21.432Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:02:21.432Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:02:21.432Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 3
+19-03-2024 09:02:42.931Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:02:45.061Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:02:47.182Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:02:47.182Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:02:47.182Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 4
+19-03-2024 09:03:08.713Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:03:10.832Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:03:12.931Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:03:12.931Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:03:12.931Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 5
+19-03-2024 09:03:34.370Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:03:36.502Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:03:38.681Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:03:38.681Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:03:38.681Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 6
+19-03-2024 09:04:00.178Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:04:02.298Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:04:03.527Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:04:03.527Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:04:03.527Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 7
+19-03-2024 09:04:25.015Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:04:27.171Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:04:29.258Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:04:29.258Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:04:29.258Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 8
+19-03-2024 09:04:50.725Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:04:52.855Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:04:54.055Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:04:54.055Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:04:54.055Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 9
+19-03-2024 09:05:15.539Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:05:17.661Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:05:18.900Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:05:18.900Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:05:18.900Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 10
+19-03-2024 09:05:40.398Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:05:42.524Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:05:44.687Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:05:44.687Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:05:44.687Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 11
+19-03-2024 09:06:06.164Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:06:08.299Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:06:10.429Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:06:10.429Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:06:10.429Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 12
+19-03-2024 09:06:31.897Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:06:34.025Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:06:36.117Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:06:36.117Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:06:36.117Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 13
+19-03-2024 09:06:57.603Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:06:59.736Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:07:01.834Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:07:01.834Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:07:01.834Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 14
+19-03-2024 09:07:23.304Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:07:25.433Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:07:27.551Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:07:27.551Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:07:27.551Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 15
+19-03-2024 09:07:49.038Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:07:51.168Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:07:53.272Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:07:53.272Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:07:53.272Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 16
+19-03-2024 09:08:14.725Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:08:16.857Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:08:18.820Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:08:18.820Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:08:18.820Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 17
+19-03-2024 09:08:40.304Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:08:42.426Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:08:44.521Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:08:44.521Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:08:44.521Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 18
+19-03-2024 09:09:06.001Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:09:08.124Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:09:10.164Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:09:10.164Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:09:10.165Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 19
+19-03-2024 09:09:31.628Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:09:33.751Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:09:35.864Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:09:35.864Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:09:35.864Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 20
+19-03-2024 09:09:57.349Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:09:59.476Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:10:01.581Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:10:01.581Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:10:01.581Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 21
+19-03-2024 09:12:23.661Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:12:25.797Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:12:27.919Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:12:27.919Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:12:27.919Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+19-03-2024 09:12:49.395Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:12:51.523Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:12:53.723Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:12:53.723Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:12:53.723Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+19-03-2024 09:13:15.207Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:13:17.341Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:13:19.442Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:13:19.442Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:13:19.442Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 3
+19-03-2024 09:13:40.927Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:13:43.045Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:13:45.191Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:13:45.191Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:13:45.191Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 4
+19-03-2024 09:14:06.656Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:14:08.775Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:14:10.858Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:14:10.858Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:14:10.858Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 5
+19-03-2024 09:14:32.331Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:14:34.457Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:14:36.503Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:14:36.503Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:14:36.503Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 6
+19-03-2024 09:14:57.970Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:15:00.100Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:15:02.175Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:15:02.175Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:15:02.175Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 7
+19-03-2024 09:15:23.706Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:15:25.832Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:15:27.965Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:15:27.965Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:15:27.965Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 8
+19-03-2024 09:15:49.440Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:15:51.565Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:15:53.784Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:15:53.784Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:15:53.784Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 9
+19-03-2024 09:16:15.267Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:16:17.388Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:16:19.577Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:16:19.577Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:16:19.577Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 10
+19-03-2024 09:16:41.136Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:16:43.260Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:16:45.440Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:16:45.440Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:16:45.440Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 11
+19-03-2024 09:17:06.931Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:17:09.065Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:17:11.071Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:17:11.071Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:17:11.071Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 12
+19-03-2024 09:17:32.552Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:17:34.675Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:17:36.772Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:17:36.772Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:17:36.772Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 13
+19-03-2024 09:17:58.252Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:18:00.378Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:18:02.548Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:18:02.548Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:18:02.548Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 14
+19-03-2024 09:18:24.048Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:18:26.171Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:18:28.282Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:18:28.282Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:18:28.282Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 15
+19-03-2024 09:18:49.771Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:18:51.895Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:18:54.033Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:18:54.033Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:18:54.033Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 16
+19-03-2024 09:19:15.532Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:19:17.666Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:19:19.805Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:19:19.805Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:19:19.805Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 17
+19-03-2024 09:19:41.298Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:19:43.426Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:19:45.572Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:19:45.572Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:19:45.572Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 18
+19-03-2024 09:20:07.061Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:20:09.192Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:20:10.406Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:20:10.406Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:20:10.406Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 19
+19-03-2024 09:20:31.899Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:20:34.021Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:20:35.235Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:20:35.251Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:20:35.251Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 20
+19-03-2024 09:20:56.746Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:20:58.869Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:21:00.850Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:21:00.850Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:21:00.850Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 21
+19-03-2024 09:23:25.061Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:23:27.184Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:23:29.389Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:23:29.389Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:23:29.389Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+19-03-2024 09:23:50.853Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:23:52.986Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:23:55.072Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:23:55.072Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:23:55.072Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+19-03-2024 09:24:16.540Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:24:18.681Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:24:20.811Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+19-03-2024 09:24:20.811Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+19-03-2024 09:24:20.811Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 3
+19-03-2024 09:24:42.311Z;functions.waitForImage;  IMAGEM BORDERO image found.
+19-03-2024 09:24:44.431Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+19-03-2024 09:25:04.587Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+19-03-2024 09:25:05.295Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+19-03-2024 09:25:05.342Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+19-03-2024 09:25:09.562Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+19-03-2024 09:25:09.562Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+19-03-2024 09:25:13.936Z;functions.waitForImage;  FILTER CLEAN image found.
+19-03-2024 09:25:16.061Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+19-03-2024 09:25:16.405Z;functions.waitForImage;  FILTER CLEAN image found.
+19-03-2024 09:25:18.542Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+19-03-2024 09:25:33.844Z;functions.waitForImage;  FILTER CLEAN image not found.
+19-03-2024 09:25:35.263Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+19-03-2024 09:25:36.491Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+19-03-2024 09:25:38.513Z;functions.movimentacao_bancaria;  HOVER FILTER
+19-03-2024 09:25:39.038Z;functions.movimentacao_bancaria;  CLICK FILTER
+19-03-2024 09:25:43.366Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+19-03-2024 09:25:45.470Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+19-03-2024 09:25:47.586Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+19-03-2024 09:25:49.689Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+19-03-2024 09:25:54.559Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+19-03-2024 09:25:56.667Z;functions.movimentacao_bancaria;  CLICK EM PROCESSOS
+19-03-2024 09:25:58.772Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+19-03-2024 09:26:00.875Z;functions.movimentacao_bancaria;  APERTA ENTER
+19-03-2024 09:26:03.951Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+19-03-2024 09:26:20.859Z;functions.waitForImage;  PRESS BUTTON OK image found.
+19-03-2024 09:26:22.874Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+19-03-2024 09:26:25.763Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+19-03-2024 09:26:27.767Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+19-03-2024 09:26:28.080Z;functions.waitForImage;  FILTER CLEAN image found.
+19-03-2024 09:26:30.209Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+19-03-2024 09:26:45.481Z;functions.waitForImage;  FILTER CLEAN image not found.
+19-03-2024 09:27:00.661Z;functions.waitForImage;  FILTER CLEAN image not found.
+19-03-2024 09:27:02.404Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+19-03-2024 09:27:04.435Z;functions.remessa_pagamento;  HOVER FILTER
+19-03-2024 09:27:04.919Z;functions.remessa_pagamento;  CLICK FILTER
+19-03-2024 09:27:09.255Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+19-03-2024 09:27:11.358Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+19-03-2024 09:27:13.476Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+19-03-2024 09:27:15.579Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+19-03-2024 09:27:22.519Z;functions.remessa_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+19-03-2024 09:27:24.654Z;functions.check_user_bot;  Texto extraido 1/1
+19-03-2024 09:27:24.654Z;functions.check_user_bot;  Count 1
+19-03-2024 09:27:24.654Z;functions.check_user_bot;  Type <class 'int'>
+19-03-2024 09:27:26.772Z;functions.check_user_bot;  CHECK USER BOT 1
+19-03-2024 09:27:28.773Z;functions.check_user_bot;  asfernandes
+19-03-2024 09:27:28.773Z;functions.check_user_bot;  O USUÁRIO NÃO É INTEGRAÇÃO PARA ESSA REMESSA PARA PARA DE BAIXO
+19-03-2024 09:27:28.878Z;functions.check_user_bot;  COUNT1: 0
+19-03-2024 09:27:29.795Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+19-03-2024 09:27:31.450Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+19-03-2024 09:27:32.653Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+19-03-2024 09:27:41.043Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+19-03-2024 09:27:42.215Z;functions.waitForImage;  LANÇAMENTOS image found.
+19-03-2024 09:27:44.345Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+19-03-2024 09:27:59.908Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+19-03-2024 09:27:59.908Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 9
+19-03-2024 09:27:59.908Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+19-03-2024 09:27:59.908Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+19-03-2024 09:27:59.924Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+19-03-2024 09:27:59.924Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+19-03-2024 09:27:59.924Z;functions.obter_intervalo_data;  hoje -  2024-03-19 09:27:59.924171
+19-03-2024 09:27:59.924Z;functions.data_filter;  DATA INICIO 20-03-2024
+19-03-2024 09:27:59.924Z;functions.data_filter;  DATA FIM 26-03-2024
+19-03-2024 09:27:59.924Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+19-03-2024 09:27:59.924Z;functions.data_filter;  QUARTA-FEIRA: 20-03-2024
+19-03-2024 09:27:59.924Z;functions.data_filter;  TERCA-FEIRA: 26-03-2024
+19-03-2024 09:28:03.086Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+19-03-2024 09:28:03.919Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+19-03-2024 09:28:08.404Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 20-03-2024
+19-03-2024 09:28:12.434Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 26-03-2024
+19-03-2024 09:28:13.324Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+19-03-2024 09:28:19.949Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+19-03-2024 09:28:21.652Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+19-03-2024 09:28:23.578Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+19-03-2024 09:28:25.637Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+19-03-2024 09:28:27.778Z;functions.desmark_filter;  ATUALIZA O FILTRO
+19-03-2024 09:28:27.778Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+19-03-2024 09:28:28.153Z;functions.waitForImage;  FILTER CLEAN image found.
+19-03-2024 09:28:30.257Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+19-03-2024 09:28:45.816Z;functions.waitForImage;  FILTER CLEAN image not found.
+19-03-2024 09:29:01.585Z;functions.waitForImage;  FILTER CLEAN image not found.
+19-03-2024 09:29:03.950Z;functions.tabela_vazia;  Texto extraido 0/0
+19-03-2024 09:29:03.950Z;functions.tabela_vazia;  Count 0
+19-03-2024 09:29:03.950Z;functions.tabela_vazia;  Type <class 'int'>
+19-03-2024 09:29:05.958Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+19-03-2024 09:29:07.959Z;main.<module>;  SEM REMESSA DE PENSÃO
+19-03-2024 09:29:10.513Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+19-03-2024 09:29:10.560Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+19-03-2024 09:29:10.575Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+19-03-2024 09:29:10.575Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+19-03-2024 09:29:10.575Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+19-03-2024 09:29:10.575Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+19-03-2024 09:29:10.825Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+19-03-2024 09:29:10.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+19-03-2024 09:29:10.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+19-03-2024 09:29:10.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+19-03-2024 09:29:10.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+19-03-2024 09:29:10.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+19-03-2024 09:29:10.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+19-03-2024 09:29:10.966Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+19-03-2024 09:29:10.981Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+19-03-2024 09:29:10.981Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+19-03-2024 09:29:10.981Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+19-03-2024 09:29:10.981Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+19-03-2024 09:29:13.684Z;functions.emailFinalizado;  Warning e-mail sent.
+19-03-2024 09:29:14.151Z;functions.encerra_prog;  RM ENCERRADO

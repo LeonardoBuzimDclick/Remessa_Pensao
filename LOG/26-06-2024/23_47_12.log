@@ -1,0 +1,58 @@
+26-06-2024 23:47:13.054Z;functions.bot_text_art;      ____     
+26-06-2024 23:47:13.054Z;functions.bot_text_art;     [____]    
+26-06-2024 23:47:13.054Z;functions.bot_text_art;   |=]()()[=|  
+26-06-2024 23:47:13.054Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+26-06-2024 23:47:13.054Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+26-06-2024 23:47:13.054Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+26-06-2024 23:47:13.054Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+26-06-2024 23:47:13.054Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+26-06-2024 23:47:13.054Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+26-06-2024 23:47:13.054Z;functions.bot_text_art;     |_||_|    
+26-06-2024 23:47:13.054Z;functions.bot_text_art;     | ||_|_   
+26-06-2024 23:47:13.054Z;functions.bot_text_art;   |___||___|  
+26-06-2024 23:47:13.054Z;functions.bot_text_art;               
+26-06-2024 23:47:13.069Z;functions.open_RM;  OPEN PROGRAM RM
+26-06-2024 23:47:29.507Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+26-06-2024 23:47:30.726Z;functions.loggin_RM;  ENCONTRA USE FIELD
+26-06-2024 23:47:31.101Z;functions.loggin_RM;  DUPLO CLICK
+26-06-2024 23:47:34.804Z;functions.loggin_RM;  ENTRAR USER_NAME
+26-06-2024 23:47:36.179Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+26-06-2024 23:47:36.476Z;functions.loggin_RM;  CLICK
+26-06-2024 23:47:38.612Z;functions.loggin_RM;  ENTRAR PASSWORD
+26-06-2024 23:47:40.212Z;functions.loggin_RM;  ENTRAR RM
+26-06-2024 23:48:42.179Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+26-06-2024 23:49:44.359Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+26-06-2024 23:50:47.119Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+26-06-2024 23:50:47.119Z;functions.enter_coligada;  AGUARDANDO 1
+26-06-2024 23:53:23.137Z;functions.enter_coligada;  apertou up
+26-06-2024 23:53:23.137Z;functions.enter_coligada;  AGUARDANDO 2
+26-06-2024 23:54:08.944Z;functions.enter_coligada;  CLICK CONTEXTO
+26-06-2024 23:54:24.803Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 14, in <module>
+    enter_coligada()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 148, in enter_coligada
+    click_alterar_contexto.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+26-06-2024 23:54:25.366Z;functions.show_exception_and_exit;  RM FECHADO
+26-06-2024 23:54:28.772Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+26-06-2024 23:54:28.803Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+26-06-2024 23:54:28.819Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+26-06-2024 23:54:28.819Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+26-06-2024 23:54:28.819Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+26-06-2024 23:54:28.819Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+26-06-2024 23:54:29.069Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+26-06-2024 23:54:29.163Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+26-06-2024 23:54:29.178Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+26-06-2024 23:54:29.178Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+26-06-2024 23:54:29.178Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+26-06-2024 23:54:29.178Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+26-06-2024 23:54:29.178Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+26-06-2024 23:54:29.225Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+26-06-2024 23:54:29.225Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+26-06-2024 23:54:29.225Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+26-06-2024 23:54:29.241Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+26-06-2024 23:54:29.241Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+26-06-2024 23:54:32.350Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+26-06-2024 23:54:32.350Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

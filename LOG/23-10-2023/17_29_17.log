@@ -1,0 +1,60 @@
+23-10-2023 17:29:18.086Z;functions.bot_text_art;      ____   
+23-10-2023 17:29:18.087Z;functions.bot_text_art;     [____]    
+23-10-2023 17:29:18.087Z;functions.bot_text_art;   |=]()()[=|  
+23-10-2023 17:29:18.087Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+23-10-2023 17:29:18.087Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+23-10-2023 17:29:18.088Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+23-10-2023 17:29:18.088Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+23-10-2023 17:29:18.089Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+23-10-2023 17:29:18.090Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+23-10-2023 17:29:18.090Z;functions.bot_text_art;     |_||_|                                                     
+23-10-2023 17:29:18.090Z;functions.bot_text_art;     | ||_|_   
+23-10-2023 17:29:18.091Z;functions.bot_text_art;   |___||___|  
+23-10-2023 17:29:18.091Z;functions.bot_text_art;               
+23-10-2023 17:29:18.321Z;functions.open_RM;  OPEN PROGRAM RM
+23-10-2023 17:31:50.520Z;functions.loggin_RM;  ENTER USER_NAME
+23-10-2023 17:31:51.336Z;functions.loggin_RM;  ENTER PASSWORD
+23-10-2023 17:31:52.005Z;functions.loggin_RM;  ENTER RM
+23-10-2023 17:32:23.784Z;functions.enter_coligada;  CLICK CONTEXTO
+23-10-2023 17:32:27.682Z;functions.enter_coligada;  CLICK COLIGADA 1
+23-10-2023 17:32:29.029Z;functions.enter_coligada;  CLICK AVANÇAR
+23-10-2023 17:32:30.258Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+23-10-2023 17:32:30.364Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+23-10-2023 17:32:31.135Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+23-10-2023 17:32:31.924Z;functions.enter_coligada;  CLICK CONCLUIR
+23-10-2023 17:32:42.032Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+23-10-2023 17:32:42.647Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+23-10-2023 17:32:43.732Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+23-10-2023 17:32:46.049Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+23-10-2023 17:32:50.739Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+23-10-2023 17:32:50.831Z;functions.waitForImage;  LANÇAMENTOS image found.
+23-10-2023 17:32:52.933Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+23-10-2023 17:32:54.934Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+23-10-2023 17:32:54.935Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+23-10-2023 17:32:54.936Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+23-10-2023 17:33:00.524Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+23-10-2023 17:33:01.155Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+23-10-2023 17:33:02.892Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+23-10-2023 17:33:04.243Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+23-10-2023 17:33:04.872Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+23-10-2023 17:33:10.714Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+23-10-2023 17:33:11.583Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+23-10-2023 17:33:12.554Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+23-10-2023 17:33:13.507Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+23-10-2023 17:33:14.562Z;functions.desmark_filter;  ATUALIZA O FILTRO
+23-10-2023 17:33:15.533Z;functions.desmark_filter;  SELECIONA TODAS AS TUPLAS
+23-10-2023 17:33:15.647Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+23-10-2023 17:33:18.354Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+23-10-2023 17:33:20.456Z;functions.desbloqueio;  SETA PARA DIREITA
+23-10-2023 17:33:23.365Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+23-10-2023 17:33:25.467Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+23-10-2023 17:33:26.335Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\projetos\Remessa Ferias Rescisao\main.py", line 17, in <module>
+    desbloqueio()
+  File "c:\projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 258, in desbloqueio
+    desbloqueio_sucesso = waitForImage(image = exe_desbloqueio_sucesso, timeout=360, name = 'FILTER CLEAN')
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 838, in waitForImage
+    time.sleep(0.5)
+KeyboardInterrupt

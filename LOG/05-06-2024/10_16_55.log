@@ -1,0 +1,128 @@
+05-06-2024 10:16:55.586Z;functions.bot_text_art;      ____     
+05-06-2024 10:16:55.586Z;functions.bot_text_art;     [____]    
+05-06-2024 10:16:55.597Z;functions.bot_text_art;   |=]()()[=|  
+05-06-2024 10:16:55.597Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+05-06-2024 10:16:55.598Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+05-06-2024 10:16:55.599Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+05-06-2024 10:16:55.600Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+05-06-2024 10:16:55.601Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+05-06-2024 10:16:55.604Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+05-06-2024 10:16:55.605Z;functions.bot_text_art;     |_||_|    
+05-06-2024 10:16:55.606Z;functions.bot_text_art;     | ||_|_   
+05-06-2024 10:16:55.606Z;functions.bot_text_art;   |___||___|  
+05-06-2024 10:16:55.607Z;functions.bot_text_art;               
+05-06-2024 10:16:55.617Z;functions.open_RM;  OPEN PROGRAM RM
+05-06-2024 10:17:14.602Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+05-06-2024 10:17:16.118Z;functions.loggin_RM;  ENCONTRA USE FIELD
+05-06-2024 10:17:16.587Z;functions.loggin_RM;  DUPLO CLICK
+05-06-2024 10:17:20.539Z;functions.loggin_RM;  ENTRAR USER_NAME
+05-06-2024 10:17:22.196Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+05-06-2024 10:17:22.680Z;functions.loggin_RM;  CLICK
+05-06-2024 10:17:24.796Z;functions.loggin_RM;  ENTRAR PASSWORD
+05-06-2024 10:17:26.712Z;functions.loggin_RM;  ENTRAR RM
+05-06-2024 10:18:11.742Z;functions.enter_coligada;  CLICK CONTEXTO
+05-06-2024 10:18:16.617Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+05-06-2024 10:18:20.664Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+05-06-2024 10:18:20.901Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-06-2024 10:18:23.055Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-06-2024 10:18:24.649Z;functions.enter_coligada;  CLICK CONCLUIR
+05-06-2024 10:19:47.746Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+05-06-2024 10:19:48.930Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+05-06-2024 10:19:51.055Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+05-06-2024 10:19:52.149Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+05-06-2024 10:19:58.461Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+05-06-2024 10:20:00.727Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:20:02.876Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:20:05.352Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:20:07.731Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:20:07.732Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:20:07.733Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+05-06-2024 10:20:19.227Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:20:21.344Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:20:22.333Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:20:24.961Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:20:24.961Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:20:24.961Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+05-06-2024 10:20:36.336Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:20:38.469Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:20:39.445Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:20:41.899Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:20:41.899Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:20:41.899Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 3
+05-06-2024 10:20:53.211Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:20:55.344Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:21:05.430Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+05-06-2024 10:21:07.930Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:21:08.789Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+05-06-2024 10:21:08.869Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+05-06-2024 10:21:13.180Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+05-06-2024 10:21:13.211Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+05-06-2024 10:21:17.742Z;functions.waitForImage;  FILTER CLEAN image found.
+05-06-2024 10:21:19.875Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+05-06-2024 10:21:20.133Z;functions.waitForImage;  FILTER CLEAN image found.
+05-06-2024 10:21:22.251Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+05-06-2024 10:21:37.758Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 10:21:39.742Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+05-06-2024 10:21:40.961Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+05-06-2024 10:21:43.648Z;functions.movimentacao_bancaria;  HOVER FILTER
+05-06-2024 10:21:44.283Z;functions.movimentacao_bancaria;  CLICK FILTER
+05-06-2024 10:21:48.598Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+05-06-2024 10:21:50.703Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+05-06-2024 10:21:52.809Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+05-06-2024 10:21:54.913Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+05-06-2024 10:22:15.711Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+05-06-2024 10:22:15.711Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+05-06-2024 10:22:15.947Z;functions.waitForImage;  FILTER CLEAN image found.
+05-06-2024 10:22:18.063Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+05-06-2024 10:22:33.430Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 10:22:48.711Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 10:22:50.992Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+05-06-2024 10:22:53.351Z;functions.remessa_pagamento;  HOVER FILTER
+05-06-2024 10:22:54.025Z;functions.remessa_pagamento;  CLICK FILTER
+05-06-2024 10:22:58.350Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+05-06-2024 10:23:00.456Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+05-06-2024 10:23:02.565Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+05-06-2024 10:23:04.670Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+05-06-2024 10:23:26.531Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+05-06-2024 10:23:27.680Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+05-06-2024 10:23:28.836Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+05-06-2024 10:23:29.961Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+05-06-2024 10:23:36.117Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+05-06-2024 10:23:37.102Z;functions.waitForImage;  LANÇAMENTOS image found.
+05-06-2024 10:23:39.219Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+05-06-2024 10:23:54.633Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+05-06-2024 10:23:54.648Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 10
+05-06-2024 10:23:54.681Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+05-06-2024 10:23:54.683Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+05-06-2024 10:23:54.701Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+05-06-2024 10:23:54.703Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+05-06-2024 10:23:54.705Z;functions.obter_intervalo_data;  hoje -  2024-06-05 10:23:54.705967
+05-06-2024 10:23:54.706Z;functions.data_filter;  DATA INICIO 12-06-2024
+05-06-2024 10:23:54.708Z;functions.data_filter;  DATA FIM 18-06-2024
+05-06-2024 10:23:54.714Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+05-06-2024 10:23:54.715Z;functions.data_filter;  QUARTA-FEIRA: 12-06-2024
+05-06-2024 10:23:54.719Z;functions.data_filter;  TERCA-FEIRA: 18-06-2024
+05-06-2024 10:24:07.744Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+05-06-2024 10:24:12.742Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 12-06-2024
+05-06-2024 10:24:17.570Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 18-06-2024
+05-06-2024 10:24:18.898Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+05-06-2024 10:24:26.554Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+05-06-2024 10:24:29.461Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+05-06-2024 10:24:32.054Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+05-06-2024 10:24:34.711Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+05-06-2024 10:24:37.867Z;functions.desmark_filter;  ATUALIZA O FILTRO
+05-06-2024 10:24:37.867Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+05-06-2024 10:24:38.117Z;functions.waitForImage;  FILTER CLEAN image found.
+05-06-2024 10:24:40.232Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+05-06-2024 10:24:55.789Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 10:25:11.211Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 10:25:15.054Z;functions.tabela_vazia;  Texto extraido 1/1
+05-06-2024 10:25:15.054Z;functions.tabela_vazia;  Count 1
+05-06-2024 10:25:15.054Z;functions.tabela_vazia;  Type <class 'int'>
+05-06-2024 10:25:15.054Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+05-06-2024 10:25:16.648Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+05-06-2024 10:25:16.785Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+05-06-2024 10:25:23.033Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+05-06-2024 10:25:25.150Z;functions.desbloqueio;  SETA PARA DIREITA
+05-06-2024 10:25:28.068Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+05-06-2024 10:25:30.172Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO

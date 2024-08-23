@@ -1,0 +1,181 @@
+05-06-2024 10:28:55.429Z;functions.bot_text_art;      ____     
+05-06-2024 10:28:55.429Z;functions.bot_text_art;     [____]    
+05-06-2024 10:28:55.429Z;functions.bot_text_art;   |=]()()[=|  
+05-06-2024 10:28:55.429Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+05-06-2024 10:28:55.429Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+05-06-2024 10:28:55.429Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+05-06-2024 10:28:55.429Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+05-06-2024 10:28:55.429Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+05-06-2024 10:28:55.445Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+05-06-2024 10:28:55.445Z;functions.bot_text_art;     |_||_|    
+05-06-2024 10:28:55.445Z;functions.bot_text_art;     | ||_|_   
+05-06-2024 10:28:55.445Z;functions.bot_text_art;   |___||___|  
+05-06-2024 10:28:55.445Z;functions.bot_text_art;               
+05-06-2024 10:28:55.445Z;functions.open_RM;  OPEN PROGRAM RM
+05-06-2024 10:29:16.993Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+05-06-2024 10:29:18.554Z;functions.loggin_RM;  ENCONTRA USE FIELD
+05-06-2024 10:29:19.031Z;functions.loggin_RM;  DUPLO CLICK
+05-06-2024 10:29:23.007Z;functions.loggin_RM;  ENTRAR USER_NAME
+05-06-2024 10:29:24.695Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+05-06-2024 10:29:25.179Z;functions.loggin_RM;  CLICK
+05-06-2024 10:29:27.309Z;functions.loggin_RM;  ENTRAR PASSWORD
+05-06-2024 10:29:29.210Z;functions.loggin_RM;  ENTRAR RM
+05-06-2024 10:30:15.398Z;functions.enter_coligada;  CLICK CONTEXTO
+05-06-2024 10:30:20.804Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+05-06-2024 10:30:25.058Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+05-06-2024 10:30:25.191Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-06-2024 10:30:27.335Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-06-2024 10:30:28.773Z;functions.enter_coligada;  CLICK CONCLUIR
+05-06-2024 10:31:36.335Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+05-06-2024 10:31:37.460Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+05-06-2024 10:31:39.429Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+05-06-2024 10:31:40.491Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+05-06-2024 10:31:46.804Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+05-06-2024 10:31:49.116Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:31:51.251Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:31:53.757Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:31:56.226Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:31:56.226Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:31:56.226Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+05-06-2024 10:32:07.620Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:32:09.751Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:32:10.742Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:32:13.288Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:32:13.288Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:32:13.288Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+05-06-2024 10:32:24.647Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:32:26.782Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:32:27.851Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:32:30.273Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:32:30.273Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:32:30.273Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 3
+05-06-2024 10:32:41.632Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:32:43.751Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:32:44.741Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:32:47.242Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:32:47.242Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:32:47.242Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 4
+05-06-2024 10:32:58.648Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:33:00.782Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:33:01.773Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:33:04.398Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:33:04.398Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:33:04.398Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 5
+05-06-2024 10:33:15.773Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:33:17.907Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:33:18.897Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:33:21.397Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:33:21.397Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:33:21.397Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 6
+05-06-2024 10:33:32.866Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:33:35.001Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:33:35.991Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:33:38.538Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:33:38.538Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:33:38.538Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 7
+05-06-2024 10:33:49.898Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:33:52.031Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:33:53.032Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:33:55.507Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:33:55.523Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:33:55.523Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 8
+05-06-2024 10:34:06.897Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:34:09.032Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:34:10.033Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:34:12.537Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:34:12.538Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:34:12.538Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 9
+05-06-2024 10:34:23.851Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:34:26.001Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:34:26.994Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:34:29.491Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:34:29.491Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:34:29.491Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 10
+05-06-2024 10:34:40.835Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:34:42.969Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:34:43.960Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:34:46.460Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:34:46.460Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:34:46.460Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 11
+05-06-2024 10:34:57.882Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:35:00.000Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:35:00.944Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:35:03.288Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:35:03.288Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:35:03.288Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 12
+05-06-2024 10:35:14.632Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:35:16.750Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:35:17.804Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:35:20.163Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:35:20.163Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:35:20.163Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 13
+05-06-2024 10:35:31.522Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:35:33.656Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:35:34.601Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:35:36.976Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:35:36.976Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:35:36.976Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 14
+05-06-2024 10:35:48.319Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:35:50.438Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:35:51.413Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:35:53.632Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:35:53.632Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:35:53.632Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 15
+05-06-2024 10:36:04.976Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:36:07.100Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:36:08.022Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:36:10.335Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:36:10.335Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:36:10.335Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 16
+05-06-2024 10:36:21.663Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:36:23.822Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:36:24.772Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:36:27.163Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:36:27.163Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:36:27.163Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 17
+05-06-2024 10:36:38.585Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:36:40.719Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:36:41.663Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:36:44.116Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:36:44.116Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:36:44.116Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 18
+05-06-2024 10:36:55.460Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:36:57.612Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:36:58.585Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:37:00.929Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:37:00.929Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:37:00.929Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 19
+05-06-2024 10:37:12.288Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:37:14.408Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:37:16.101Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:37:18.600Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:37:18.600Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:37:18.600Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 20
+05-06-2024 10:37:29.960Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:37:32.094Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:37:33.032Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:37:35.476Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:37:35.476Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:37:35.476Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 21
+05-06-2024 10:37:46.819Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:37:48.938Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:37:49.913Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:37:52.351Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:37:52.351Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:37:52.351Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 22
+05-06-2024 10:38:03.694Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:38:05.812Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:38:06.757Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:38:09.272Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:38:09.272Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:38:09.272Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 23
+05-06-2024 10:38:20.632Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:38:22.765Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:38:23.725Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 10:38:26.210Z;functions.waitForImage;  LICENCE SERVER image not found.
+05-06-2024 10:38:26.210Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 10:38:26.210Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 24
+05-06-2024 10:38:37.536Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 10:38:39.656Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 10:38:50.163Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+05-06-2024 10:38:52.696Z;functions.waitForImage;  LICENCE SERVER image not found.

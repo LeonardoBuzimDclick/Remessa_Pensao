@@ -1,0 +1,121 @@
+28-02-2024 20:32:02.035Z;functions.bot_text_art;      ____     
+28-02-2024 20:32:02.035Z;functions.bot_text_art;     [____]    
+28-02-2024 20:32:02.035Z;functions.bot_text_art;   |=]()()[=|  
+28-02-2024 20:32:02.035Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+28-02-2024 20:32:02.035Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+28-02-2024 20:32:02.035Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+28-02-2024 20:32:02.035Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+28-02-2024 20:32:02.035Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+28-02-2024 20:32:02.035Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+28-02-2024 20:32:02.035Z;functions.bot_text_art;     |_||_|    
+28-02-2024 20:32:02.035Z;functions.bot_text_art;     | ||_|_   
+28-02-2024 20:32:02.035Z;functions.bot_text_art;   |___||___|  
+28-02-2024 20:32:02.035Z;functions.bot_text_art;               
+28-02-2024 20:32:02.051Z;functions.open_RM;  OPEN PROGRAM RM
+28-02-2024 20:32:12.207Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+28-02-2024 20:32:13.192Z;functions.loggin_RM;  ENCONTRA USE FIELD
+28-02-2024 20:32:13.456Z;functions.loggin_RM;  DUPLO CLICK
+28-02-2024 20:32:15.019Z;functions.loggin_RM;  ENTRAR USER_NAME
+28-02-2024 20:32:16.041Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+28-02-2024 20:32:16.261Z;functions.loggin_RM;  CLICK
+28-02-2024 20:32:16.384Z;functions.loggin_RM;  ENTRAR PASSWORD
+28-02-2024 20:32:17.534Z;functions.loggin_RM;  ENTRAR RM
+28-02-2024 20:32:50.799Z;functions.enter_coligada;  CLICK CONTEXTO
+28-02-2024 20:32:56.032Z;functions.enter_coligada;  CLICK COLIGADA 1
+28-02-2024 20:32:58.240Z;functions.enter_coligada;  CLICK AVANÇAR
+28-02-2024 20:33:00.642Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+28-02-2024 20:33:00.745Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+28-02-2024 20:33:02.018Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+28-02-2024 20:33:03.174Z;functions.enter_coligada;  CLICK CONCLUIR
+28-02-2024 20:33:27.720Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+28-02-2024 20:33:28.533Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+28-02-2024 20:33:30.223Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+28-02-2024 20:33:32.939Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+28-02-2024 20:33:39.346Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+28-02-2024 20:33:40.689Z;functions.movimentacao_bancaria;  CLICK NO ICONE BORDERO DE PAGAMENTO
+28-02-2024 20:33:52.899Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+28-02-2024 20:33:52.899Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+28-02-2024 20:33:57.392Z;functions.waitForImage;  FILTER CLEAN image found.
+28-02-2024 20:33:59.522Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+28-02-2024 20:34:02.829Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+28-02-2024 20:34:04.060Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+28-02-2024 20:34:05.971Z;functions.movimentacao_bancaria;  HOVER FILTER
+28-02-2024 20:34:06.432Z;functions.movimentacao_bancaria;  CLICK FILTER
+28-02-2024 20:34:10.756Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+28-02-2024 20:34:12.860Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+28-02-2024 20:34:14.973Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+28-02-2024 20:34:17.077Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+28-02-2024 20:34:38.564Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+28-02-2024 20:34:38.564Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+28-02-2024 20:34:38.923Z;functions.waitForImage;  FILTER CLEAN image found.
+28-02-2024 20:34:41.045Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+28-02-2024 20:34:44.569Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+28-02-2024 20:34:46.453Z;functions.remessa_pagamento;  HOVER FILTER
+28-02-2024 20:34:46.897Z;functions.remessa_pagamento;  CLICK FILTER
+28-02-2024 20:34:51.227Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+28-02-2024 20:34:53.330Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+28-02-2024 20:34:55.448Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+28-02-2024 20:34:57.551Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+28-02-2024 20:35:19.960Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+28-02-2024 20:35:20.750Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+28-02-2024 20:35:22.345Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+28-02-2024 20:35:23.245Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+28-02-2024 20:35:29.375Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+28-02-2024 20:35:30.532Z;functions.waitForImage;  LANÇAMENTOS image found.
+28-02-2024 20:35:32.660Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+28-02-2024 20:35:48.038Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+28-02-2024 20:35:48.038Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+28-02-2024 20:35:48.038Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+28-02-2024 20:35:48.038Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+28-02-2024 20:35:48.038Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+28-02-2024 20:35:48.038Z;functions.obter_intervalo_data;  hoje -  2024-02-28 20:35:48.038011
+28-02-2024 20:35:48.053Z;functions.data_filter;  DATA INICIO 06-03-2024
+28-02-2024 20:35:48.053Z;functions.data_filter;  DATA FIM 12-03-2024
+28-02-2024 20:35:48.053Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+28-02-2024 20:35:48.053Z;functions.data_filter;  QUARTA-FEIRA: 06-03-2024
+28-02-2024 20:35:48.053Z;functions.data_filter;  TERCA-FEIRA: 12-03-2024
+28-02-2024 20:35:51.133Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+28-02-2024 20:35:51.953Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+28-02-2024 20:35:54.843Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 06-03-2024
+28-02-2024 20:35:57.046Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 12-03-2024
+28-02-2024 20:35:57.923Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+28-02-2024 20:36:04.516Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+28-02-2024 20:36:06.253Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+28-02-2024 20:36:08.202Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+28-02-2024 20:36:10.280Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-02-2024 20:36:12.531Z;functions.desmark_filter;  ATUALIZA O FILTRO
+28-02-2024 20:36:12.531Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+28-02-2024 20:37:12.680Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:37:12.680Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-02-2024 20:37:22.793Z;functions.tabela_vazia;  CTRL G
+28-02-2024 20:37:25.592Z;functions.tabela_vazia;  Para este processo é necessário que existam registros na visão.
+28-02-2024 20:37:44.247Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 18, in <module>
+    result = tabela_vazia()
+             ^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 382, in tabela_vazia
+    click_nao.click()
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+28-02-2024 20:37:44.638Z;functions.show_exception_and_exit;  RM FECHADO
+28-02-2024 20:37:47.514Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+28-02-2024 20:37:47.561Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+28-02-2024 20:37:47.561Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+28-02-2024 20:37:47.561Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+28-02-2024 20:37:47.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+28-02-2024 20:37:47.576Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+28-02-2024 20:37:47.811Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+28-02-2024 20:37:47.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+28-02-2024 20:37:47.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+28-02-2024 20:37:47.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+28-02-2024 20:37:47.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+28-02-2024 20:37:47.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+28-02-2024 20:37:47.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+28-02-2024 20:37:47.967Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+28-02-2024 20:37:47.982Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+28-02-2024 20:37:47.982Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+28-02-2024 20:37:47.982Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+28-02-2024 20:37:47.982Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+28-02-2024 20:37:51.251Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+28-02-2024 20:37:51.251Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

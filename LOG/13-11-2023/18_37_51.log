@@ -1,0 +1,117 @@
+13-11-2023 18:37:52.036Z;functions.bot_text_art;      ____   
+13-11-2023 18:37:52.037Z;functions.bot_text_art;     [____]    
+13-11-2023 18:37:52.038Z;functions.bot_text_art;   |=]()()[=|  
+13-11-2023 18:37:52.038Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+13-11-2023 18:37:52.039Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+13-11-2023 18:37:52.039Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+13-11-2023 18:37:52.040Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+13-11-2023 18:37:52.041Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+13-11-2023 18:37:52.042Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+13-11-2023 18:37:52.045Z;functions.bot_text_art;     |_||_|                                                     
+13-11-2023 18:37:52.047Z;functions.bot_text_art;     | ||_|_   
+13-11-2023 18:37:52.048Z;functions.bot_text_art;   |___||___|  
+13-11-2023 18:37:52.048Z;functions.bot_text_art;               
+13-11-2023 18:37:52.058Z;functions.open_RM;  OPEN PROGRAM RM
+13-11-2023 18:38:04.142Z;functions.loggin_RM;  ENTER USER_NAME
+13-11-2023 18:38:05.542Z;functions.loggin_RM;  ENTER PASSWORD
+13-11-2023 18:38:06.795Z;functions.loggin_RM;  ENTER RM
+13-11-2023 18:38:41.123Z;functions.enter_coligada;  CLICK CONTEXTO
+13-11-2023 18:38:46.195Z;functions.enter_coligada;  CLICK COLIGADA 1
+13-11-2023 18:38:48.159Z;functions.enter_coligada;  CLICK AVANÇAR
+13-11-2023 18:38:51.062Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+13-11-2023 18:38:51.167Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+13-11-2023 18:38:52.528Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+13-11-2023 18:38:53.756Z;functions.enter_coligada;  CLICK CONCLUIR
+13-11-2023 18:39:17.148Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+13-11-2023 18:39:18.000Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+13-11-2023 18:39:19.764Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+13-11-2023 18:39:22.557Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+13-11-2023 18:39:29.466Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+13-11-2023 18:39:30.356Z;functions.waitForImage;  LANÇAMENTOS image found.
+13-11-2023 18:39:32.479Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+13-11-2023 18:39:34.482Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+13-11-2023 18:39:34.484Z;functions.data_filter;  QUARTA-FEIRA: 15-11-2023
+13-11-2023 18:39:34.485Z;functions.data_filter;  TERCA-FEIRA: 21-11-2023
+13-11-2023 18:39:45.108Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+13-11-2023 18:39:45.943Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+13-11-2023 18:39:48.604Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-11-2023
+13-11-2023 18:39:50.769Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-11-2023
+13-11-2023 18:39:51.736Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+13-11-2023 18:39:59.347Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+13-11-2023 18:40:01.214Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+13-11-2023 18:40:03.176Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+13-11-2023 18:40:05.294Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+13-11-2023 18:40:07.571Z;functions.desmark_filter;  ATUALIZA O FILTRO
+13-11-2023 18:40:37.895Z;functions.waitForImage;  FILTER CLEAN image not found.
+13-11-2023 18:40:37.896Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+13-11-2023 18:40:50.844Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+13-11-2023 18:40:52.951Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+13-11-2023 18:40:54.297Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+13-11-2023 18:40:58.404Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+13-11-2023 18:41:01.123Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+13-11-2023 18:41:03.227Z;functions.desbloqueio;  SETA PARA DIREITA
+13-11-2023 18:41:06.144Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+13-11-2023 18:41:08.248Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+13-11-2023 18:41:14.289Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+13-11-2023 18:41:16.551Z;functions.desbloqueio;  MSG AQUI: 
+13-11-2023 18:41:18.552Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+13-11-2023 18:41:21.442Z;functions.desbloqueio;  SELECIONAR EVIDENCIAR ABA INFERIOR
+13-11-2023 18:41:23.547Z;functions.desbloqueio;  FECHANDO ABA INFERIOR
+13-11-2023 18:41:25.652Z;functions.process_lancamentos;  CONTROL G
+13-11-2023 18:41:29.443Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+13-11-2023 18:41:30.795Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+13-11-2023 18:41:32.127Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+13-11-2023 18:41:34.529Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+13-11-2023 18:41:35.644Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+13-11-2023 18:41:36.872Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+13-11-2023 18:41:38.012Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+13-11-2023 18:41:51.949Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+13-11-2023 18:41:52.150Z;functions.waitForImage;  PRESS BUTTON OK image found.
+13-11-2023 18:41:54.152Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+13-11-2023 18:41:57.420Z;functions.process_lancamentos;  CLICK NO LOG APÓS A EXECUÇÃO
+13-11-2023 18:42:00.051Z;functions.process_lancamentos;  Lançamento Ref. 865009: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+13-11-2023 18:42:00.924Z;functions.process_lancamentos;  CLICK EM FECHAR.
+13-11-2023 18:42:18.440Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+13-11-2023 18:42:20.364Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+13-11-2023 18:42:22.457Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+13-11-2023 18:42:24.094Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+13-11-2023 18:42:26.200Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+13-11-2023 18:42:28.303Z;functions.proccess_bordero;  ESCREVE O ID 9 - FERIAS/RESCISÃO
+13-11-2023 18:42:30.410Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 9 - FERIAS/RESCISÃO
+13-11-2023 18:42:32.514Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 9 - FERIAS/RESCISÃO
+13-11-2023 18:42:35.424Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+13-11-2023 18:42:45.023Z;functions.waitForImage;  PRESS BUTTON OK image found.
+13-11-2023 18:42:47.025Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+13-11-2023 18:42:49.891Z;functions.proccess_bordero;  CLICK EM FECHAR.
+13-11-2023 18:42:52.949Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+13-11-2023 18:42:54.280Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+13-11-2023 18:43:06.494Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+13-11-2023 18:43:08.721Z;functions.waitForImage;  FILTER CLEAN image found.
+13-11-2023 18:43:10.851Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+13-11-2023 18:43:21.492Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+13-11-2023 18:43:22.750Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+13-11-2023 18:43:24.678Z;functions.movimentacao_bancaria;  HOVER FILTER
+13-11-2023 18:43:24.783Z;functions.movimentacao_bancaria;  CLICK FILTER
+13-11-2023 18:43:29.110Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+13-11-2023 18:43:31.214Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+13-11-2023 18:43:33.329Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+13-11-2023 18:43:35.433Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+13-11-2023 18:43:37.602Z;functions.waitForImage;  FILTER CLEAN image found.
+13-11-2023 18:43:39.730Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+13-11-2023 18:43:41.732Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+13-11-2023 18:44:10.122Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Ferias_Rescisao\main.py", line 27, in <module>
+    movimentacao_bancaria()
+  File "c:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 527, in movimentacao_bancaria
+    result = tabela_vazia()
+             ^^^^^^^^^^^^^^
+  File "c:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 261, in tabela_vazia
+    number_rows = numero_registros.get_text()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'

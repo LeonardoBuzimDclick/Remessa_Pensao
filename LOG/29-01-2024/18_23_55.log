@@ -1,0 +1,50 @@
+29-01-2024 18:23:56.129Z;functions.bot_text_art;      ____     
+29-01-2024 18:23:56.129Z;functions.bot_text_art;     [____]    
+29-01-2024 18:23:56.129Z;functions.bot_text_art;   |=]()()[=|  
+29-01-2024 18:23:56.129Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+29-01-2024 18:23:56.129Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+29-01-2024 18:23:56.129Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+29-01-2024 18:23:56.129Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+29-01-2024 18:23:56.129Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+29-01-2024 18:23:56.129Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+29-01-2024 18:23:56.129Z;functions.bot_text_art;     |_||_|    
+29-01-2024 18:23:56.129Z;functions.bot_text_art;     | ||_|_   
+29-01-2024 18:23:56.129Z;functions.bot_text_art;   |___||___|  
+29-01-2024 18:23:56.129Z;functions.bot_text_art;               
+29-01-2024 18:23:56.145Z;functions.open_RM;  OPEN PROGRAM RM
+29-01-2024 18:24:02.238Z;functions.loggin_RM;  ENTRAR USER_NAME
+29-01-2024 18:24:03.087Z;functions.loggin_RM;  ENTRAR PASSWORD
+29-01-2024 18:24:03.785Z;functions.loggin_RM;  ENTRAR RM
+29-01-2024 18:24:28.642Z;functions.enter_coligada;  CLICK CONTEXTO
+29-01-2024 18:24:32.551Z;functions.enter_coligada;  CLICK COLIGADA 1
+29-01-2024 18:24:33.910Z;functions.enter_coligada;  CLICK AVANÇAR
+29-01-2024 18:24:35.457Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+29-01-2024 18:24:35.558Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+29-01-2024 18:24:36.391Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+29-01-2024 18:24:37.177Z;functions.enter_coligada;  CLICK CONCLUIR
+29-01-2024 18:24:46.707Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+29-01-2024 18:24:47.332Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+29-01-2024 18:24:48.420Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+29-01-2024 18:24:49.140Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+29-01-2024 18:24:51.386Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+29-01-2024 18:24:51.473Z;functions.waitForImage;  LANÇAMENTOS image found.
+29-01-2024 18:24:53.590Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+29-01-2024 18:25:08.790Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+29-01-2024 18:25:08.790Z;functions.data_filter;  DATA INICIO 31-01-2024
+29-01-2024 18:25:08.790Z;functions.data_filter;  DATA FIM 06-02-2024
+29-01-2024 18:25:08.790Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-01-2024 18:25:08.790Z;functions.data_filter;  QUARTA-FEIRA: 31-01-2024
+29-01-2024 18:25:08.790Z;functions.data_filter;  TERCA-FEIRA: 06-02-2024
+29-01-2024 18:25:11.723Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+29-01-2024 18:25:12.354Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+29-01-2024 18:25:14.206Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 31-01-2024
+29-01-2024 18:25:15.692Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 06-02-2024
+29-01-2024 18:25:16.317Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+29-01-2024 18:25:22.129Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+29-01-2024 18:25:22.926Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+29-01-2024 18:25:23.779Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+29-01-2024 18:25:24.661Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-01-2024 18:25:25.550Z;functions.desmark_filter;  ATUALIZA O FILTRO
+29-01-2024 18:25:25.550Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+29-01-2024 18:26:25.740Z;functions.waitForImage;  FILTER CLEAN image not found.
+29-01-2024 18:26:25.740Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA

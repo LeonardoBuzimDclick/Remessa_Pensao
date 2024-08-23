@@ -1,0 +1,51 @@
+25-10-2023 17:54:42.853Z;functions.bot_text_art;      ____   
+25-10-2023 17:54:42.853Z;functions.bot_text_art;     [____]    
+25-10-2023 17:54:42.853Z;functions.bot_text_art;   |=]()()[=|  
+25-10-2023 17:54:42.853Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-10-2023 17:54:42.854Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-10-2023 17:54:42.854Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-10-2023 17:54:42.854Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-10-2023 17:54:42.855Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-10-2023 17:54:42.856Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-10-2023 17:54:42.856Z;functions.bot_text_art;     |_||_|                                                     
+25-10-2023 17:54:42.857Z;functions.bot_text_art;     | ||_|_   
+25-10-2023 17:54:42.857Z;functions.bot_text_art;   |___||___|  
+25-10-2023 17:54:42.857Z;functions.bot_text_art;               
+25-10-2023 17:54:42.861Z;functions.open_RM;  OPEN PROGRAM RM
+25-10-2023 17:54:50.175Z;functions.loggin_RM;  ENTER USER_NAME
+25-10-2023 17:54:51.010Z;functions.loggin_RM;  ENTER PASSWORD
+25-10-2023 17:54:51.687Z;functions.loggin_RM;  ENTER RM
+25-10-2023 17:55:12.021Z;functions.enter_coligada;  CLICK CONTEXTO
+25-10-2023 17:55:15.937Z;functions.enter_coligada;  CLICK COLIGADA 1
+25-10-2023 17:55:17.349Z;functions.enter_coligada;  CLICK AVANÇAR
+25-10-2023 17:55:19.146Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-10-2023 17:55:19.247Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-10-2023 17:55:20.246Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-10-2023 17:55:21.139Z;functions.enter_coligada;  CLICK CONCLUIR
+25-10-2023 17:55:32.160Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-10-2023 17:55:32.790Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-10-2023 17:55:33.906Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-10-2023 17:55:34.614Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-10-2023 17:55:39.854Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-10-2023 17:55:39.944Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-10-2023 17:55:42.046Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-10-2023 17:55:44.048Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-10-2023 17:55:44.048Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+25-10-2023 17:55:44.048Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+25-10-2023 17:55:50.490Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+25-10-2023 17:55:51.137Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-10-2023 17:55:53.138Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+25-10-2023 17:55:54.776Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+25-10-2023 17:55:55.424Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-10-2023 17:56:01.225Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-10-2023 17:56:02.050Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-10-2023 17:56:02.934Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-10-2023 17:56:03.851Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-10-2023 17:56:04.797Z;functions.desmark_filter;  ATUALIZA O FILTRO
+25-10-2023 17:56:04.798Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+25-10-2023 17:56:09.501Z;functions.tabela_vazia;  Para este processo é necessário que existam registros na visão.
+25-10-2023 17:56:13.603Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+25-10-2023 17:56:15.706Z;functions.tabela_vazia;  FECHA A TABELA
+25-10-2023 17:56:17.810Z;functions.tabela_vazia;  FECHA O PROGRAMA
+25-10-2023 17:56:19.928Z;functions.tabela_vazia;  RM ENCERRADO
+25-10-2023 17:56:19.928Z;main.<module>;  SEM REMESSA DE FÉRIAS/RESCISÃO

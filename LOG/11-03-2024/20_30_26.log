@@ -1,0 +1,274 @@
+11-03-2024 20:30:26.197Z;functions.bot_text_art;      ____     
+11-03-2024 20:30:26.197Z;functions.bot_text_art;     [____]    
+11-03-2024 20:30:26.197Z;functions.bot_text_art;   |=]()()[=|  
+11-03-2024 20:30:26.197Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+11-03-2024 20:30:26.197Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+11-03-2024 20:30:26.197Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+11-03-2024 20:30:26.197Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+11-03-2024 20:30:26.197Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+11-03-2024 20:30:26.197Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+11-03-2024 20:30:26.197Z;functions.bot_text_art;     |_||_|    
+11-03-2024 20:30:26.197Z;functions.bot_text_art;     | ||_|_   
+11-03-2024 20:30:26.197Z;functions.bot_text_art;   |___||___|  
+11-03-2024 20:30:26.197Z;functions.bot_text_art;               
+11-03-2024 20:30:26.212Z;functions.open_RM;  OPEN PROGRAM RM
+11-03-2024 20:31:01.337Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+11-03-2024 20:31:02.320Z;functions.loggin_RM;  ENCONTRA USE FIELD
+11-03-2024 20:31:02.635Z;functions.loggin_RM;  DUPLO CLICK
+11-03-2024 20:31:06.211Z;functions.loggin_RM;  ENTRAR USER_NAME
+11-03-2024 20:31:07.258Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+11-03-2024 20:31:07.524Z;functions.loggin_RM;  CLICK
+11-03-2024 20:31:09.652Z;functions.loggin_RM;  ENTRAR PASSWORD
+11-03-2024 20:31:10.820Z;functions.loggin_RM;  ENTRAR RM
+11-03-2024 20:32:25.631Z;functions.enter_coligada;  CLICK CONTEXTO
+11-03-2024 20:32:31.374Z;functions.enter_coligada;  CLICK COLIGADA 1
+11-03-2024 20:32:35.961Z;functions.enter_coligada;  CLICK AVANÇAR
+11-03-2024 20:32:39.268Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+11-03-2024 20:32:39.379Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+11-03-2024 20:32:43.335Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+11-03-2024 20:32:46.741Z;functions.enter_coligada;  CLICK CONCLUIR
+11-03-2024 20:33:28.678Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+11-03-2024 20:33:29.522Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+11-03-2024 20:33:31.311Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+11-03-2024 20:33:34.067Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+11-03-2024 20:34:03.161Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+11-03-2024 20:34:05.568Z;functions.waitForImage;  IMAGEM BORDERO image found.
+11-03-2024 20:34:07.696Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+11-03-2024 20:34:28.302Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+11-03-2024 20:34:28.957Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+11-03-2024 20:34:29.004Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+11-03-2024 20:34:33.216Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+11-03-2024 20:34:33.216Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+11-03-2024 20:34:42.613Z;functions.waitForImage;  FILTER CLEAN image found.
+11-03-2024 20:34:44.732Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+11-03-2024 20:34:45.067Z;functions.waitForImage;  FILTER CLEAN image found.
+11-03-2024 20:34:47.193Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+11-03-2024 20:35:02.519Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:35:03.894Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+11-03-2024 20:35:05.125Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+11-03-2024 20:35:07.081Z;functions.movimentacao_bancaria;  HOVER FILTER
+11-03-2024 20:35:07.536Z;functions.movimentacao_bancaria;  CLICK FILTER
+11-03-2024 20:35:11.861Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+11-03-2024 20:35:13.964Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+11-03-2024 20:35:16.079Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+11-03-2024 20:35:18.182Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+11-03-2024 20:35:39.832Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+11-03-2024 20:35:39.833Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+11-03-2024 20:35:40.143Z;functions.waitForImage;  FILTER CLEAN image found.
+11-03-2024 20:35:42.274Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+11-03-2024 20:35:57.613Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:36:12.922Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:36:14.536Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+11-03-2024 20:36:16.503Z;functions.remessa_pagamento;  HOVER FILTER
+11-03-2024 20:36:16.977Z;functions.remessa_pagamento;  CLICK FILTER
+11-03-2024 20:36:21.309Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+11-03-2024 20:36:23.411Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+11-03-2024 20:36:25.530Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+11-03-2024 20:36:27.633Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+11-03-2024 20:36:50.377Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+11-03-2024 20:36:51.204Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+11-03-2024 20:36:52.642Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+11-03-2024 20:36:55.411Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+11-03-2024 20:37:43.595Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+11-03-2024 20:37:43.953Z;functions.waitForImage;  LANÇAMENTOS image found.
+11-03-2024 20:37:46.077Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+11-03-2024 20:38:01.641Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+11-03-2024 20:38:01.657Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+11-03-2024 20:38:01.657Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+11-03-2024 20:38:01.657Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+11-03-2024 20:38:01.657Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+11-03-2024 20:38:01.657Z;functions.obter_intervalo_data;  hoje -  2024-03-11 20:38:01.657261
+11-03-2024 20:38:01.657Z;functions.data_filter;  DATA INICIO 13-03-2024
+11-03-2024 20:38:01.657Z;functions.data_filter;  DATA FIM 19-03-2024
+11-03-2024 20:38:01.657Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+11-03-2024 20:38:01.657Z;functions.data_filter;  QUARTA-FEIRA: 13-03-2024
+11-03-2024 20:38:01.657Z;functions.data_filter;  TERCA-FEIRA: 19-03-2024
+11-03-2024 20:38:04.753Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+11-03-2024 20:38:06.457Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+11-03-2024 20:38:10.923Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 13-03-2024
+11-03-2024 20:38:14.876Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 19-03-2024
+11-03-2024 20:38:15.782Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+11-03-2024 20:39:13.249Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+11-03-2024 20:39:15.015Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+11-03-2024 20:39:16.922Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+11-03-2024 20:39:19.031Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+11-03-2024 20:39:21.234Z;functions.desmark_filter;  ATUALIZA O FILTRO
+11-03-2024 20:39:21.234Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+11-03-2024 20:39:21.609Z;functions.waitForImage;  FILTER CLEAN image found.
+11-03-2024 20:39:23.723Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+11-03-2024 20:39:39.147Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:39:54.431Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:39:56.920Z;functions.tabela_vazia;  Texto extraido 1/58
+11-03-2024 20:39:56.920Z;functions.tabela_vazia;  Count 58
+11-03-2024 20:39:56.920Z;functions.tabela_vazia;  Type <class 'int'>
+11-03-2024 20:39:56.920Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+11-03-2024 20:39:58.061Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+11-03-2024 20:39:58.168Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+11-03-2024 20:40:04.388Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+11-03-2024 20:40:06.493Z;functions.desbloqueio;  SETA PARA DIREITA
+11-03-2024 20:40:09.412Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+11-03-2024 20:40:11.515Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+11-03-2024 20:41:13.924Z;functions.exec_lancamentos;  CONTROL G
+11-03-2024 20:41:27.153Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+11-03-2024 20:41:28.329Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+11-03-2024 20:41:29.561Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+11-03-2024 20:41:35.969Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+11-03-2024 20:41:36.949Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+11-03-2024 20:41:38.888Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+11-03-2024 20:41:40.559Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+11-03-2024 20:42:25.075Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+11-03-2024 20:42:27.084Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO COM ERRO.
+11-03-2024 20:42:36.568Z;functions.process_lancamentos;  Lançamento Ref. 722361: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 826160: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 888937: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 914380: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 923198: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 925838: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 926038: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 926244: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 926325: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 926342: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 926645: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927019: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927347: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927421: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927568: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927573: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927813: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927858: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927969: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 927987: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928002: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928015: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928024: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928032: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928036: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928037: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928045: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928048: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928055: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928056: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928072: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928076: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928081: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928096: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928098: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928111: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928116: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928119: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928120: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928129: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928131: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928132: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928135: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928136: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928140: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928143: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928148: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928151: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928155: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928160: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928166: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928168: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928170: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928172: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928173: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928174: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928185: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 928187: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-926325:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-926342:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+11-03-2024 20:43:37.451Z;functions.process_lancamentos;  CLICA EM FECHAR.
+11-03-2024 20:43:38.526Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+11-03-2024 20:43:40.904Z;functions.waitForImage;  IMAGEM BORDERO image found.
+11-03-2024 20:43:43.017Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+11-03-2024 20:44:03.620Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+11-03-2024 20:44:04.276Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+11-03-2024 20:44:04.323Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+11-03-2024 20:44:08.535Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+11-03-2024 20:44:08.535Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+11-03-2024 20:44:10.588Z;functions.waitForImage;  FILTER CLEAN image found.
+11-03-2024 20:44:12.707Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+11-03-2024 20:44:27.993Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:44:43.221Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:44:44.529Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+11-03-2024 20:44:45.758Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+11-03-2024 20:44:47.666Z;functions.movimentacao_bancaria;  HOVER FILTER
+11-03-2024 20:44:48.482Z;functions.movimentacao_bancaria;  CLICK FILTER
+11-03-2024 20:44:52.818Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+11-03-2024 20:44:54.921Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+11-03-2024 20:44:57.037Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+11-03-2024 20:44:59.140Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+11-03-2024 20:45:23.306Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+11-03-2024 20:45:23.306Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+11-03-2024 20:45:23.649Z;functions.waitForImage;  FILTER CLEAN image found.
+11-03-2024 20:45:25.769Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+11-03-2024 20:45:40.915Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:45:56.156Z;functions.waitForImage;  FILTER CLEAN image not found.
+11-03-2024 20:45:57.789Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+11-03-2024 20:45:59.699Z;functions.remessa_pagamento;  HOVER FILTER
+11-03-2024 20:46:00.181Z;functions.remessa_pagamento;  CLICK FILTER
+11-03-2024 20:46:04.516Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+11-03-2024 20:46:06.619Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+11-03-2024 20:46:08.737Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+11-03-2024 20:46:10.840Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+11-03-2024 20:46:33.351Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+11-03-2024 20:46:33.397Z;functions.show_exception_and_exit;  name 'novo_nome' is not defined
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 31, in <module>
+    emailSuccess()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 1157, in emailSuccess
+    attachments=[f'{log_path}/{today}/{log_file_name}.log', f'{caminho_pasta}/{novo_nome}'])
+                                                                               ^^^^^^^^^
+NameError: name 'novo_nome' is not defined
+11-03-2024 20:46:34.329Z;functions.show_exception_and_exit;  RM FECHADO
+11-03-2024 20:46:36.695Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+11-03-2024 20:46:36.742Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+11-03-2024 20:46:36.742Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+11-03-2024 20:46:36.742Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+11-03-2024 20:46:36.758Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+11-03-2024 20:46:36.758Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+11-03-2024 20:46:36.992Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+11-03-2024 20:46:37.117Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+11-03-2024 20:46:37.117Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+11-03-2024 20:46:37.117Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+11-03-2024 20:46:37.117Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+11-03-2024 20:46:37.117Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+11-03-2024 20:46:37.117Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+11-03-2024 20:46:37.164Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+11-03-2024 20:46:37.180Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+11-03-2024 20:46:37.180Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+11-03-2024 20:46:37.180Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+11-03-2024 20:46:37.180Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+11-03-2024 20:46:40.805Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+11-03-2024 20:46:40.805Z;functions.show_exception_and_exit;  ERRO - <class 'NameError'> / name 'novo_nome' is not defined

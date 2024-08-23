@@ -1,0 +1,57 @@
+23-10-2023 18:57:20.842Z;functions.bot_text_art;      ____   
+23-10-2023 18:57:20.842Z;functions.bot_text_art;     [____]    
+23-10-2023 18:57:20.842Z;functions.bot_text_art;   |=]()()[=|  
+23-10-2023 18:57:20.843Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+23-10-2023 18:57:20.843Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+23-10-2023 18:57:20.843Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+23-10-2023 18:57:20.844Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+23-10-2023 18:57:20.844Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+23-10-2023 18:57:20.845Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+23-10-2023 18:57:20.846Z;functions.bot_text_art;     |_||_|                                                     
+23-10-2023 18:57:20.846Z;functions.bot_text_art;     | ||_|_   
+23-10-2023 18:57:20.846Z;functions.bot_text_art;   |___||___|  
+23-10-2023 18:57:20.846Z;functions.bot_text_art;               
+23-10-2023 18:57:20.850Z;functions.open_RM;  OPEN PROGRAM RM
+23-10-2023 18:57:27.226Z;functions.loggin_RM;  ENTER USER_NAME
+23-10-2023 18:57:28.045Z;functions.loggin_RM;  ENTER PASSWORD
+23-10-2023 18:57:28.733Z;functions.loggin_RM;  ENTER RM
+23-10-2023 18:57:48.854Z;functions.enter_coligada;  CLICK CONTEXTO
+23-10-2023 18:57:52.878Z;functions.enter_coligada;  CLICK COLIGADA 1
+23-10-2023 18:57:54.215Z;functions.enter_coligada;  CLICK AVANÇAR
+23-10-2023 18:57:55.456Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+23-10-2023 18:57:55.559Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+23-10-2023 18:57:56.329Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+23-10-2023 18:57:57.110Z;functions.enter_coligada;  CLICK CONCLUIR
+23-10-2023 18:58:06.670Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+23-10-2023 18:58:07.273Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+23-10-2023 18:58:08.330Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+23-10-2023 18:58:10.631Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+23-10-2023 18:58:15.407Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+23-10-2023 18:58:16.043Z;functions.waitForImage;  LANÇAMENTOS image found.
+23-10-2023 18:58:18.172Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+23-10-2023 18:58:20.172Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+23-10-2023 18:58:20.173Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+23-10-2023 18:58:20.173Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+23-10-2023 18:58:25.707Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+23-10-2023 18:58:26.340Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+23-10-2023 18:58:28.072Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+23-10-2023 18:58:29.514Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+23-10-2023 18:58:30.177Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+23-10-2023 18:58:36.089Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+23-10-2023 18:58:36.985Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+23-10-2023 18:58:37.981Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+23-10-2023 18:58:38.945Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+23-10-2023 18:58:39.939Z;functions.desmark_filter;  ATUALIZA O FILTRO
+23-10-2023 18:58:40.683Z;functions.desmark_filter;  SELECIONA TODAS AS TUPLAS
+23-10-2023 18:58:40.787Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+23-10-2023 18:58:42.936Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\projetos\Remessa Ferias Rescisao\main.py", line 17, in <module>
+    desbloqueio()
+  File "c:\projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 245, in desbloqueio
+    pyautogui.press('down')
+  File "C:\projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\pyautogui\__init__.py", line 595, in wrapper
+    _handlePause(kwargs.get("_pause", True))
+  File "C:\projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\pyautogui\__init__.py", line 639, in _handlePause
+    time.sleep(PAUSE)
+KeyboardInterrupt

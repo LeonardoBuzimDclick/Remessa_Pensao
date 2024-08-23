@@ -1,0 +1,80 @@
+14-11-2023 17:21:54.489Z;functions.bot_text_art;      ____   
+14-11-2023 17:21:54.490Z;functions.bot_text_art;     [____]    
+14-11-2023 17:21:54.490Z;functions.bot_text_art;   |=]()()[=|  
+14-11-2023 17:21:54.490Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+14-11-2023 17:21:54.491Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+14-11-2023 17:21:54.491Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+14-11-2023 17:21:54.491Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+14-11-2023 17:21:54.492Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+14-11-2023 17:21:54.494Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+14-11-2023 17:21:54.495Z;functions.bot_text_art;     |_||_|                                                     
+14-11-2023 17:21:54.496Z;functions.bot_text_art;     | ||_|_   
+14-11-2023 17:21:54.496Z;functions.bot_text_art;   |___||___|  
+14-11-2023 17:21:54.496Z;functions.bot_text_art;               
+14-11-2023 17:21:54.505Z;functions.open_RM;  OPEN PROGRAM RM
+14-11-2023 17:22:07.859Z;functions.loggin_RM;  ENTER USER_NAME
+14-11-2023 17:22:09.255Z;functions.loggin_RM;  ENTER PASSWORD
+14-11-2023 17:22:10.515Z;functions.loggin_RM;  ENTER RM
+14-11-2023 17:22:44.071Z;functions.enter_coligada;  CLICK CONTEXTO
+14-11-2023 17:22:49.255Z;functions.enter_coligada;  CLICK COLIGADA 1
+14-11-2023 17:22:51.451Z;functions.enter_coligada;  CLICK AVANÇAR
+14-11-2023 17:22:54.211Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+14-11-2023 17:22:54.324Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+14-11-2023 17:22:55.727Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+14-11-2023 17:22:57.023Z;functions.enter_coligada;  CLICK CONCLUIR
+14-11-2023 17:23:21.072Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+14-11-2023 17:23:21.920Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+14-11-2023 17:23:23.705Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+14-11-2023 17:23:26.502Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+14-11-2023 17:23:33.582Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+14-11-2023 17:23:34.488Z;functions.waitForImage;  LANÇAMENTOS image found.
+14-11-2023 17:23:36.602Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+14-11-2023 17:23:38.606Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+14-11-2023 17:23:38.608Z;functions.data_filter;  QUARTA-FEIRA: 15-11-2023
+14-11-2023 17:23:38.609Z;functions.data_filter;  TERCA-FEIRA: 21-11-2023
+14-11-2023 17:23:49.074Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+14-11-2023 17:23:49.888Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+14-11-2023 17:23:52.572Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-11-2023
+14-11-2023 17:23:54.708Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-11-2023
+14-11-2023 17:23:55.652Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+14-11-2023 17:24:05.114Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+14-11-2023 17:24:06.934Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+14-11-2023 17:24:08.980Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+14-11-2023 17:24:11.199Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+14-11-2023 17:24:13.456Z;functions.desmark_filter;  ATUALIZA O FILTRO
+14-11-2023 17:24:43.852Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-11-2023 17:24:43.854Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+14-11-2023 17:24:56.815Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 7 registros?
+14-11-2023 17:24:58.921Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+14-11-2023 17:25:09.034Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+14-11-2023 17:25:11.750Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+14-11-2023 17:25:13.854Z;functions.desbloqueio;  SETA PARA DIREITA
+14-11-2023 17:25:16.773Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+14-11-2023 17:25:18.876Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+14-11-2023 17:25:26.639Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+14-11-2023 17:25:28.849Z;functions.desbloqueio;  MSG AQUI: 
+14-11-2023 17:25:30.851Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+14-11-2023 17:25:33.718Z;functions.desbloqueio;  SELECIONAR EVIDENCIAR ABA INFERIOR
+14-11-2023 17:25:35.823Z;functions.desbloqueio;  FECHANDO ABA INFERIOR
+14-11-2023 17:25:37.929Z;functions.process_lancamentos;  CONTROL G
+14-11-2023 17:25:41.668Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+14-11-2023 17:25:43.046Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+14-11-2023 17:25:44.353Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+14-11-2023 17:25:46.836Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+14-11-2023 17:25:47.955Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+14-11-2023 17:25:49.193Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+14-11-2023 17:25:50.325Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+14-11-2023 17:26:04.538Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+14-11-2023 17:26:05.203Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Ferias_Rescisao\main.py", line 25, in <module>
+    process_lancamentos()
+  File "c:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 383, in process_lancamentos
+    exec_success_process = waitForImage(image = exec_sucesso, timeout=360, name = 'PRESS BUTTON OK')
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 746, in waitForImage
+    time.sleep(0.5)
+KeyboardInterrupt

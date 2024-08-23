@@ -1,0 +1,83 @@
+26-10-2023 17:55:13.217Z;functions.bot_text_art;      ____   
+26-10-2023 17:55:13.218Z;functions.bot_text_art;     [____]    
+26-10-2023 17:55:13.218Z;functions.bot_text_art;   |=]()()[=|  
+26-10-2023 17:55:13.218Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+26-10-2023 17:55:13.219Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+26-10-2023 17:55:13.219Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+26-10-2023 17:55:13.219Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+26-10-2023 17:55:13.220Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+26-10-2023 17:55:13.221Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+26-10-2023 17:55:13.221Z;functions.bot_text_art;     |_||_|                                                     
+26-10-2023 17:55:13.221Z;functions.bot_text_art;     | ||_|_   
+26-10-2023 17:55:13.222Z;functions.bot_text_art;   |___||___|  
+26-10-2023 17:55:13.222Z;functions.bot_text_art;               
+26-10-2023 17:55:13.226Z;functions.open_RM;  OPEN PROGRAM RM
+26-10-2023 17:55:20.840Z;functions.loggin_RM;  ENTER USER_NAME
+26-10-2023 17:55:21.655Z;functions.loggin_RM;  ENTER PASSWORD
+26-10-2023 17:55:22.328Z;functions.loggin_RM;  ENTER RM
+26-10-2023 17:55:43.054Z;functions.enter_coligada;  CLICK CONTEXTO
+26-10-2023 17:55:46.972Z;functions.enter_coligada;  CLICK COLIGADA 1
+26-10-2023 17:55:48.119Z;functions.enter_coligada;  CLICK AVANÇAR
+26-10-2023 17:55:49.930Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+26-10-2023 17:55:50.032Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+26-10-2023 17:55:51.053Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+26-10-2023 17:55:51.947Z;functions.enter_coligada;  CLICK CONCLUIR
+26-10-2023 17:56:02.497Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+26-10-2023 17:56:03.115Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+26-10-2023 17:56:04.208Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+26-10-2023 17:56:06.557Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+26-10-2023 17:56:11.798Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+26-10-2023 17:56:12.444Z;functions.waitForImage;  LANÇAMENTOS image found.
+26-10-2023 17:56:14.546Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+26-10-2023 17:56:16.548Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+26-10-2023 17:56:16.548Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+26-10-2023 17:56:16.549Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+26-10-2023 17:56:23.187Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+26-10-2023 17:56:23.853Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+26-10-2023 17:56:25.837Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+26-10-2023 17:56:27.446Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+26-10-2023 17:56:28.092Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+26-10-2023 17:56:33.902Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+26-10-2023 17:56:34.760Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+26-10-2023 17:56:35.631Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+26-10-2023 17:56:36.547Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+26-10-2023 17:56:37.484Z;functions.desmark_filter;  ATUALIZA O FILTRO
+26-10-2023 17:56:37.485Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+26-10-2023 17:56:50.190Z;functions.tabela_vazia;  Para este processo é necessário que existam registros na visão.
+26-10-2023 17:56:54.294Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+26-10-2023 17:56:56.397Z;functions.tabela_vazia;  FECHA A TABELA
+26-10-2023 17:56:58.508Z;functions.tabela_vazia;  FECHA O PROGRAMA
+26-10-2023 17:57:00.618Z;functions.tabela_vazia;  RM ENCERRADO
+26-10-2023 17:57:00.618Z;main.<module>;  SEM REMESSA DE FÉRIAS/RESCISÃO
+26-10-2023 17:57:00.784Z;functions.show_exception_and_exit;  [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa Ferias Rescisao\main.py", line 20, in <module>
+    emailSuccess()
+  File "c:\Projetos\Remessa Ferias Rescisao\SUBPROGRAMS\functions.py", line 289, in emailSuccess
+    yag.send(to=str(email_receivers).split(','), subject=f"SUCESSO - BOT REMESSAS FÉRIAS/RESCISÃO",
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 156, in send
+    self.login()
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 210, in login
+    self._login(self.credentials)
+  File "C:\Projetos\Remessa Ferias Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 217, in _login
+    self.smtp = self.connection(self.host, self.port, **self.kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1057, in _get_socket
+    new_socket = self.context.wrap_socket(new_socket,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1108, in _create
+    self.do_handshake()
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1379, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto

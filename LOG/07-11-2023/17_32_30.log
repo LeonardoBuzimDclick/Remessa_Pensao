@@ -1,0 +1,9 @@
+07-11-2023 17:33:01.011Z;functions.waitForImage;  FILTER CLEAN image not found.
+07-11-2023 17:33:02.224Z;functions.remessa_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+07-11-2023 17:33:04.438Z;functions.remessa_pagamento;  HOVER FILTER
+07-11-2023 17:33:04.557Z;functions.remessa_pagamento;  CLICK FILTER
+07-11-2023 17:33:08.873Z;functions.remessa_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+07-11-2023 17:33:10.974Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+07-11-2023 17:33:13.086Z;functions.remessa_pagamento;  ESCREVE PENDENTE NO FILTRO
+07-11-2023 17:33:15.204Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+07-11-2023 17:33:17.900Z;functions.remessa_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO

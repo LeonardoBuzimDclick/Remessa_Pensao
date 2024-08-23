@@ -1,0 +1,77 @@
+25-10-2023 16:13:48.336Z;functions.bot_text_art;      ____   
+25-10-2023 16:13:48.336Z;functions.bot_text_art;     [____]    
+25-10-2023 16:13:48.336Z;functions.bot_text_art;   |=]()()[=|  
+25-10-2023 16:13:48.337Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-10-2023 16:13:48.337Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-10-2023 16:13:48.337Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-10-2023 16:13:48.338Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-10-2023 16:13:48.338Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-10-2023 16:13:48.339Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-10-2023 16:13:48.340Z;functions.bot_text_art;     |_||_|                                                     
+25-10-2023 16:13:48.340Z;functions.bot_text_art;     | ||_|_   
+25-10-2023 16:13:48.340Z;functions.bot_text_art;   |___||___|  
+25-10-2023 16:13:48.340Z;functions.bot_text_art;               
+25-10-2023 16:13:48.343Z;functions.open_RM;  OPEN PROGRAM RM
+25-10-2023 16:13:55.388Z;functions.loggin_RM;  ENTER USER_NAME
+25-10-2023 16:13:56.207Z;functions.loggin_RM;  ENTER PASSWORD
+25-10-2023 16:13:56.884Z;functions.loggin_RM;  ENTER RM
+25-10-2023 16:14:17.016Z;functions.enter_coligada;  CLICK CONTEXTO
+25-10-2023 16:14:20.933Z;functions.enter_coligada;  CLICK COLIGADA 1
+25-10-2023 16:14:22.119Z;functions.enter_coligada;  CLICK AVANÇAR
+25-10-2023 16:14:23.669Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-10-2023 16:14:23.770Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-10-2023 16:14:24.746Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-10-2023 16:14:25.637Z;functions.enter_coligada;  CLICK CONCLUIR
+25-10-2023 16:14:36.052Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-10-2023 16:14:36.699Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-10-2023 16:14:37.739Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-10-2023 16:14:40.079Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-10-2023 16:14:45.343Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-10-2023 16:14:45.407Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-10-2023 16:14:47.510Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-10-2023 16:14:49.511Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-10-2023 16:14:49.512Z;functions.data_filter;  QUARTA-FEIRA: 25-10-2023
+25-10-2023 16:14:49.512Z;functions.data_filter;  TERCA-FEIRA: 31-10-2023
+25-10-2023 16:14:55.788Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+25-10-2023 16:14:56.420Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-10-2023 16:14:58.289Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 25-10-2023
+25-10-2023 16:14:59.778Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 31-10-2023
+25-10-2023 16:15:00.421Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-10-2023 16:15:06.232Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-10-2023 16:15:07.045Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-10-2023 16:15:07.901Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-10-2023 16:15:08.809Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-10-2023 16:15:09.753Z;functions.desmark_filter;  ATUALIZA O FILTRO
+25-10-2023 16:16:10.206Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-10-2023 16:17:10.542Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-10-2023 16:17:11.278Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+25-10-2023 16:17:11.381Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+25-10-2023 16:17:14.088Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+25-10-2023 16:17:16.191Z;functions.desbloqueio;  SETA PARA DIREITA
+25-10-2023 16:17:19.101Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+25-10-2023 16:17:21.203Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+25-10-2023 16:17:38.547Z;functions.waitForImage;  FILTER CLEAN image found.
+25-10-2023 16:17:40.548Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+25-10-2023 16:17:47.275Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+25-10-2023 16:17:48.178Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+25-10-2023 16:17:48.913Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+25-10-2023 16:17:50.397Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+25-10-2023 16:17:51.063Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+25-10-2023 16:17:51.847Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+25-10-2023 16:17:52.650Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+25-10-2023 16:18:06.235Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+25-10-2023 16:18:06.343Z;functions.waitForImage;  PRESS BUTTON OK image found.
+25-10-2023 16:18:08.344Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+25-10-2023 16:18:10.970Z;functions.process_lancamentos;  CLICK EM FECHAR.
+25-10-2023 16:18:28.482Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+25-10-2023 16:18:29.190Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+25-10-2023 16:18:30.369Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+25-10-2023 16:18:31.324Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+25-10-2023 16:18:33.426Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+25-10-2023 16:18:35.528Z;functions.proccess_bordero;  ESCREVE O ID 9 - FERIAS/RESCISÃO
+25-10-2023 16:18:37.630Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 9 - FERIAS/RESCISÃO
+25-10-2023 16:18:39.732Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 9 - FERIAS/RESCISÃO
+25-10-2023 16:18:42.378Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+25-10-2023 16:18:53.995Z;functions.waitForImage;  PRESS BUTTON OK image found.
+25-10-2023 16:18:55.997Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+25-10-2023 16:18:58.616Z;functions.proccess_bordero;  CLICK EM FECHAR.

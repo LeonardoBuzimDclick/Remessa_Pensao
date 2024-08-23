@@ -1,0 +1,70 @@
+18-03-2024 09:04:29.575Z;functions.bot_text_art;      ____     
+18-03-2024 09:04:29.575Z;functions.bot_text_art;     [____]    
+18-03-2024 09:04:29.575Z;functions.bot_text_art;   |=]()()[=|  
+18-03-2024 09:04:29.575Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+18-03-2024 09:04:29.575Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+18-03-2024 09:04:29.575Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+18-03-2024 09:04:29.575Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+18-03-2024 09:04:29.575Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+18-03-2024 09:04:29.575Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+18-03-2024 09:04:29.575Z;functions.bot_text_art;     |_||_|    
+18-03-2024 09:04:29.575Z;functions.bot_text_art;     | ||_|_   
+18-03-2024 09:04:29.575Z;functions.bot_text_art;   |___||___|  
+18-03-2024 09:04:29.575Z;functions.bot_text_art;               
+18-03-2024 09:04:29.590Z;functions.open_RM;  OPEN PROGRAM RM
+18-03-2024 09:04:40.448Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+18-03-2024 09:04:41.495Z;functions.loggin_RM;  ENCONTRA USE FIELD
+18-03-2024 09:04:41.760Z;functions.loggin_RM;  DUPLO CLICK
+18-03-2024 09:04:45.402Z;functions.loggin_RM;  ENTRAR USER_NAME
+18-03-2024 09:04:46.496Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+18-03-2024 09:04:46.778Z;functions.loggin_RM;  CLICK
+18-03-2024 09:04:48.903Z;functions.loggin_RM;  ENTRAR PASSWORD
+18-03-2024 09:04:50.183Z;functions.loggin_RM;  ENTRAR RM
+18-03-2024 09:05:22.855Z;functions.enter_coligada;  CLICK CONTEXTO
+18-03-2024 09:05:28.433Z;functions.enter_coligada;  CLICK COLIGADA 1
+18-03-2024 09:05:30.871Z;functions.enter_coligada;  CLICK AVANÇAR
+18-03-2024 09:05:33.458Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+18-03-2024 09:05:33.580Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+18-03-2024 09:05:34.895Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+18-03-2024 09:05:36.120Z;functions.enter_coligada;  CLICK CONCLUIR
+18-03-2024 09:06:00.917Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+18-03-2024 09:06:01.777Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+18-03-2024 09:06:03.776Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+18-03-2024 09:06:06.604Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+18-03-2024 09:06:13.557Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+18-03-2024 09:06:15.980Z;functions.waitForImage;  IMAGEM BORDERO image found.
+18-03-2024 09:06:18.100Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+18-03-2024 09:06:38.486Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+18-03-2024 09:06:39.151Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+18-03-2024 09:06:39.198Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+18-03-2024 09:06:43.410Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+18-03-2024 09:06:43.411Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+18-03-2024 09:06:58.850Z;functions.waitForImage;  FILTER CLEAN image not found.
+18-03-2024 09:07:14.089Z;functions.waitForImage;  FILTER CLEAN image not found.
+18-03-2024 09:07:29.349Z;functions.waitForImage;  FILTER CLEAN image not found.
+18-03-2024 09:07:49.355Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+18-03-2024 09:07:49.355Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+18-03-2024 09:08:04.650Z;functions.waitForImage;  FILTER CLEAN image not found.
+18-03-2024 09:08:19.902Z;functions.waitForImage;  FILTER CLEAN image not found.
+18-03-2024 09:08:35.121Z;functions.waitForImage;  FILTER CLEAN image not found.
+18-03-2024 09:09:11.136Z;functions.remessa_pagamento;  SEM PROCESSO DE BORDERO AUTORIZADO
+18-03-2024 09:09:14.166Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+18-03-2024 09:09:14.213Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+18-03-2024 09:09:14.229Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+18-03-2024 09:09:14.229Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+18-03-2024 09:09:14.229Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+18-03-2024 09:09:14.229Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+18-03-2024 09:09:14.479Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+18-03-2024 09:09:14.588Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+18-03-2024 09:09:14.588Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+18-03-2024 09:09:14.604Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+18-03-2024 09:09:14.604Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+18-03-2024 09:09:14.604Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+18-03-2024 09:09:14.604Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+18-03-2024 09:09:14.651Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+18-03-2024 09:09:14.666Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+18-03-2024 09:09:14.666Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+18-03-2024 09:09:14.666Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+18-03-2024 09:09:14.666Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+18-03-2024 09:09:17.448Z;functions.emailFinalizado;  Warning e-mail sent.
+18-03-2024 09:09:17.856Z;functions.encerra_prog;  RM ENCERRADO

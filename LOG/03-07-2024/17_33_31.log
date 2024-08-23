@@ -1,0 +1,38 @@
+03-07-2024 17:33:31.715Z;functions.bot_text_art;      ____     
+03-07-2024 17:33:31.715Z;functions.bot_text_art;     [____]    
+03-07-2024 17:33:31.715Z;functions.bot_text_art;   |=]()()[=|  
+03-07-2024 17:33:31.715Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+03-07-2024 17:33:31.715Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+03-07-2024 17:33:31.715Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+03-07-2024 17:33:31.715Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+03-07-2024 17:33:31.715Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+03-07-2024 17:33:31.731Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+03-07-2024 17:33:31.731Z;functions.bot_text_art;     |_||_|    
+03-07-2024 17:33:31.731Z;functions.bot_text_art;     | ||_|_   
+03-07-2024 17:33:31.731Z;functions.bot_text_art;   |___||___|  
+03-07-2024 17:33:31.731Z;functions.bot_text_art;               
+03-07-2024 17:33:31.746Z;functions.open_RM;  OPEN PROGRAM RM
+03-07-2024 17:33:48.543Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+03-07-2024 17:33:49.684Z;functions.loggin_RM;  ENCONTRA USE FIELD
+03-07-2024 17:33:50.043Z;functions.loggin_RM;  DUPLO CLICK
+03-07-2024 17:33:53.715Z;functions.loggin_RM;  ENTRAR USER_NAME
+03-07-2024 17:33:55.044Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+03-07-2024 17:33:55.324Z;functions.loggin_RM;  CLICK
+03-07-2024 17:33:57.452Z;functions.loggin_RM;  ENTRAR PASSWORD
+03-07-2024 17:33:58.887Z;functions.loggin_RM;  ENTRAR RM
+03-07-2024 17:34:35.277Z;functions.loggin_RM;  FILTRO 1 NÃO ENCONTRADO DE INICIO
+03-07-2024 17:35:07.571Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+03-07-2024 17:35:40.170Z;functions.loggin_RM;  FILTRO 1 NÃO ENCONTRADO DE INICIO
+03-07-2024 17:36:13.271Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+03-07-2024 17:36:45.279Z;functions.loggin_RM;  FILTRO 1 NÃO ENCONTRADO DE INICIO
+03-07-2024 17:37:18.236Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+03-07-2024 17:37:18.236Z;functions.enter_coligada;  AGUARDANDO 1
+03-07-2024 17:37:19.980Z;functions.enter_coligada;  CLICK CONTEXTO
+03-07-2024 17:37:35.852Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 14, in <module>
+    enter_coligada()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 174, in enter_coligada
+    click_alterar_contexto.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

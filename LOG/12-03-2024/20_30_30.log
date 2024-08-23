@@ -1,0 +1,124 @@
+12-03-2024 20:30:30.381Z;functions.bot_text_art;      ____     
+12-03-2024 20:30:30.381Z;functions.bot_text_art;     [____]    
+12-03-2024 20:30:30.381Z;functions.bot_text_art;   |=]()()[=|  
+12-03-2024 20:30:30.381Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+12-03-2024 20:30:30.381Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+12-03-2024 20:30:30.381Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+12-03-2024 20:30:30.381Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+12-03-2024 20:30:30.381Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+12-03-2024 20:30:30.397Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+12-03-2024 20:30:30.397Z;functions.bot_text_art;     |_||_|    
+12-03-2024 20:30:30.397Z;functions.bot_text_art;     | ||_|_   
+12-03-2024 20:30:30.397Z;functions.bot_text_art;   |___||___|  
+12-03-2024 20:30:30.397Z;functions.bot_text_art;               
+12-03-2024 20:30:30.397Z;functions.open_RM;  OPEN PROGRAM RM
+12-03-2024 20:31:09.222Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+12-03-2024 20:31:10.207Z;functions.loggin_RM;  ENCONTRA USE FIELD
+12-03-2024 20:31:10.457Z;functions.loggin_RM;  DUPLO CLICK
+12-03-2024 20:31:13.832Z;functions.loggin_RM;  ENTRAR USER_NAME
+12-03-2024 20:31:14.831Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+12-03-2024 20:31:15.066Z;functions.loggin_RM;  CLICK
+12-03-2024 20:31:17.194Z;functions.loggin_RM;  ENTRAR PASSWORD
+12-03-2024 20:31:18.411Z;functions.loggin_RM;  ENTRAR RM
+12-03-2024 20:33:49.474Z;functions.enter_coligada;  CLICK CONTEXTO
+12-03-2024 20:33:54.848Z;functions.enter_coligada;  CLICK COLIGADA 1
+12-03-2024 20:33:57.911Z;functions.enter_coligada;  CLICK AVANÇAR
+12-03-2024 20:34:01.346Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+12-03-2024 20:34:01.457Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+12-03-2024 20:34:06.217Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+12-03-2024 20:34:09.551Z;functions.enter_coligada;  CLICK CONCLUIR
+12-03-2024 20:34:31.119Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+12-03-2024 20:34:41.738Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+12-03-2024 20:34:45.848Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+12-03-2024 20:34:48.660Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+12-03-2024 20:35:18.723Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+12-03-2024 20:35:21.134Z;functions.waitForImage;  IMAGEM BORDERO image found.
+12-03-2024 20:35:23.263Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+12-03-2024 20:35:43.427Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+12-03-2024 20:35:44.099Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+12-03-2024 20:35:44.146Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+12-03-2024 20:35:48.362Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+12-03-2024 20:35:48.363Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+12-03-2024 20:35:56.135Z;functions.waitForImage;  FILTER CLEAN image found.
+12-03-2024 20:35:58.266Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-03-2024 20:35:58.568Z;functions.waitForImage;  FILTER CLEAN image found.
+12-03-2024 20:36:00.699Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-03-2024 20:36:15.874Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-03-2024 20:36:17.302Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+12-03-2024 20:36:18.527Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+12-03-2024 20:36:20.442Z;functions.movimentacao_bancaria;  HOVER FILTER
+12-03-2024 20:36:20.921Z;functions.movimentacao_bancaria;  CLICK FILTER
+12-03-2024 20:36:25.247Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+12-03-2024 20:36:27.350Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+12-03-2024 20:36:29.464Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+12-03-2024 20:36:31.567Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+12-03-2024 20:36:53.179Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+12-03-2024 20:36:53.179Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+12-03-2024 20:36:53.505Z;functions.waitForImage;  FILTER CLEAN image found.
+12-03-2024 20:36:55.635Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-03-2024 20:37:10.791Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-03-2024 20:37:25.948Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-03-2024 20:37:27.536Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+12-03-2024 20:37:29.427Z;functions.remessa_pagamento;  HOVER FILTER
+12-03-2024 20:37:29.890Z;functions.remessa_pagamento;  CLICK FILTER
+12-03-2024 20:37:34.223Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+12-03-2024 20:37:36.326Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+12-03-2024 20:37:38.442Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+12-03-2024 20:37:40.545Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+12-03-2024 20:38:03.187Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+12-03-2024 20:38:04.037Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+12-03-2024 20:38:05.583Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+12-03-2024 20:38:08.368Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+12-03-2024 20:38:58.336Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+12-03-2024 20:38:59.521Z;functions.waitForImage;  LANÇAMENTOS image found.
+12-03-2024 20:39:01.656Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+12-03-2024 20:39:17.286Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+12-03-2024 20:39:17.286Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+12-03-2024 20:39:17.286Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+12-03-2024 20:39:17.286Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+12-03-2024 20:39:17.286Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+12-03-2024 20:39:17.286Z;functions.obter_intervalo_data;  hoje -  2024-03-12 20:39:17.286829
+12-03-2024 20:39:17.286Z;functions.data_filter;  DATA INICIO 13-03-2024
+12-03-2024 20:39:17.286Z;functions.data_filter;  DATA FIM 19-03-2024
+12-03-2024 20:39:17.286Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+12-03-2024 20:39:17.286Z;functions.data_filter;  QUARTA-FEIRA: 13-03-2024
+12-03-2024 20:39:17.286Z;functions.data_filter;  TERCA-FEIRA: 19-03-2024
+12-03-2024 20:39:20.329Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+12-03-2024 20:39:22.084Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+12-03-2024 20:39:26.630Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 13-03-2024
+12-03-2024 20:39:30.630Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 19-03-2024
+12-03-2024 20:39:31.552Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+12-03-2024 20:39:38.162Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+12-03-2024 20:39:39.833Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+12-03-2024 20:39:41.600Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+12-03-2024 20:39:43.708Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+12-03-2024 20:39:45.819Z;functions.desmark_filter;  ATUALIZA O FILTRO
+12-03-2024 20:39:45.819Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO
+12-03-2024 20:40:00.935Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-03-2024 20:40:15.968Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-03-2024 20:40:31.820Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-03-2024 20:40:34.286Z;functions.tabela_vazia;  Texto extraido 0/0
+12-03-2024 20:40:34.286Z;functions.tabela_vazia;  Count 0
+12-03-2024 20:40:34.286Z;functions.tabela_vazia;  Type <class 'int'>
+12-03-2024 20:40:36.290Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+12-03-2024 20:40:38.291Z;main.<module>;  SEM REMESSA DE PENSÃO
+12-03-2024 20:40:40.709Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+12-03-2024 20:40:40.756Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+12-03-2024 20:40:40.771Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+12-03-2024 20:40:40.771Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+12-03-2024 20:40:40.771Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+12-03-2024 20:40:40.771Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+12-03-2024 20:40:41.006Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+12-03-2024 20:40:41.146Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+12-03-2024 20:40:41.146Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+12-03-2024 20:40:41.146Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+12-03-2024 20:40:41.146Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+12-03-2024 20:40:41.146Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+12-03-2024 20:40:41.146Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+12-03-2024 20:40:41.178Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+12-03-2024 20:40:41.193Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+12-03-2024 20:40:41.193Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+12-03-2024 20:40:41.193Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+12-03-2024 20:40:41.193Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+12-03-2024 20:40:43.818Z;functions.emailFinalizado;  Warning e-mail sent.
+12-03-2024 20:40:44.172Z;functions.encerra_prog;  RM ENCERRADO

@@ -1,0 +1,30 @@
+26-10-2023 18:20:53.677Z;functions.bot_text_art;      ____   
+26-10-2023 18:20:53.678Z;functions.bot_text_art;     [____]    
+26-10-2023 18:20:53.678Z;functions.bot_text_art;   |=]()()[=|  
+26-10-2023 18:20:53.678Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+26-10-2023 18:20:53.678Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+26-10-2023 18:20:53.679Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+26-10-2023 18:20:53.679Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+26-10-2023 18:20:53.679Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+26-10-2023 18:20:53.680Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+26-10-2023 18:20:53.680Z;functions.bot_text_art;     |_||_|                                                     
+26-10-2023 18:20:53.680Z;functions.bot_text_art;     | ||_|_   
+26-10-2023 18:20:53.680Z;functions.bot_text_art;   |___||___|  
+26-10-2023 18:20:53.680Z;functions.bot_text_art;               
+26-10-2023 18:20:53.684Z;functions.open_RM;  OPEN PROGRAM RM
+26-10-2023 18:20:59.159Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos\Remessa_Ferias_Rescisao\main.py", line 12, in <module>
+    loggin_RM()
+  File "C:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 58, in loggin_RM
+    cc.wait_appear(locator.rm.pane_picturebox1, wait_timeout=500)
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

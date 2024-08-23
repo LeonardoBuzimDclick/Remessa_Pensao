@@ -1,0 +1,35 @@
+31-10-2023 15:43:05.018Z;functions.bot_text_art;      ____   
+31-10-2023 15:43:05.018Z;functions.bot_text_art;     [____]    
+31-10-2023 15:43:05.019Z;functions.bot_text_art;   |=]()()[=|  
+31-10-2023 15:43:05.019Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+31-10-2023 15:43:05.019Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+31-10-2023 15:43:05.020Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+31-10-2023 15:43:05.020Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+31-10-2023 15:43:05.020Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+31-10-2023 15:43:05.021Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+31-10-2023 15:43:05.022Z;functions.bot_text_art;     |_||_|                                                     
+31-10-2023 15:43:05.022Z;functions.bot_text_art;     | ||_|_   
+31-10-2023 15:43:05.022Z;functions.bot_text_art;   |___||___|  
+31-10-2023 15:43:05.023Z;functions.bot_text_art;               
+31-10-2023 15:43:05.233Z;functions.open_RM;  OPEN PROGRAM RM
+31-10-2023 15:45:19.782Z;functions.loggin_RM;  ENTER USER_NAME
+31-10-2023 15:45:20.589Z;functions.loggin_RM;  ENTER PASSWORD
+31-10-2023 15:45:21.253Z;functions.loggin_RM;  ENTER RM
+31-10-2023 15:48:35.741Z;functions.enter_coligada;  CLICK CONTEXTO
+31-10-2023 15:48:52.841Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Ferias_Rescisao\main.py", line 13, in <module>
+    enter_coligada()
+  File "c:\Projetos\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 78, in enter_coligada
+    click_coligada = cc.wait_appear(locator.rm.menuitem_coligada_1, wait_timeout=15)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

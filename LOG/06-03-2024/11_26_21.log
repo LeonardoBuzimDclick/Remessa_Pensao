@@ -1,0 +1,44 @@
+06-03-2024 11:26:21.910Z;functions.bot_text_art;      ____     
+06-03-2024 11:26:21.910Z;functions.bot_text_art;     [____]    
+06-03-2024 11:26:21.910Z;functions.bot_text_art;   |=]()()[=|  
+06-03-2024 11:26:21.910Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+06-03-2024 11:26:21.910Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+06-03-2024 11:26:21.910Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+06-03-2024 11:26:21.910Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+06-03-2024 11:26:21.910Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+06-03-2024 11:26:21.925Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+06-03-2024 11:26:21.925Z;functions.bot_text_art;     |_||_|    
+06-03-2024 11:26:21.925Z;functions.bot_text_art;     | ||_|_   
+06-03-2024 11:26:21.925Z;functions.bot_text_art;   |___||___|  
+06-03-2024 11:26:21.925Z;functions.bot_text_art;               
+06-03-2024 11:26:21.925Z;functions.open_RM;  OPEN PROGRAM RM
+06-03-2024 11:26:32.551Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+06-03-2024 11:26:33.551Z;functions.loggin_RM;  ENCONTRA USE FIELD
+06-03-2024 11:26:33.816Z;functions.loggin_RM;  DUPLO CLICK
+06-03-2024 11:26:37.426Z;functions.loggin_RM;  ENTRAR USER_NAME
+06-03-2024 11:26:38.457Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+06-03-2024 11:26:38.785Z;functions.loggin_RM;  CLICK
+06-03-2024 11:26:40.910Z;functions.loggin_RM;  ENTRAR PASSWORD
+06-03-2024 11:26:42.098Z;functions.loggin_RM;  ENTRAR RM
+06-03-2024 11:27:17.629Z;functions.enter_coligada;  CLICK CONTEXTO
+06-03-2024 11:27:22.941Z;functions.enter_coligada;  CLICK COLIGADA 1
+06-03-2024 11:27:25.223Z;functions.enter_coligada;  CLICK AVANÇAR
+06-03-2024 11:27:27.657Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+06-03-2024 11:27:27.774Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+06-03-2024 11:27:29.129Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+06-03-2024 11:27:30.379Z;functions.enter_coligada;  CLICK CONCLUIR
+06-03-2024 11:27:57.148Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+06-03-2024 11:27:58.003Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+06-03-2024 11:27:59.816Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+06-03-2024 11:28:02.631Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+06-03-2024 11:28:09.347Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+06-03-2024 11:28:11.878Z;functions.waitForImage;  IMAGEM BORDERO image found.
+06-03-2024 11:28:14.011Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+06-03-2024 11:28:16.558Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+06-03-2024 11:28:16.558Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+06-03-2024 11:28:16.558Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+06-03-2024 11:28:38.112Z;functions.waitForImage;  IMAGEM BORDERO image found.
+06-03-2024 11:28:40.229Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+06-03-2024 11:28:41.717Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+06-03-2024 11:28:41.717Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+06-03-2024 11:28:41.718Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2

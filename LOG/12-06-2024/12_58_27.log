@@ -1,0 +1,48 @@
+12-06-2024 12:58:28.053Z;functions.bot_text_art;      ____     
+12-06-2024 12:58:28.053Z;functions.bot_text_art;     [____]    
+12-06-2024 12:58:28.053Z;functions.bot_text_art;   |=]()()[=|  
+12-06-2024 12:58:28.053Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+12-06-2024 12:58:28.053Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+12-06-2024 12:58:28.053Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+12-06-2024 12:58:28.053Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+12-06-2024 12:58:28.053Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+12-06-2024 12:58:28.069Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+12-06-2024 12:58:28.069Z;functions.bot_text_art;     |_||_|    
+12-06-2024 12:58:28.069Z;functions.bot_text_art;     | ||_|_   
+12-06-2024 12:58:28.069Z;functions.bot_text_art;   |___||___|  
+12-06-2024 12:58:28.069Z;functions.bot_text_art;               
+12-06-2024 12:58:28.069Z;functions.open_RM;  OPEN PROGRAM RM
+12-06-2024 12:58:45.206Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+12-06-2024 12:58:46.369Z;functions.loggin_RM;  ENCONTRA USE FIELD
+12-06-2024 12:58:46.660Z;functions.loggin_RM;  DUPLO CLICK
+12-06-2024 12:58:50.206Z;functions.loggin_RM;  ENTRAR USER_NAME
+12-06-2024 12:58:51.503Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+12-06-2024 12:58:51.784Z;functions.loggin_RM;  CLICK
+12-06-2024 12:58:53.912Z;functions.loggin_RM;  ENTRAR PASSWORD
+12-06-2024 12:58:55.308Z;functions.loggin_RM;  ENTRAR RM
+12-06-2024 12:59:57.191Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+12-06-2024 13:00:58.185Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+12-06-2024 13:01:58.993Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+12-06-2024 13:01:58.993Z;functions.enter_coligada;  AGUARDANDO 1
+12-06-2024 13:04:29.718Z;functions.enter_coligada;  apertou up
+12-06-2024 13:04:29.718Z;functions.enter_coligada;  AGUARDANDO 2
+12-06-2024 13:07:00.339Z;functions.enter_coligada;  apertou up
+12-06-2024 13:07:00.339Z;functions.enter_coligada;  AGUARDANDO 3
+12-06-2024 13:09:31.002Z;functions.enter_coligada;  apertou up
+12-06-2024 13:09:31.003Z;functions.enter_coligada;  AGUARDANDO 4
+12-06-2024 13:12:01.667Z;functions.enter_coligada;  apertou up
+12-06-2024 13:12:01.667Z;functions.enter_coligada;  AGUARDANDO 5
+12-06-2024 13:14:32.308Z;functions.enter_coligada;  apertou up
+12-06-2024 13:14:32.308Z;functions.enter_coligada;  AGUARDANDO 6
+12-06-2024 13:17:02.995Z;functions.enter_coligada;  apertou up
+12-06-2024 13:17:02.995Z;functions.enter_coligada;  AGUARDANDO 7
+12-06-2024 13:19:33.678Z;functions.enter_coligada;  apertou up
+12-06-2024 13:19:49.660Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 14, in <module>
+    enter_coligada()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 148, in enter_coligada
+    click_alterar_contexto.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+12-06-2024 13:19:50.830Z;functions.show_exception_and_exit;  RM FECHADO

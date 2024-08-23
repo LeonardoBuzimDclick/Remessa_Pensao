@@ -1,0 +1,391 @@
+14-06-2024 14:30:23.627Z;functions.bot_text_art;      ____     
+14-06-2024 14:30:23.627Z;functions.bot_text_art;     [____]    
+14-06-2024 14:30:23.627Z;functions.bot_text_art;   |=]()()[=|  
+14-06-2024 14:30:23.627Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+14-06-2024 14:30:23.627Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+14-06-2024 14:30:23.627Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+14-06-2024 14:30:23.627Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+14-06-2024 14:30:23.627Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+14-06-2024 14:30:23.643Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+14-06-2024 14:30:23.643Z;functions.bot_text_art;     |_||_|    
+14-06-2024 14:30:23.643Z;functions.bot_text_art;     | ||_|_   
+14-06-2024 14:30:23.643Z;functions.bot_text_art;   |___||___|  
+14-06-2024 14:30:23.643Z;functions.bot_text_art;               
+14-06-2024 14:30:23.643Z;functions.open_RM;  OPEN PROGRAM RM
+14-06-2024 14:30:39.908Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+14-06-2024 14:30:40.893Z;functions.loggin_RM;  ENCONTRA USE FIELD
+14-06-2024 14:30:41.111Z;functions.loggin_RM;  DUPLO CLICK
+14-06-2024 14:30:44.424Z;functions.loggin_RM;  ENTRAR USER_NAME
+14-06-2024 14:30:45.627Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+14-06-2024 14:30:45.893Z;functions.loggin_RM;  CLICK
+14-06-2024 14:30:48.018Z;functions.loggin_RM;  ENTRAR PASSWORD
+14-06-2024 14:30:49.266Z;functions.loggin_RM;  ENTRAR RM
+14-06-2024 14:31:52.110Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+14-06-2024 14:32:53.852Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+14-06-2024 14:33:55.870Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+14-06-2024 14:33:55.870Z;functions.enter_coligada;  AGUARDANDO 1
+14-06-2024 14:33:57.111Z;functions.enter_coligada;  CLICK CONTEXTO
+14-06-2024 14:33:59.580Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+14-06-2024 14:34:03.328Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+14-06-2024 14:34:03.434Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+14-06-2024 14:34:04.705Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+14-06-2024 14:34:05.955Z;functions.enter_coligada;  CLICK CONCLUIR
+14-06-2024 14:35:13.799Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+14-06-2024 14:35:14.705Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+14-06-2024 14:35:16.299Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+14-06-2024 14:35:18.892Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+14-06-2024 14:35:18.892Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 14
+14-06-2024 14:35:18.917Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+14-06-2024 14:35:18.917Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+14-06-2024 14:35:18.923Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+14-06-2024 14:35:18.923Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+14-06-2024 14:35:18.923Z;functions.obter_intervalo_data;  hoje -  2024-06-14 14:35:18.923889
+14-06-2024 14:35:18.923Z;functions.check_movimentacao_bancaria;  DATA INICIO 19-06-2024
+14-06-2024 14:35:18.923Z;functions.check_movimentacao_bancaria;  DATA FIM 25-06-2024
+14-06-2024 14:35:18.923Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+14-06-2024 14:35:26.174Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+14-06-2024 14:35:28.392Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:35:30.526Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:35:32.767Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:35:35.049Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:35:35.049Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:35:35.049Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+14-06-2024 14:35:46.346Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:35:48.463Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:35:49.345Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:35:51.580Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:35:51.580Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:35:51.580Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+14-06-2024 14:36:02.876Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:36:04.996Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:36:05.876Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:36:08.111Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:36:08.111Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:36:08.127Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 3
+14-06-2024 14:36:19.408Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:36:21.525Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:36:22.408Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:36:24.658Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:36:24.658Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:36:24.658Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 4
+14-06-2024 14:36:35.971Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:36:38.087Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:36:38.970Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:36:41.205Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:36:41.205Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:36:41.205Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 5
+14-06-2024 14:36:52.502Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:36:54.619Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:36:55.533Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:36:57.767Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:36:57.767Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:36:57.767Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 6
+14-06-2024 14:37:09.064Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:37:11.181Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:37:12.064Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:37:14.314Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:37:14.314Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:37:14.314Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 7
+14-06-2024 14:37:25.626Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:37:27.745Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:37:28.627Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:37:30.861Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:37:30.861Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:37:30.861Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 8
+14-06-2024 14:37:42.158Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:37:44.275Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:37:45.158Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:37:47.392Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:37:47.392Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:37:47.392Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 9
+14-06-2024 14:37:58.689Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:38:00.806Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:38:01.689Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:38:03.939Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:38:03.939Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:38:03.939Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 10
+14-06-2024 14:38:15.251Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:38:17.369Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:38:18.252Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:38:20.502Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:38:20.502Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:38:20.502Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 11
+14-06-2024 14:38:31.782Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:38:33.901Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:38:34.785Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:38:37.080Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:38:37.080Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:38:37.080Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 12
+14-06-2024 14:38:48.376Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:38:50.493Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:38:52.048Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:38:54.298Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:38:54.314Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:38:54.314Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 13
+14-06-2024 14:39:05.595Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:39:07.712Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:39:08.595Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:39:10.845Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:39:10.845Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:39:10.845Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 14
+14-06-2024 14:39:22.158Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:39:24.276Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:39:25.157Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:39:27.408Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:39:27.408Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:39:27.408Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 15
+14-06-2024 14:39:38.689Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:39:40.806Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:39:41.689Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:39:43.923Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:39:43.923Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:39:43.939Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 16
+14-06-2024 14:39:55.220Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:39:57.338Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:39:58.220Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:40:00.470Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:40:00.470Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:40:00.470Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 17
+14-06-2024 14:40:11.782Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:40:13.900Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:40:14.789Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:40:17.048Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:40:17.048Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:40:17.048Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 18
+14-06-2024 14:40:28.345Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:40:30.463Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:40:31.345Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:40:33.595Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:40:33.595Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:40:33.595Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 19
+14-06-2024 14:40:44.886Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:40:46.993Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:40:47.876Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:40:50.126Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:40:50.126Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:40:50.126Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 20
+14-06-2024 14:41:01.408Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:41:03.525Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:41:04.392Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:41:06.642Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:41:06.642Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:41:06.642Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 21
+14-06-2024 14:41:17.938Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:41:20.056Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:41:20.939Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:41:23.173Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:41:23.173Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:41:23.173Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 22
+14-06-2024 14:41:34.470Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:41:36.587Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:41:37.470Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:41:39.719Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:41:39.719Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:41:39.720Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 23
+14-06-2024 14:41:51.001Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:41:53.118Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:41:54.001Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:41:56.267Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:41:56.267Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:41:56.267Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 24
+14-06-2024 14:42:07.563Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:42:09.680Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:42:10.579Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:42:12.829Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:42:12.829Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:42:12.829Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 25
+14-06-2024 14:42:24.126Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:42:26.243Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:42:27.126Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:42:29.376Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:42:29.376Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:42:29.376Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 26
+14-06-2024 14:42:40.673Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:42:42.807Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:42:43.688Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:42:45.923Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:42:45.923Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:42:45.923Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 27
+14-06-2024 14:42:57.220Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:42:59.337Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:43:00.220Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:43:02.454Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:43:02.454Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:43:02.454Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 28
+14-06-2024 14:43:13.751Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:43:15.868Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:43:16.751Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:43:19.001Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:43:19.001Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:43:19.001Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 29
+14-06-2024 14:43:30.282Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:43:32.401Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:43:33.282Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:43:35.516Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:43:35.516Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:43:35.516Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 30
+14-06-2024 14:43:46.813Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:43:48.930Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:43:49.823Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:43:52.064Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:43:52.064Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:43:52.064Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 31
+14-06-2024 14:44:03.345Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:44:05.461Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:44:06.329Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:44:08.594Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:44:08.594Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:44:08.594Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 32
+14-06-2024 14:44:19.921Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:44:22.055Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:44:22.938Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:44:25.173Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:44:25.173Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:44:25.173Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 33
+14-06-2024 14:44:36.469Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:44:38.587Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:44:39.470Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:44:41.704Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:44:41.704Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:44:41.704Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 34
+14-06-2024 14:44:53.001Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:44:55.119Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:44:55.985Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:44:58.251Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:44:58.251Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:44:58.251Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 35
+14-06-2024 14:45:09.563Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:45:11.681Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:45:12.563Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:45:14.823Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:45:14.824Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:45:14.824Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 36
+14-06-2024 14:45:26.126Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:45:28.244Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:45:29.126Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:45:31.423Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:45:31.423Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:45:31.423Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 37
+14-06-2024 14:45:42.719Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:45:44.839Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:45:45.704Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:45:47.969Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:45:47.969Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:45:47.969Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 38
+14-06-2024 14:45:59.282Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:46:01.399Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:46:02.282Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:46:04.516Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:46:04.516Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:46:04.516Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 39
+14-06-2024 14:46:15.813Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:46:17.930Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:46:18.813Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:46:21.047Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:46:21.047Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:46:21.047Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 40
+14-06-2024 14:46:32.345Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-06-2024 14:46:34.462Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-06-2024 14:46:35.329Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+14-06-2024 14:46:37.595Z;functions.waitForImage;  LICENCE SERVER image not found.
+14-06-2024 14:46:37.595Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+14-06-2024 14:46:37.595Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 41
+14-06-2024 14:46:38.699Z;functions.movimentacao_bancaria;  ENVIANDO EMAIL DE ERRO
+14-06-2024 14:46:40.860Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: none;'. [1:174: {]
+14-06-2024 14:46:40.860Z;errorhandler.__handle;  Property: Unknown Property name. [1:204: -ms-interpolation-mode]
+14-06-2024 14:46:40.876Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:267: }]
+14-06-2024 14:46:40.876Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:281: {]
+14-06-2024 14:46:40.891Z;errorhandler.__handle;  Property: Unknown Property name. [1:356: -webkit-font-smoothing]
+14-06-2024 14:46:40.891Z;errorhandler.__handle;  Property: Unknown Property name. [1:486: -ms-text-size-adjust]
+14-06-2024 14:46:40.891Z;errorhandler.__handle;  Property: Unknown Property name. [1:521: -webkit-text-size-adjust]
+14-06-2024 14:46:40.891Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:559: }]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border-collapse: separate;'. [1:574: {]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  Property: Unknown Property name. [1:617: mso-table-lspace]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  Property: Unknown Property name. [1:647: mso-table-rspace]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:690: }]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          font-family: sans-serif;'. [1:710: {]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:808: }]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:941: {]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1003: }]
+14-06-2024 14:46:40.907Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        display: block;'. [1:1178: {]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1342: }]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1452: {]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1584: }]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background: #ffffff;'. [1:1721: {]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1804: }]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1822: {]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1883: }]
+14-06-2024 14:46:40.923Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        padding-bottom: 10px;'. [1:1907: {]
+14-06-2024 14:46:40.938Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1969: }]
+14-06-2024 14:46:40.938Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:1986: {]
+14-06-2024 14:46:40.938Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2086: }]
+14-06-2024 14:46:40.938Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          color: #999999;'. [1:2165: {]
+14-06-2024 14:46:40.938Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2253: }]
+14-06-2024 14:46:40.938Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #000000;'. [1:2404: {]
+14-06-2024 14:46:40.938Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2563: }]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-size: 35px;'. [1:2575: {]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2694: }]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-family: sans-serif;'. [1:2723: {]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2861: }]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          list-style-position: inside;'. [1:2905: {]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2978: }]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #3498db;'. [1:2989: {]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3055: }]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:3178: {]
+14-06-2024 14:46:40.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3231: }]
+14-06-2024 14:46:40.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          padding-bottom: 15px;'. [1:3265: {]
+14-06-2024 14:46:40.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3298: }]
+14-06-2024 14:46:40.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          width: auto;'. [1:3320: {]
+14-06-2024 14:46:40.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3350: }]
+14-06-2024 14:46:40.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3375: {]
+14-06-2024 14:46:40.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3477: }]
+14-06-2024 14:46:40.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3495: {]
+14-06-2024 14:46:41.173Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3892: }]
+14-06-2024 14:46:41.173Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3923: {]
+14-06-2024 14:46:41.173Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3965: }]
+14-06-2024 14:46:41.173Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3989: {]
+14-06-2024 14:46:41.220Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4084: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4234: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4267: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4283: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4313: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: center;'. [1:4336: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4371: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: right;'. [1:4393: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4427: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: left;'. [1:4448: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4481: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:4497: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4525: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4539: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4569: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4583: {]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4616: }]
+14-06-2024 14:46:41.235Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: transparent;'. [1:4636: {]
+14-06-2024 14:46:41.251Z;errorhandler.__handle;  Property: Unknown Property name. [1:4799: mso-hide]
+14-06-2024 14:46:41.251Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4864: }]
+14-06-2024 14:46:41.251Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-decoration: none;'. [1:4887: {]
+14-06-2024 14:46:41.251Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4925: }]
+14-06-2024 14:46:41.251Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: 0;'. [1:4937: {]
+14-06-2024 14:46:41.251Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:5027: }]
+14-06-2024 14:46:41.251Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      }'. [1:5217: {]
+14-06-2024 14:46:41.266Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+14-06-2024 14:46:41.266Z;errorhandler.__handle;  Property: No ":" after name found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+14-06-2024 14:46:41.266Z;errorhandler.__handle;  Property: No property value found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+14-06-2024 14:46:41.266Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      
+14-06-2024 14:46:41.266Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        .ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       }'. [1:6420: {]
+14-06-2024 14:46:41.266Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+14-06-2024 14:46:41.266Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '.ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       '. [1:6429: .]
+14-06-2024 14:46:41.282Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+14-06-2024 14:46:41.282Z;errorhandler.__handle;  Property: Unknown Property name. [1:24: -webkit-font-smoothing]
+14-06-2024 14:46:41.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:109: -ms-text-size-adjust]
+14-06-2024 14:46:41.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:135: -webkit-text-size-adjust]
+14-06-2024 14:46:41.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: mso-table-lspace]
+14-06-2024 14:46:41.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:20: mso-table-rspace]
+14-06-2024 14:46:41.329Z;errorhandler.__handle;  Property: Unknown Property name. [1:74: mso-hide]
+14-06-2024 14:46:41.329Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+14-06-2024 14:46:41.329Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+14-06-2024 14:46:41.329Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+14-06-2024 14:46:41.329Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+14-06-2024 14:46:44.221Z;functions.emailErro;  Error e-mail sent.
+14-06-2024 14:46:44.563Z;functions.encerra_prog;  RM ENCERRADO

@@ -1,0 +1,75 @@
+16-01-2024 16:06:22.416Z;functions.bot_text_art;      ____     
+16-01-2024 16:06:22.416Z;functions.bot_text_art;     [____]    
+16-01-2024 16:06:22.416Z;functions.bot_text_art;   |=]()()[=|  
+16-01-2024 16:06:22.416Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+16-01-2024 16:06:22.416Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+16-01-2024 16:06:22.416Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+16-01-2024 16:06:22.416Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+16-01-2024 16:06:22.416Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+16-01-2024 16:06:22.416Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+16-01-2024 16:06:22.416Z;functions.bot_text_art;     |_||_|    
+16-01-2024 16:06:22.416Z;functions.bot_text_art;     | ||_|_   
+16-01-2024 16:06:22.416Z;functions.bot_text_art;   |___||___|  
+16-01-2024 16:06:22.416Z;functions.bot_text_art;               
+16-01-2024 16:06:22.416Z;functions.open_RM;  OPEN PROGRAM RM
+16-01-2024 16:06:29.213Z;functions.loggin_RM;  ENTRAR USER_NAME
+16-01-2024 16:06:30.115Z;functions.loggin_RM;  ENTRAR PASSWORD
+16-01-2024 16:06:30.854Z;functions.loggin_RM;  ENTRAR RM
+16-01-2024 16:06:58.479Z;functions.enter_coligada;  CLICK CONTEXTO
+16-01-2024 16:07:02.479Z;functions.enter_coligada;  CLICK COLIGADA 1
+16-01-2024 16:07:03.854Z;functions.enter_coligada;  CLICK AVANÇAR
+16-01-2024 16:07:05.447Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+16-01-2024 16:07:05.549Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+16-01-2024 16:07:06.479Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+16-01-2024 16:07:07.322Z;functions.enter_coligada;  CLICK CONCLUIR
+16-01-2024 16:07:18.557Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+16-01-2024 16:07:19.166Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+16-01-2024 16:07:20.260Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+16-01-2024 16:07:20.979Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+16-01-2024 16:07:27.104Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+16-01-2024 16:07:27.213Z;functions.waitForImage;  LANÇAMENTOS image found.
+16-01-2024 16:07:29.319Z;functions.enter_contas_a_pagar;  CLICK EM LANÇAMENTOS
+16-01-2024 16:07:31.320Z;functions.data_filter;  DATA INICIO 10-01-2024
+16-01-2024 16:07:31.320Z;functions.data_filter;  DATA FIM 16-01-2024
+16-01-2024 16:07:31.320Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+16-01-2024 16:07:31.321Z;functions.data_filter;  QUARTA-FEIRA: 10-01-2024
+16-01-2024 16:07:31.321Z;functions.data_filter;  TERCA-FEIRA: 16-01-2024
+16-01-2024 16:07:50.584Z;functions.data_filter;  'NoneType' object has no attribute 'set_text'
+16-01-2024 16:07:50.705Z;functions.data_filter;  CLICK - MAXIMIZAR FAIXA DE OPÇÕES
+16-01-2024 16:07:53.385Z;functions.data_filter;  CLICK - CONTAS A PAGAR
+16-01-2024 16:07:53.479Z;functions.waitForImage;  LANÇAMENTOS image found.
+16-01-2024 16:07:55.611Z;functions.data_filter;  CLICK EM LANÇAMENTOS
+16-01-2024 16:08:14.371Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 164, in data_filter
+    select_filter.set_text('REMESSA PENSÃO')
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'set_text'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 15, in <module>
+    data_filter()
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 188, in data_filter
+    select_filter.click()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+16-01-2024 16:08:15.854Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+16-01-2024 16:08:15.869Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+16-01-2024 16:08:15.869Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+16-01-2024 16:08:15.869Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+16-01-2024 16:08:15.869Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+16-01-2024 16:08:15.869Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+16-01-2024 16:08:15.916Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+16-01-2024 16:08:15.947Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+16-01-2024 16:08:15.947Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+16-01-2024 16:08:15.947Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+16-01-2024 16:08:15.963Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+16-01-2024 16:08:15.963Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+16-01-2024 16:08:15.963Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+16-01-2024 16:08:15.963Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+16-01-2024 16:08:15.979Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+16-01-2024 16:08:15.979Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+16-01-2024 16:08:15.979Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+16-01-2024 16:08:15.979Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

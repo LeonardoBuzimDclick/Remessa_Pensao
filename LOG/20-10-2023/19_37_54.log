@@ -1,0 +1,12 @@
+20-10-2023 19:37:56.127Z;functions.process_lancamentos;  SELECIONA TODOS OS LANÇAMENTOS PARA SEREM PROCESSADOS
+20-10-2023 19:38:00.849Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+20-10-2023 19:38:01.755Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+20-10-2023 19:38:02.496Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+20-10-2023 19:38:03.667Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+20-10-2023 19:38:04.325Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+20-10-2023 19:38:05.044Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+20-10-2023 19:38:05.756Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+20-10-2023 19:38:19.045Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+20-10-2023 19:38:19.111Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-10-2023 19:38:21.112Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+20-10-2023 19:38:23.748Z;functions.process_lancamentos;  CLICK EM FECHAR.

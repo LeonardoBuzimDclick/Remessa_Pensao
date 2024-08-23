@@ -1,0 +1,64 @@
+13-11-2023 18:47:31.825Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+13-11-2023 18:47:33.176Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+13-11-2023 18:47:45.389Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+13-11-2023 18:47:46.877Z;functions.waitForImage;  FILTER CLEAN image found.
+13-11-2023 18:47:49.011Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+13-11-2023 18:47:59.421Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+13-11-2023 18:48:00.647Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+13-11-2023 18:48:02.606Z;functions.movimentacao_bancaria;  HOVER FILTER
+13-11-2023 18:48:02.712Z;functions.movimentacao_bancaria;  CLICK FILTER
+13-11-2023 18:48:07.120Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+13-11-2023 18:48:09.281Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+13-11-2023 18:48:11.394Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+13-11-2023 18:48:13.499Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+13-11-2023 18:48:16.636Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+13-11-2023 18:48:18.742Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+13-11-2023 18:48:20.847Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+13-11-2023 18:48:22.951Z;functions.movimentacao_bancaria;  APERTA ENTER
+13-11-2023 18:48:25.920Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+13-11-2023 18:48:34.257Z;functions.waitForImage;  PRESS BUTTON OK image found.
+13-11-2023 18:48:36.259Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+13-11-2023 18:48:39.114Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+13-11-2023 18:48:41.288Z;functions.waitForImage;  FILTER CLEAN image found.
+13-11-2023 18:48:43.415Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+13-11-2023 18:48:46.704Z;functions.remessa_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+13-11-2023 18:48:47.781Z;functions.remessa_pagamento;  10 PASSOS PARA DIREITA NA TABELA >>
+13-11-2023 18:48:49.785Z;functions.remessa_pagamento;  HOVER FILTER
+13-11-2023 18:48:49.922Z;functions.remessa_pagamento;  CLICK FILTER
+13-11-2023 18:48:54.254Z;functions.remessa_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+13-11-2023 18:48:56.357Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+13-11-2023 18:48:58.474Z;functions.remessa_pagamento;  ESCREVE PENDENTE NO FILTRO
+13-11-2023 18:49:00.577Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+13-11-2023 18:49:03.715Z;functions.remessa_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+13-11-2023 18:49:05.820Z;functions.remessa_pagamento;  CLICA EM PROCESSOS
+13-11-2023 18:49:07.925Z;functions.remessa_pagamento;  APERTA PARA BAIXO 0
+13-11-2023 18:49:10.028Z;functions.remessa_pagamento;  APERTA PARA BAIXO 1
+13-11-2023 18:49:12.135Z;functions.remessa_pagamento;  APERTA PARA BAIXO 2
+13-11-2023 18:49:14.239Z;functions.remessa_pagamento;  APERTA ENTER
+13-11-2023 18:49:17.152Z;functions.remessa_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+13-11-2023 18:49:18.255Z;functions.remessa_pagamento;  APERTA TAB 0
+13-11-2023 18:49:19.358Z;functions.remessa_pagamento;  APERTA TAB 1
+13-11-2023 18:49:20.461Z;functions.remessa_pagamento;  APERTA TAB 2
+13-11-2023 18:49:30.798Z;functions.remessa_pagamento;  CLICA EM AVANÇAR
+13-11-2023 18:49:30.799Z;functions.remessa_pagamento;  Quarta-feira desejada: 15-11-2023
+13-11-2023 18:49:30.801Z;functions.remessa_pagamento;  Data após somar 6 dias: 21-11-2023
+13-11-2023 18:49:35.710Z;functions.remessa_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+13-11-2023 18:49:36.652Z;functions.remessa_pagamento;  CLICA NOS ... PARA SELECIONAR O DIRETÓRIO E NOME DO ARQUIVO.
+13-11-2023 18:49:39.550Z;functions.remessa_pagamento;  DUPLO CLICK NO DIRETORIO
+13-11-2023 18:49:40.800Z;functions.remessa_pagamento;  APERTA TAB 0
+13-11-2023 18:49:41.914Z;functions.remessa_pagamento;  APERTA TAB 1
+13-11-2023 18:49:43.017Z;functions.remessa_pagamento;  APERTA TAB 2
+13-11-2023 18:49:44.120Z;functions.remessa_pagamento;  APERTA TAB 3
+13-11-2023 18:49:45.223Z;functions.remessa_pagamento;  APERTA TAB 4
+13-11-2023 18:49:46.327Z;functions.remessa_pagamento;  APERTA TAB 5
+13-11-2023 18:49:46.469Z;functions.remessa_pagamento;  F15212023A.txt
+13-11-2023 18:49:47.354Z;functions.remessa_pagamento;  CLICAR NO BUTÃO SALVAR
+13-11-2023 18:49:48.830Z;functions.remessa_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+13-11-2023 18:49:50.035Z;functions.remessa_pagamento;  CLICA EM EXECUTAR
+13-11-2023 18:50:03.124Z;functions.waitForImage;  PRESS BUTTON OK image found.
+13-11-2023 18:50:05.126Z;functions.remessa_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+13-11-2023 18:50:08.716Z;functions.remessa_pagamento;  <clicknium.core.models.uielement.UiElement object at 0x000001979F6B3350>
+13-11-2023 18:50:11.689Z;functions.remessa_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA
+13-11-2023 18:50:13.793Z;functions.encerra_prog;  FECHA A TABELA
+13-11-2023 18:50:15.898Z;functions.encerra_prog;  FECHA O PROGRAMA
+13-11-2023 18:50:18.001Z;functions.encerra_prog;  RM ENCERRADO

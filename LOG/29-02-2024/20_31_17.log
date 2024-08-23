@@ -1,0 +1,126 @@
+29-02-2024 20:31:17.720Z;functions.bot_text_art;      ____     
+29-02-2024 20:31:17.720Z;functions.bot_text_art;     [____]    
+29-02-2024 20:31:17.720Z;functions.bot_text_art;   |=]()()[=|  
+29-02-2024 20:31:17.720Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+29-02-2024 20:31:17.720Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+29-02-2024 20:31:17.720Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+29-02-2024 20:31:17.720Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+29-02-2024 20:31:17.720Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+29-02-2024 20:31:17.720Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+29-02-2024 20:31:17.720Z;functions.bot_text_art;     |_||_|    
+29-02-2024 20:31:17.720Z;functions.bot_text_art;     | ||_|_   
+29-02-2024 20:31:17.720Z;functions.bot_text_art;   |___||___|  
+29-02-2024 20:31:17.720Z;functions.bot_text_art;               
+29-02-2024 20:31:17.736Z;functions.open_RM;  OPEN PROGRAM RM
+29-02-2024 20:31:27.688Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+29-02-2024 20:31:28.655Z;functions.loggin_RM;  ENCONTRA USE FIELD
+29-02-2024 20:31:28.905Z;functions.loggin_RM;  DUPLO CLICK
+29-02-2024 20:31:30.453Z;functions.loggin_RM;  ENTRAR USER_NAME
+29-02-2024 20:31:31.485Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+29-02-2024 20:31:31.719Z;functions.loggin_RM;  CLICK
+29-02-2024 20:31:31.844Z;functions.loggin_RM;  ENTRAR PASSWORD
+29-02-2024 20:31:33.048Z;functions.loggin_RM;  ENTRAR RM
+29-02-2024 20:32:05.235Z;functions.enter_coligada;  CLICK CONTEXTO
+29-02-2024 20:32:10.516Z;functions.enter_coligada;  CLICK COLIGADA 1
+29-02-2024 20:32:12.735Z;functions.enter_coligada;  CLICK AVANÇAR
+29-02-2024 20:32:15.111Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+29-02-2024 20:32:15.220Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+29-02-2024 20:32:16.453Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+29-02-2024 20:32:17.594Z;functions.enter_coligada;  CLICK CONCLUIR
+29-02-2024 20:32:41.516Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+29-02-2024 20:32:42.345Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+29-02-2024 20:32:44.062Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+29-02-2024 20:32:46.772Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+29-02-2024 20:32:52.816Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+29-02-2024 20:32:55.219Z;functions.waitForImage;  IMAGEM BORDERO image found.
+29-02-2024 20:32:57.352Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+29-02-2024 20:33:18.148Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+29-02-2024 20:33:18.798Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+29-02-2024 20:33:18.829Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+29-02-2024 20:33:23.040Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+29-02-2024 20:33:23.040Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+29-02-2024 20:33:27.510Z;functions.waitForImage;  FILTER CLEAN image found.
+29-02-2024 20:33:29.633Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+29-02-2024 20:33:32.953Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+29-02-2024 20:33:34.180Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+29-02-2024 20:33:36.079Z;functions.movimentacao_bancaria;  HOVER FILTER
+29-02-2024 20:33:36.555Z;functions.movimentacao_bancaria;  CLICK FILTER
+29-02-2024 20:33:40.881Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+29-02-2024 20:33:42.984Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+29-02-2024 20:33:45.098Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+29-02-2024 20:33:47.201Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+29-02-2024 20:34:08.665Z;functions.movimentacao_bancaria;  SEM REGISTROS DE PROCESSO DE BORDERO PENDENTE
+29-02-2024 20:34:08.665Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+29-02-2024 20:34:08.993Z;functions.waitForImage;  FILTER CLEAN image found.
+29-02-2024 20:34:11.115Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+29-02-2024 20:34:14.657Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+29-02-2024 20:34:16.485Z;functions.remessa_pagamento;  HOVER FILTER
+29-02-2024 20:34:16.935Z;functions.remessa_pagamento;  CLICK FILTER
+29-02-2024 20:34:21.268Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+29-02-2024 20:34:23.371Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+29-02-2024 20:34:25.488Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+29-02-2024 20:34:27.597Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+29-02-2024 20:34:50.069Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+29-02-2024 20:34:50.891Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+29-02-2024 20:34:52.297Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+29-02-2024 20:34:53.222Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+29-02-2024 20:34:59.125Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+29-02-2024 20:35:00.296Z;functions.waitForImage;  LANÇAMENTOS image found.
+29-02-2024 20:35:02.419Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+29-02-2024 20:35:17.891Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+29-02-2024 20:35:17.891Z;functions.obter_intervalo_data;  Data Inicial PENSAO antes da remoção: None
+29-02-2024 20:35:17.891Z;functions.obter_intervalo_data;  Data Final PENSAO antes da remoção: None
+29-02-2024 20:35:17.891Z;functions.obter_intervalo_data;  Data Inicial PENSAO após a remoção: None
+29-02-2024 20:35:17.891Z;functions.obter_intervalo_data;  Data Final PENSAO após a remoção: None
+29-02-2024 20:35:17.891Z;functions.obter_intervalo_data;  hoje -  2024-02-29 20:35:17.891237
+29-02-2024 20:35:17.891Z;functions.data_filter;  DATA INICIO 06-03-2024
+29-02-2024 20:35:17.891Z;functions.data_filter;  DATA FIM 12-03-2024
+29-02-2024 20:35:17.891Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-02-2024 20:35:17.891Z;functions.data_filter;  QUARTA-FEIRA: 06-03-2024
+29-02-2024 20:35:17.891Z;functions.data_filter;  TERCA-FEIRA: 12-03-2024
+29-02-2024 20:35:21.029Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+29-02-2024 20:35:21.853Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+29-02-2024 20:35:24.719Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 06-03-2024
+29-02-2024 20:35:26.953Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 12-03-2024
+29-02-2024 20:35:28.157Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+29-02-2024 20:35:34.734Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+29-02-2024 20:35:36.468Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+29-02-2024 20:35:38.375Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+29-02-2024 20:35:40.407Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-02-2024 20:35:42.538Z;functions.desmark_filter;  ATUALIZA O FILTRO
+29-02-2024 20:35:42.538Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+29-02-2024 20:36:43.296Z;functions.waitForImage;  FILTER CLEAN image not found.
+29-02-2024 20:36:45.595Z;functions.tabela_vazia;  Texto extraido 0/0
+29-02-2024 20:36:45.595Z;functions.tabela_vazia;  Count 0
+29-02-2024 20:36:45.595Z;functions.tabela_vazia;  Type <class 'int'>
+29-02-2024 20:36:47.605Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+29-02-2024 20:36:49.606Z;main.<module>;  SEM REMESSA DE PENSÃO
+29-02-2024 20:36:49.606Z;functions.show_exception_and_exit;  [Errno 2] No such file or directory: 'C:\\Projetos_Remessas\\Remessa_Pensao/EMAIL/emailFinalizado.html'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Pensao\main.py", line 22, in <module>
+    emailFinalizado(texto_msg)
+  File "C:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 1129, in emailFinalizado
+    with open(f'{email_path}/emailFinalizado.html', 'r', encoding='utf=8') as fileSuccess:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Projetos_Remessas\\Remessa_Pensao/EMAIL/emailFinalizado.html'
+29-02-2024 20:36:49.981Z;functions.show_exception_and_exit;  RM FECHADO
+29-02-2024 20:36:52.782Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+29-02-2024 20:36:52.813Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+29-02-2024 20:36:52.828Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+29-02-2024 20:36:52.828Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+29-02-2024 20:36:52.828Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+29-02-2024 20:36:52.828Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+29-02-2024 20:36:53.063Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+29-02-2024 20:36:53.172Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+29-02-2024 20:36:53.172Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+29-02-2024 20:36:53.188Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+29-02-2024 20:36:53.188Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+29-02-2024 20:36:53.188Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+29-02-2024 20:36:53.188Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+29-02-2024 20:36:53.236Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+29-02-2024 20:36:53.249Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+29-02-2024 20:36:53.250Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+29-02-2024 20:36:53.252Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+29-02-2024 20:36:53.255Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+29-02-2024 20:36:56.878Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+29-02-2024 20:36:56.878Z;functions.show_exception_and_exit;  ERRO - <class 'FileNotFoundError'> / [Errno 2] No such file or directory: 'C:\\Projetos_Remessas\\Remessa_Pensao/EMAIL/emailFinalizado.html'

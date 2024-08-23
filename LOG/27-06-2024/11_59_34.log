@@ -1,0 +1,47 @@
+27-06-2024 11:59:34.310Z;functions.bot_text_art;      ____     
+27-06-2024 11:59:34.311Z;functions.bot_text_art;     [____]    
+27-06-2024 11:59:34.313Z;functions.bot_text_art;   |=]()()[=|  
+27-06-2024 11:59:34.314Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+27-06-2024 11:59:34.314Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+27-06-2024 11:59:34.315Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+27-06-2024 11:59:34.316Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+27-06-2024 11:59:34.317Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+27-06-2024 11:59:34.321Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+27-06-2024 11:59:34.322Z;functions.bot_text_art;     |_||_|    
+27-06-2024 11:59:34.324Z;functions.bot_text_art;     | ||_|_   
+27-06-2024 11:59:34.324Z;functions.bot_text_art;   |___||___|  
+27-06-2024 11:59:34.325Z;functions.bot_text_art;               
+27-06-2024 11:59:34.341Z;functions.open_RM;  OPEN PROGRAM RM
+27-06-2024 11:59:51.697Z;functions.loggin_RM;  ACHOU O PANE PICTURE
+27-06-2024 11:59:52.948Z;functions.loggin_RM;  ENCONTRA USE FIELD
+27-06-2024 11:59:53.282Z;functions.loggin_RM;  DUPLO CLICK
+27-06-2024 11:59:56.948Z;functions.loggin_RM;  ENTRAR USER_NAME
+27-06-2024 11:59:58.370Z;functions.loggin_RM;  ENCONTRA PASS FIELD
+27-06-2024 11:59:58.650Z;functions.loggin_RM;  CLICK
+27-06-2024 12:00:00.759Z;functions.loggin_RM;  ENTRAR PASSWORD
+27-06-2024 12:00:02.331Z;functions.loggin_RM;  ENTRAR RM
+27-06-2024 12:01:05.510Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+27-06-2024 12:02:06.947Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+27-06-2024 12:03:08.416Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO DE INICIO
+27-06-2024 12:03:08.416Z;functions.enter_coligada;  AGUARDANDO 1
+27-06-2024 12:05:46.017Z;functions.enter_coligada;  apertou up
+27-06-2024 12:05:46.018Z;functions.enter_coligada;  AGUARDANDO 2
+27-06-2024 12:05:48.213Z;functions.enter_coligada;  CLICK CONTEXTO
+27-06-2024 12:06:05.459Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Pensao\main.py", line 14, in <module>
+    enter_coligada()
+  File "c:\Projetos_Remessas\Remessa_Pensao\SUBPROGRAMS\functions.py", line 147, in enter_coligada
+    click_alterar_contexto = cc.wait_appear(locator.rm.menuitem_alterar_contexto_do_módulo, wait_timeout=15)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Pensao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+27-06-2024 12:06:05.855Z;functions.show_exception_and_exit;  RM FECHADO

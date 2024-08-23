@@ -1,0 +1,62 @@
+29-01-2024 18:19:04.799Z;functions.bot_text_art;      ____     
+29-01-2024 18:19:04.799Z;functions.bot_text_art;     [____]    
+29-01-2024 18:19:04.799Z;functions.bot_text_art;   |=]()()[=|  
+29-01-2024 18:19:04.799Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __ 
+29-01-2024 18:19:04.799Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ / 
+29-01-2024 18:19:04.799Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' /  
+29-01-2024 18:19:04.799Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <   
+29-01-2024 18:19:04.799Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \  
+29-01-2024 18:19:04.815Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\ 
+29-01-2024 18:19:04.815Z;functions.bot_text_art;     |_||_|    
+29-01-2024 18:19:04.815Z;functions.bot_text_art;     | ||_|_   
+29-01-2024 18:19:04.815Z;functions.bot_text_art;   |___||___|  
+29-01-2024 18:19:04.815Z;functions.bot_text_art;               
+29-01-2024 18:19:04.815Z;functions.open_RM;  OPEN PROGRAM RM
+29-01-2024 18:19:10.846Z;functions.loggin_RM;  ENTRAR USER_NAME
+29-01-2024 18:19:11.692Z;functions.loggin_RM;  ENTRAR PASSWORD
+29-01-2024 18:19:12.393Z;functions.loggin_RM;  ENTRAR RM
+29-01-2024 18:19:37.425Z;functions.enter_coligada;  CLICK CONTEXTO
+29-01-2024 18:19:41.362Z;functions.enter_coligada;  CLICK COLIGADA 1
+29-01-2024 18:19:42.738Z;functions.enter_coligada;  CLICK AVANÇAR
+29-01-2024 18:19:44.300Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+29-01-2024 18:19:44.401Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+29-01-2024 18:19:45.237Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+29-01-2024 18:19:46.018Z;functions.enter_coligada;  CLICK CONCLUIR
+29-01-2024 18:19:56.628Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+29-01-2024 18:19:57.237Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+29-01-2024 18:19:58.331Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+29-01-2024 18:20:00.675Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+29-01-2024 18:20:05.299Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+29-01-2024 18:20:05.393Z;functions.waitForImage;  LANÇAMENTOS image found.
+29-01-2024 18:20:07.567Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+29-01-2024 18:20:22.972Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+29-01-2024 18:20:22.972Z;functions.data_filter;  DATA INICIO 31-01-2024
+29-01-2024 18:20:22.972Z;functions.data_filter;  DATA FIM 06-02-2024
+29-01-2024 18:20:22.972Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-01-2024 18:20:22.972Z;functions.data_filter;  QUARTA-FEIRA: 31-01-2024
+29-01-2024 18:20:22.972Z;functions.data_filter;  TERCA-FEIRA: 06-02-2024
+29-01-2024 18:20:25.909Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+29-01-2024 18:20:26.549Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+29-01-2024 18:20:28.409Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 31-01-2024
+29-01-2024 18:20:29.909Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 06-02-2024
+29-01-2024 18:20:30.550Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+29-01-2024 18:20:36.362Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+29-01-2024 18:20:37.190Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+29-01-2024 18:20:38.050Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+29-01-2024 18:20:38.945Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-01-2024 18:20:39.831Z;functions.desmark_filter;  ATUALIZA O FILTRO
+29-01-2024 18:20:39.831Z;functions.filter_clean;  FUNÇÃO LIMPA FILTRO, 60 segundos
+29-01-2024 18:20:39.909Z;functions.waitForImage;  FILTER CLEAN image found.
+29-01-2024 18:20:42.026Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+29-01-2024 18:20:44.026Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+29-01-2024 18:20:56.737Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 1 registros?
+29-01-2024 18:20:58.853Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+29-01-2024 18:20:59.831Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+29-01-2024 18:20:59.937Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+29-01-2024 18:21:02.643Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+29-01-2024 18:21:04.744Z;functions.desbloqueio;  SETA PARA DIREITA
+29-01-2024 18:21:07.655Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+29-01-2024 18:21:09.756Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
